@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/ammar/Documents/swork/lab2os",
+            "binaryPath": "/home/ammar/Documents/swork/lab2os/main",
+            "binaryArgs": []
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "name": "CS-2005 Database Systems BDS-4C",
+  "section": "4C",
+  "room": "cs-4",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom87340169@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/vee-eeuk-dve",
+  "courseFolder": {
+    "id": "1yYsHGL5bR2sQD8-Zbk4f4a6C2_AxRviEsikcjudiHQzkhpO0FgrGhFy72EmvfNnq0R87Fjf_",
+    "name": "CS-2005 Database Systems BDS-4C 4C",
+    "openUrl": "https://drive.google.com/drive/folders/1yYsHGL5bR2sQD8-Zbk4f4a6C2_AxRviEsikcjudiHQzkhpO0FgrGhFy72EmvfNnq0R87Fjf_"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_learnlanguage.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Sana Fatima"
+      },
+      "emailAddress": "sana.fatima@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-04-19T09:04:36.428Z",
+    "updateTime": "2023-05-08T09:22:04.077Z",
+    "publicationTime": "2023-04-19T09:05:15.960Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "A5 (ER and EER)",
+      "dueTime": "2023-05-09T08:00:00Z",
+      "maxPoints": 70.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1h3CCLFlbPwMbK9py3HBsLPrQ52bCl-Sj",
+              "title": "db-a5-l200961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1h3CCLFlbPwMbK9py3HBsLPrQ52bCl-Sj/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO6Ok4_jwLalVOrGt7d-yHmrKkEcbx79qSodRGtqP276Y2W0d3C9TY3pts9VK5OBVqpVcB2vrhVlWt6fzmuexKFAwRARr09I4OuwveyirT9lNc\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sana Fatima"
+      },
+      "emailAddress": "sana.fatima@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-03-25T12:42:43.413Z",
+    "updateTime": "2023-03-25T12:42:43.376Z",
+    "publicationTime": "2023-03-25T12:42:43.073Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "A3 submission",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ds3ZMhQNLClC_ti7YxPH4tXCk0SsdWwj",
+              "title": "l200961 db a3.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1ds3ZMhQNLClC_ti7YxPH4tXCk0SsdWwj/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNyKnURir_zj5Gq84oerxKCPKlmYgCCD0rl7lQhviKiZ3wKWw0ytH_4OKhyrER_5MY5Ja3Q107L7PZg3fNd_mwFZSb8Z3etJaRdzNE4Y9P6mdQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sana Fatima"
+      },
+      "emailAddress": "sana.fatima@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-02-15T10:55:47.502Z",
+    "updateTime": "2023-02-26T07:17:06.090Z",
+    "publicationTime": "2023-02-15T10:55:46.155Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Rq9oT5wWjRP7KhGsglhlTIeYq1l3bG1A",
+          "title": "assignment 2 joins,sql,RA.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Rq9oT5wWjRP7KhGsglhlTIeYq1l3bG1A/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNeQ-uQpl82pULQ0ouACDAVm2Hy5YK2gLMdw8ryx7KK_EjLJe9DsKvqU4BM4JnoEsb_b57PZSNwYYaSt7EZVPS9W-I9s8FOEZs9Fxk311ZFYZc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment#2",
+      "description": "Submit hand written scanned assignment in google classroom and hardcopy in class.",
+      "descriptionHtml": "\u003cdiv\u003eSubmit hand written scanned assignment in google classroom and hardcopy in class.\u003c/div\u003e",
+      "dueTime": "2023-03-06T18:59:00Z",
+      "maxPoints": 80.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1LZ6a1VxVWdf5BGHvoe6klBMWmxYd3Qea",
+              "title": "a2.sql",
+              "alternateLink": "https://drive.google.com/file/d/1LZ6a1VxVWdf5BGHvoe6klBMWmxYd3Qea/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sana Fatima"
+      },
+      "emailAddress": "sana.fatima@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-02-09T03:56:20.813Z",
+    "updateTime": "2023-02-14T08:15:35.498Z",
+    "publicationTime": "2023-02-09T03:56:19.516Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1AR8WFq4Xyl__fIJRr91cpmohTpBNxIBc",
+          "title": "Spring2023_DB_A1_RelationalModel.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1AR8WFq4Xyl__fIJRr91cpmohTpBNxIBc/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMPHb0uVYraA9aYrOJ2cnSt8zyHC2FrwBcU8HuvCuIIb6Dwmfv3q4F5fq43buXWOtF8aYEtfcnJRey5x79jU4W0z7CM9YV9rVC_NCBPD9MobA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "A1",
+      "dueTime": "2023-02-17T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1LYN-BFRmtVtHpim71JI60S6EWS4LH8GV",
+              "title": "l200961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1LYN-BFRmtVtHpim71JI60S6EWS4LH8GV/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMh90emEBx2GeBYCxuAZM_xOh0QlO5ME6Cr3QD1J9t3NkyBf8mnXvGnJHg_075vS1Tw0M9bafU8B0nV8uEPak1vmRg8qWYKShv3Lsv8PBlbZe4\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sana Fatima"
+      },
+      "emailAddress": "sana.fatima@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-02-07T06:33:02.779Z",
+    "updateTime": "2023-02-07T06:33:02.464Z",
+    "publicationTime": "2023-02-07T06:33:02.264Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "HW#1",
+      "dueTime": "2023-02-10T18:59:00Z",
+      "maxPoints": 90.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ARTLeOlYoH1FmljinJdgLFUtQb7lBLeF",
+              "title": "dbhw1-l200961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1ARTLeOlYoH1FmljinJdgLFUtQb7lBLeF/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOgS1Um38nmeidKeRuJTRJMl5ci2L3A9FDOf5Hj77QU5N_Cm79gva7fSb3PbJNP_AGd4HnAF3CuefEL3rONRH_BebMxhhKU0T0Ek_2SQU1C900\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

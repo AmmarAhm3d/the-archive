@@ -1,0 +1,88 @@
+
+ -> Provide the number of students who have completed the registration.
+   Select count(distinct(s.StudentID)) as total_students from Students 
+  inner join Registration r                       
+  on s.StudentID=r.StudentID
+    
+                                                   
+                                                                                 
+                                                      
+                                                                             
+ -> Provide student that has max Cgpa
+    select max(CgPA) as m_cgpa from students
+
+
+ -> Provide student that has min Cgpa
+    select min(CgPA) as m_cgpa from students
+
+ -> Provide Average GPA of registered student "Ali"
+  
+ Select AVG(GPA) as Avg_GPA from Students 
+  inner join Registration r                       
+  on s.StudentID=r.StudentID
+  where StudentName="Ali"
+
+
+ -> Find Number of students in each batch                 
+                                                             
+   Select StudentBatch,Count(*) as total
+    from students
+    group by StudentBatch                                   
+  
+
+ -> list the batches that have 200 minimum students 
+
+   Select StudentBatch,Count(*) as total
+    from students
+    group by StudentBatch 
+    having  total>=200  // Count(*)>=200
+    
+ -> list the students Id's that have registered minimum four courses
+ 
+ select s.StudentID,s.studentname,count(*) as total_courses from Students 
+  inner join Registration r                       
+  on s.StudentID=r.StudentID
+  join Courses c
+  on c.CoursID=r.CourseID 
+ group by s.StudentID,s.studentname
+ having count(*)>=4
+   
+
+ -> list the student iD's,name  with registered number of course credit Hours
+    
+select s.StudentID,s.studentname, Sum(CourseCreditHours) as total_reg_credithours from Students 
+  inner join Registration r                       
+  on s.StudentID=r.StudentID
+  join Courses c
+  on c.CoursID=r.CourseID 
+  group by s.StudentID,s.studentname
+  
+ -> list the student iD's,name with with registered number of course credit Hours more than 15
+
+   select s.StudentID,s.studentname, Sum(CourseCreditHours) as total_reg_credithours from Students 
+  inner join Registration r                       
+  on s.StudentID=r.StudentID
+  join Courses c
+  on c.CoursID=r.CourseID 
+  group by s.StudentID,s.studentname
+  having Sum(CourseCreditHours)>15
+
+ -> Provide studentid ,Average credithours of registered students
+
+select s.StudentID,AVg(CourseCreditHours) as Avg_Credithours from Students 
+  inner join Registration r                       
+  on s.StudentID=r.StudentID
+  join Courses c
+  on c.CoursID=r.CourseID 
+   group by s.StudentID
+
+ -> Provide studentid ,Average credithours of registered students name is "Ali"
+
+select s.StudentID,AVg(CourseCreditHours) as Avg_Credithours from Students 
+  inner join Registration r                       
+  on s.StudentID=r.StudentID
+  join Courses c
+  on c.CoursID=r.CourseID 
+ where StudentName="Ali"
+  
+ 

@@ -1,0 +1,738 @@
+{
+  "version": 1,
+  "name": "BDS-3B Data Structure",
+  "section": "3B",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom89978cfb@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1rL-0YzuGSAkzLhLkDTpeRq5Wi9oVZtAbM62DNymqUBjXySETIfXQ75AqGEZbkAxWDe9wgMRd",
+    "name": "BDS-3B Data Structure 3B",
+    "openUrl": "https://drive.google.com/drive/folders/1rL-0YzuGSAkzLhLkDTpeRq5Wi9oVZtAbM62DNymqUBjXySETIfXQ75AqGEZbkAxWDe9wgMRd"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_graduation.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-12-04T17:51:39.768Z",
+    "updateTime": "2022-12-05T08:02:26.171Z",
+    "scheduledTime": "2022-12-05T08:00:00Z",
+    "publicationTime": "2022-12-05T08:02:26.150Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1FB3_klnUHFD9ob40hsYs99pGZzWYyi8c",
+          "title": "BDS-3B Lab 13.docx",
+          "alternateLink": "https://drive.google.com/file/d/1FB3_klnUHFD9ob40hsYs99pGZzWYyi8c/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOyrmOIWmLDatdXg9PF245vOFS783_g9ssbY4Qgf8AKcJk36_ieYSozBxqSoSKueR0gMY0db39GpW-YS8Jym4m6yYk1LlEWYXqmcWXNb8isuLo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 13",
+      "dueTime": "2022-12-05T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ds-UvLzhjwOmsJCZDs3lPBr-PH5_BO3V",
+              "title": "l200961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1ds-UvLzhjwOmsJCZDs3lPBr-PH5_BO3V/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNsOILCDCc58uwzyMMRTBBQgChwf0ZWt9S8CDmYgBdL7zlor0oav2zwaGZdCfJv2Ezn7O0_ccVZppE_Xr378BSV769JHJ2rSrm832uIfYg3JP8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-11-27T18:20:07.063Z",
+    "updateTime": "2022-11-28T16:25:25.295Z",
+    "scheduledTime": "2022-11-28T08:00:00Z",
+    "publicationTime": "2022-11-28T08:04:47.181Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1bfdJxEEn1Yp9nmauqgjvOEbGAnW9PAFh",
+          "title": "Lab 12.docx",
+          "alternateLink": "https://drive.google.com/file/d/1bfdJxEEn1Yp9nmauqgjvOEbGAnW9PAFh/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP9b7RCJBYwBO6cOfqoUy89MgJcKwKt9e7JJ0IcXrW_rGgbvXyHeWanlG6LIigHHbh1x-jEoa4Dgs72WRLerV3d3rK_y_R8tgdeQgBAiokl33k\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 12",
+      "dueTime": "2022-11-28T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1yR7zdOf1se2yEoqo73U33effJLzbcwlv",
+              "title": "l200961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1yR7zdOf1se2yEoqo73U33effJLzbcwlv/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMKjlVB1nuQReEki7jJxj1a-OJ6FDYCHDjRiIdIRQ3kirQo57XH50V4d6uCvklpFSAv9tjebqpLBXHnrUkOsezXwLLjuIKdFW4YBkD7OK6dUEo\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-11-20T15:08:39.813Z",
+    "updateTime": "2022-11-21T08:04:50.038Z",
+    "scheduledTime": "2022-11-21T08:00:00Z",
+    "publicationTime": "2022-11-21T08:04:49.966Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1HofTP0STrWDMTzOMggFowMRAHkPaFzbC",
+          "title": "Lab-11 BDS-3B.docx",
+          "alternateLink": "https://drive.google.com/file/d/1HofTP0STrWDMTzOMggFowMRAHkPaFzbC/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPLlPEgSAt0CfCOEqHp9PVVSqTHUYvsjlGyCgRIHzrP5kOQWYkNUKDO1SRohR00ipjIslzVATdRXeqbDjr3ARmzLRxHkkH8nDOouE__mC5iDTw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 11",
+      "dueTime": "2022-11-21T10:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Cs4WVSlLjPo_8sRUajcUOyC9cvpeIW9P",
+              "title": "l200961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1Cs4WVSlLjPo_8sRUajcUOyC9cvpeIW9P/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMRua4Q0wdHCy2MWxMXRyNs0BsAzlly8NhhWP3lkmSdpIRyS2T5bL-K2zTxWhnNilOXxAwDo1iEgU88cXFHOudVbiqD3WxrfWnInZVrr3dbdgQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-11-14T10:26:18.483Z",
+    "updateTime": "2022-11-14T10:26:18.030Z",
+    "publicationTime": "2022-11-14T10:26:18.001Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Quiz 2",
+      "dueTime": "2022-11-14T10:50:38.369Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1lpCcY0q35_8iRomMWjB-aOyUPdbbB7vu",
+              "title": "l200961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1lpCcY0q35_8iRomMWjB-aOyUPdbbB7vu/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM4CzCgsjpQu7YpJ8KEyc-TZzUcSCDOg7Z9hp7KSgS9Y603Wo9l6-TEdcNy0QYmckVJ-l7RGxYgZw0DWHZJ9UlaKGTBTXkwTykWmWP5AXP9G1c\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-11-13T18:09:49.068Z",
+    "updateTime": "2022-11-14T08:02:27.939Z",
+    "scheduledTime": "2022-11-14T08:00:00Z",
+    "publicationTime": "2022-11-14T08:02:27.914Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1gO5uxnMqs_QeotUQfBlRpppOjEk6qX0i",
+          "title": "LAB Manual BDS-3B .pdf",
+          "alternateLink": "https://drive.google.com/file/d/1gO5uxnMqs_QeotUQfBlRpppOjEk6qX0i/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM74DzRckXIDjCvcK8qBR34CQXzal_Ujr7HZeVm8fGnL5Nt73nFK2v3uNAhuMNxKIsybSl5SR3IqsI_jYzQLjMUdrPfIBNyc_--hZSSBi2P9hk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 10",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1OzYXLjaNEZ-WdFNxMIKvD8p7oUsqZAIG",
+              "title": "l200961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1OzYXLjaNEZ-WdFNxMIKvD8p7oUsqZAIG/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN1moew_NUgZqahCsmqadhmQa666VYRo-4CAYTFPbXQzHdgXnETqKGGrLki8WDS6-oxbR28S5AojXrUvA9XdlaI-rYg3ba4VownTwRhxjmAecE\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-11-06T19:15:26.573Z",
+    "updateTime": "2022-11-07T16:09:32.746Z",
+    "scheduledTime": "2022-11-07T08:00:00Z",
+    "publicationTime": "2022-11-07T08:00:44.329Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1AEOPzzZqBaVmsYqDfm8RhoKXtuWcoxhN",
+          "title": "Lab 9 BDS-3B.docx",
+          "alternateLink": "https://drive.google.com/file/d/1AEOPzzZqBaVmsYqDfm8RhoKXtuWcoxhN/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNdUjNKs-sdMMQM4MrDgWXrfP4syxx_JQ2QvZcwrGX5SZQRriuj6tKgL0fImgdDzwHMYe8v0rU846KfYC7zF_HiDFBbbTfG5rNp65tUSWWJcGk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1yta-uDnVc63tQbFdyYDyGWShqbELg1Iq",
+          "title": "students.txt",
+          "alternateLink": "https://drive.google.com/file/d/1yta-uDnVc63tQbFdyYDyGWShqbELg1Iq/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMBw962kL9Z7Qq-f9HJ3hhYITZofAP29H8A1i9E8r7KN1mLT8ViX-EKvAuyHTzkO6FURf29ecRrBHVsMesP01szq5jLfnwkpRY4P-5SWMXt8qE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 9",
+      "dueTime": "2022-11-08T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1WOmd8I7reiaBP6AT9oY7waM2j0cyL-5Z",
+              "title": "l200961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1WOmd8I7reiaBP6AT9oY7waM2j0cyL-5Z/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOcPkZzbbgtIT_LUIimEeBVCZwkvIe00o3x7vF1FtnhlG4vhr0kz01Sbs0LNGODZ9zo5ca08vLS-gmCqp3dXi57SK_EGHrmKhj8iYKZdw1lJKA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-10-30T15:03:39.341Z",
+    "updateTime": "2022-10-31T08:04:53.076Z",
+    "scheduledTime": "2022-10-31T08:00:00Z",
+    "publicationTime": "2022-10-31T08:04:52.992Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1UTUGjZi13Fyn5iaD2y42OgK_Kg9oFhw6",
+          "title": "BDS 3B Lab 8.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1UTUGjZi13Fyn5iaD2y42OgK_Kg9oFhw6/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO-vTeQ_JT27GSxtp3YY0l44l5rkzB1gpWB0VWr6KbHcoxnJ0XTZBlKFX_MQwdtaSQbimRbOCnNuIP5ivkApgMU1GAg_8mhcscxIOfabOiQPy4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 8",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1IkfKCADLgYdzqAT44NAeC2ehAaHE3xkR",
+              "title": "l200961.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1IkfKCADLgYdzqAT44NAeC2ehAaHE3xkR/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNlONF1tHto1Ibta5LfTjCTy8f4nhYduwdSeTPXcyZ2Pl28Oy9KJ5ZumT6tfetMpVTI2dhObszF2SizbHOpzRfUuGVKvV1MeqH1voM7vFgH4V4\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-10-17T03:20:56.701Z",
+    "updateTime": "2022-10-17T08:03:04.923Z",
+    "scheduledTime": "2022-10-17T08:00:00Z",
+    "publicationTime": "2022-10-17T08:03:04.821Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1zGAE0to4UESm0lC4OxXT5QHBqMB4MDEd",
+          "title": "Lab 7 BDS 3B.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1zGAE0to4UESm0lC4OxXT5QHBqMB4MDEd/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOi3n72DUhGaDW1umKcUGqi6rTn_ls2BWbsIkSdI0Kmu3EA3KlUE5QxBm3Cflhkk_Eh5tfr4Op5j2BdwoU4LRXSTyqN9Zm6X6GQM0N-b9IuZm0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 7",
+      "dueTime": "2022-10-17T10:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1KFKkGGNW1PoNSoY9-6kKkmOuDUBjQK89",
+              "title": "p3.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1KFKkGGNW1PoNSoY9-6kKkmOuDUBjQK89/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNNI3dVOdAr_UxgKX02TyIBJY-pCTAwEUrHx6qgywqB-Blq0nGT8H9rzfqy4X5Mlx5jrha87vd17lU-uDgvW9Y_G9LzqcoLCKkXNQGRqnS7nR8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "14-SmKsHlCGbTWYfWczs8F8ao_orWpd4_",
+              "title": "p2.cpp",
+              "alternateLink": "https://drive.google.com/file/d/14-SmKsHlCGbTWYfWczs8F8ao_orWpd4_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPCva0e__U_RRVokTDyjBLZjuaJUqnscnNpe_fuJRteFoM-SnWS8r9W8Elf27ny4QNaFtxueNkvL26_RDAsagypWcoLx_QYRndTqduCa_m3z2g\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1GHp1hkuImlrE2-jWAI56O5WL1VMS3kDy",
+              "title": "p1.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1GHp1hkuImlrE2-jWAI56O5WL1VMS3kDy/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPiE6t84214JjGCa2Z-AnUsvZvjNVDfVZSs5Mt-PEndTUA350bziLPPM9GHQ1ObSO8aiaTu3QiNlGeF3xA_cC1TPe515F4q9-AQs8UpyjEALPg\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1LHHwEj1szVgyDfXVyegw2s8jaYQ2XUNt",
+              "title": "p4.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1LHHwEj1szVgyDfXVyegw2s8jaYQ2XUNt/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNvNnl5R7VmRj42hlit1FKryGBb5MrVJpKFbvbnEXSbBz6U60PkhvdTGYeii9uGdM3Z9hR7NEe8GAsttPf8YohggD38N4QrMX38vsK_YxGR3_8\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1gWrC19cokqU4eHwPX0e4wELEGEfwxx8k",
+              "title": "p5.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1gWrC19cokqU4eHwPX0e4wELEGEfwxx8k/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOOZ_5_F9NET9MKgnkJ3kRHFnWomb05iiOHkQVqrEHf2WmA8v9so5vxFvuLUu6Fys-hZGVu1L5f3YyvHcpCkHRqZBSDYGAqT5tPWf3fulWwJn8\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-10-10T03:11:31.903Z",
+    "updateTime": "2022-10-11T09:05:08.649Z",
+    "scheduledTime": "2022-10-10T08:30:00Z",
+    "publicationTime": "2022-10-10T08:31:35.724Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1esJLfuO1XGJi8XzmWiuw9YFK-BqcDtyh",
+          "title": "lab manual 6.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1esJLfuO1XGJi8XzmWiuw9YFK-BqcDtyh/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM8atPCdGx8fv6HscnosSzoS1kmo47hfSbVMmMs988qsOQ3mqpc1waR3-5GvUVZeTzhK6VXtr_ZlOJmgY6B3dFv8sNUuBxMYOvJ86RwG0IeimU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 6",
+      "dueTime": "2022-10-11T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1R_yNUlTKdk9FXmR2FB8BN4uNP2VrFmEi",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1R_yNUlTKdk9FXmR2FB8BN4uNP2VrFmEi/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-10-02T11:47:25.651Z",
+    "updateTime": "2022-10-03T08:04:49.897Z",
+    "scheduledTime": "2022-10-03T08:00:00Z",
+    "publicationTime": "2022-10-03T08:04:49.871Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1QPBdtZ1IT6CjhZg_pyMIAz8vpqGbLtuA",
+          "title": "Lab Manual-05.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1QPBdtZ1IT6CjhZg_pyMIAz8vpqGbLtuA/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPXLbQ6cuYdJkucuinlxJkbvaTCPWm7WW8PNhAEv8l-HkYfm6DtI0xF2QZE2sLewhnIibiOizSOBSC05_hddfSRI9N8WNwetqH0oPMK5cf-Ioc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 5",
+      "dueTime": "2022-10-03T11:10:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18VElj3xBDjXdy98knK7h1LsfwnICgibq",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/18VElj3xBDjXdy98knK7h1LsfwnICgibq/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-09-19T04:12:20.170Z",
+    "updateTime": "2022-09-19T15:21:26.424Z",
+    "scheduledTime": "2022-09-19T08:00:00Z",
+    "publicationTime": "2022-09-19T08:00:30.229Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1tQAS167L4r1OUbrJtCa45mAxrz8mRy8t",
+          "title": "BDS-3B Lab-4 (DS).pdf",
+          "alternateLink": "https://drive.google.com/file/d/1tQAS167L4r1OUbrJtCa45mAxrz8mRy8t/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMzG7gg53GrZ6SYLrpUVWp_IbhTOsUuPAHS-0Qm3Drp4KGKB-V-vlDvPT1yussH45414csk4sw4B2-teOtI3cnGG_KEn_tMVtbXYx-xglkIguk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 4",
+      "dueTime": "2022-09-19T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1DFtNAfX5cGltkatIbgq3JA_YJ7nZnGU_",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1DFtNAfX5cGltkatIbgq3JA_YJ7nZnGU_/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-09-12T08:06:34.793Z",
+    "updateTime": "2022-09-12T18:22:50.069Z",
+    "publicationTime": "2022-09-12T08:06:33.463Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1LWA0tIVi8xQKZEqHVDm8QPTvppy7wNUB",
+          "title": "Lab 3 BDS-3B DS.docx",
+          "alternateLink": "https://drive.google.com/file/d/1LWA0tIVi8xQKZEqHVDm8QPTvppy7wNUB/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMDBYDBsyAtoxCN8TO9WXteGlwE7hNG3E7kdldyoFbLSBY5niTWybmJT7B86fGtoIpeojWjW40bu_aaF33flw_veMYky5g5PuPMj_H5z9onBpg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 3",
+      "dueTime": "2022-09-13T18:59:13.702Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1TBpceK_AFe37dghPCeuddHzUpDcycP2g",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1TBpceK_AFe37dghPCeuddHzUpDcycP2g/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sonia Anum"
+      },
+      "emailAddress": "sonia.anum@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-09-05T09:24:32.613Z",
+    "updateTime": "2022-09-05T09:26:01.062Z",
+    "publicationTime": "2022-09-05T09:24:32.057Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Lab 2",
+      "dueTime": "2022-09-05T11:05:03.580Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1knyeu2cGYopXz8n7eRGj9T42A0O4l5an",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1knyeu2cGYopXz8n7eRGj9T42A0O4l5an/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1yLnvU4EuQUQDslahggg_AjLnuxwVfG9E",
+              "title": "working lab2 q1 l200961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1yLnvU4EuQUQDslahggg_AjLnuxwVfG9E/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNknDIbkzUdXxWStN4Y8_4f0Z7rUyuBGWNAlUmakzIsgUJpc83UcyX3SCuvcptSqaxizBDTSjDfEg5vcHe3RWpDUwWL59zA3B6VZ3IeApdA198\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "samia akhter"
+      },
+      "emailAddress": "samia.akhter@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-08-29T07:49:11.955Z",
+    "updateTime": "2022-08-29T07:51:10.064Z",
+    "publicationTime": "2022-08-29T07:51:09.896Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14Ru60DWRaMLFUOeMYwT3EJQK1lIh8fh9",
+          "title": "Lab1_A.docx",
+          "alternateLink": "https://drive.google.com/file/d/14Ru60DWRaMLFUOeMYwT3EJQK1lIh8fh9/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPgJ2VSdEtldsjNUf_HnRIJK4hTc9YT-jw4Q1fIzi7jhxuWCgpS8llszC_-zozHtBymawmBDZD8R-BmGZP57mfr0chA7tQXIEsecDM7FCMXLZQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "LAb 1 DS",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1NJ9XaxQP3nWKeVbhthf3WDUQeuatKFiy",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1NJ9XaxQP3nWKeVbhthf3WDUQeuatKFiy/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

@@ -1,0 +1,191 @@
+use master
+go
+DROP DATABASE IF EXISTS enrollment_db;
+go
+use master
+go
+create database enrollment_db
+go
+use enrollment_db;
+go
+create table Students
+(RollNo varchar(7) primary key
+,Name varchar(30)
+,WarningCount int
+,Department varchar(15)
+)
+GO
+INSERT [dbo].[Students] ([RollNo], [Name], [WarningCount], [Department]) VALUES (N'1', N'Ali', 0, N'CS')
+INSERT [dbo].[Students] ([RollNo], [Name], [WarningCount], [Department]) VALUES (N'2', N'Bilal', 0, N'CS')
+INSERT [dbo].[Students] ([RollNo], [Name], [WarningCount], [Department]) VALUES (N'3', N'Ayesha', 0, N'CS')
+INSERT [dbo].[Students] ([RollNo], [Name], [WarningCount], [Department]) VALUES (N'4', N'Ahmed', 0, N'CS')
+INSERT [dbo].[Students] ([RollNo], [Name], [WarningCount], [Department]) VALUES (N'5', N'Sara', 0, N'EE')
+INSERT [dbo].[Students] ([RollNo], [Name], [WarningCount], [Department]) VALUES (N'6', N'Salman', 1, N'EE')
+INSERT [dbo].[Students] ([RollNo], [Name], [WarningCount], [Department]) VALUES (N'7', N'Zainab', 2, N'CS')
+INSERT [dbo].[Students] ([RollNo], [Name], [WarningCount], [Department]) VALUES (N'8', N'Danial', 1, N'CS')
+
+go
+create table Courses
+(
+CourseID int primary key,
+CourseName varchar(40),
+PrerequiteCourseID int,
+CreditHours int
+) 
+GO
+INSERT [dbo].[Courses] ([CourseID], [CourseName], [PrerequiteCourseID],CreditHours) VALUES (10, N'Database Systems', 20, 3)
+INSERT [dbo].[Courses] ([CourseID], [CourseName], [PrerequiteCourseID],CreditHours) VALUES (20, N'Data Structures', 30,3)
+INSERT [dbo].[Courses] ([CourseID], [CourseName], [PrerequiteCourseID],CreditHours) VALUES (30, N'Programing', NULL,3)
+INSERT [dbo].[Courses] ([CourseID], [CourseName], [PrerequiteCourseID],CreditHours) VALUES (40, N'Basic Electronics', NULL,3)
+go
+
+go
+Create table Instructors 
+(
+InstructorID int Primary key,
+Name varchar(30),
+Department varchar(7) ,
+)
+GO
+INSERT [dbo].[Instructors] ([InstructorID], [Name], [Department]) VALUES (100, N'Ishaq Raza', N'CS')
+INSERT [dbo].[Instructors] ([InstructorID], [Name], [Department]) VALUES (200, N'Zareen Alamgir', N'CS')
+INSERT [dbo].[Instructors] ([InstructorID], [Name], [Department]) VALUES (300, N'Saima Zafar', N'EE')
+go
+Create table Semester
+(
+Semester varchar(15) Primary key,
+[Status] varchar(10),
+)
+GO
+INSERT [dbo].[Semester] ([Semester], [Status]) VALUES (N'Fall2016', N'Complete')
+INSERT [dbo].[Semester] ([Semester], [Status]) VALUES (N'Spring2016', N'Complete')
+INSERT [dbo].[Semester] ([Semester], [Status]) VALUES (N'Spring2017', N'InProgress')
+INSERT [dbo].[Semester] ([Semester], [Status]) VALUES (N'Summer2016', N'Cancelled')
+go
+Create table Courses_Semester
+(
+InstructorID int Foreign key References Instructors(InstructorID),
+CourseID int Foreign key References Courses(CourseID),
+Semester varchar(15) Foreign key References Semester(Semester), 
+Section varchar(1) ,
+AvailableSeats int,
+Department varchar(2)
+)
+GO
+INSERT [dbo].[Courses_Semester] ([InstructorID], [CourseID], [Semester], [Section], [AvailableSeats], [Department]) VALUES (200, 10, N'Spring2017', N'D', 45, N'CS')
+INSERT [dbo].[Courses_Semester] ([InstructorID], [CourseID], [Semester], [Section], [AvailableSeats], [Department]) VALUES (200, 10, N'Spring2017', N'C', 0, N'CS')
+INSERT [dbo].[Courses_Semester] ([InstructorID], [CourseID], [Semester], [Section], [AvailableSeats], [Department]) VALUES (100, 10, N'Spring2017', N'A', 6, N'CS')
+INSERT [dbo].[Courses_Semester] ([InstructorID], [CourseID], [Semester], [Section], [AvailableSeats], [Department]) VALUES (300, 40, N'Spring2017', N'A', 6, N'CS')
+INSERT [dbo].[Courses_Semester] ([InstructorID], [CourseID], [Semester], [Section], [AvailableSeats], [Department]) VALUES (300, 40, N'Spring2016', N'A', 6, N'CS')
+INSERT [dbo].[Courses_Semester] ([InstructorID], [CourseID], [Semester], [Section], [AvailableSeats], [Department]) VALUES (200, 10, N'Spring2016', N'A', 0, N'CS')
+
+go
+
+
+
+create table Registration
+(
+Semester varchar(15) Foreign key References Semester(Semester),
+RollNumber  varchar(7) Foreign key References Students(RollNo),
+CourseID int Foreign key References Courses(CourseID), 
+Section varchar(1),
+GPA float
+)
+INSERT [dbo].[Registration] ([Semester], [RollNumber], [CourseID], [Section],GPA) VALUES (N'Fall2016', N'1', 20, N'A', 3.3)
+INSERT [dbo].[Registration] ([Semester], [RollNumber], [CourseID], [Section],GPA) VALUES (N'Fall2016', N'2', 20, N'B', 4)
+INSERT [dbo].[Registration] ([Semester], [RollNumber], [CourseID], [Section],GPA) VALUES (N'Spring2016', N'1', 30, N'A', 1.0)
+INSERT [dbo].[Registration] ([Semester], [RollNumber], [CourseID], [Section],GPA) VALUES (N'Fall2016', N'6', 40, N'D',0.0)
+INSERT [dbo].[Registration] ([Semester], [RollNumber], [CourseID], [Section],GPA) VALUES (N'Spring2017', N'6', 40, N'D',1)
+
+
+go
+
+Create table ChallanForm
+(Semester varchar(15) Foreign key References Semester(Semester),
+RollNumber  varchar(7) Foreign key References Students(RollNo),
+TotalDues int,
+[Status] varchar(10)
+)
+GO
+INSERT [dbo].[ChallanForm] ([Semester], [RollNumber], [TotalDues], [Status]) VALUES (N'Fall2016', N'1', 100000, N'Paid')
+INSERT [dbo].[ChallanForm] ([Semester], [RollNumber], [TotalDues], [Status]) VALUES (N'Fall2016', N'2', 13333, N'Paid')
+INSERT [dbo].[ChallanForm] ([Semester], [RollNumber], [TotalDues], [Status]) VALUES (N'Fall2016', N'3', 5000, N'Paid')
+INSERT [dbo].[ChallanForm] ([Semester], [RollNumber], [TotalDues], [Status]) VALUES (N'Fall2016', N'4', 20000, N'Pending')
+
+
+select * from Students
+select * from Courses
+select * from Instructors
+select * from Registration
+select * from Semester
+select * from Courses_Semester
+select * from ChallanForm
+
+-- DROP PROCEDURE IF EXISTS RegisterStudent;
+GO
+CREATE PROCEDURE RegisterStudent
+(
+    @StudentID INT,
+    @CourseID INT
+)
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    DECLARE @CGPA FLOAT;
+    DECLARE @ErrorMessage NVARCHAR(4000);
+
+    BEGIN TRY
+        BEGIN TRANSACTION;
+        
+        
+        -- calculate CGPA
+        SELECT @CGPA = SUM(GPA * CreditHours) / SUM(CreditHours) from Students, Registration , Courses where Registration.CourseID = Courses.CourseID and RollNumber = @StudentID
+        -- check if student is eligible to register for course based on CGPA
+        
+        IF @CGPA IS NULL
+        BEGIN
+            SET @ErrorMessage = 'Student not found';
+            THROW 50000, @ErrorMessage, 1;
+        END
+
+        IF @CGPA < 2.5
+        BEGIN
+            SET @ErrorMessage = 'Cannot register for course as CGPA is less than 2.5. You can only enroll in subjects that you can improve.';
+            THROW 50001, @ErrorMessage, 1;
+        END
+
+        -- check if student is already registered for course
+        IF EXISTS (SELECT 1 FROM Registration WHERE RollNumber = @StudentID AND CourseID = @CourseID)
+        BEGIN
+            SET @ErrorMessage = 'Student is already registered for this course';
+            THROW 50002, @ErrorMessage, 1;
+        END
+
+        -- insert values into Registration table
+        INSERT INTO Registration (RollNumber, CourseID)
+        VALUES (@StudentID, @CourseID);
+
+        COMMIT TRANSACTION;
+    END TRY
+
+    BEGIN CATCH
+        IF @@TRANCOUNT > 0
+        BEGIN
+            ROLLBACK TRANSACTION;
+        END
+
+        SET @ErrorMessage = ERROR_MESSAGE();
+        RAISERROR (@ErrorMessage, 16, 1);
+    END CATCH
+END
+GO
+
+-- register student for course
+EXEC RegisterStudent @StudentID =  '2', @CourseID =  '10';
+
+-- already registered
+EXEC RegisterStudent @StudentID =  '2', @CourseID =  '20';
+
+-- cannot register
+EXEC RegisterStudent @StudentID =  '1', @CourseID =  '30';

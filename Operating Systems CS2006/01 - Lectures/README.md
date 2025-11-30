@@ -1,0 +1,1 @@
+the slides provided by instructor were from [this](https://www.os-book.com/OS10/slide-dir/index.html) source. i added them, but for reference here they are!

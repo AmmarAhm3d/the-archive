@@ -1,0 +1,781 @@
+{
+  "version": 1,
+  "name": "BDS-6A Operating system Lab",
+  "section": "6A",
+  "room": "LAb-08",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroome8fbfa5c@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1Rg0szxG7atlwmjDwXJI7fzT2pQDpIi4oxSMMG4upsb0lbu-m3ur6dtbJkDYu-8m8BL-IOcTD",
+    "name": "BDS-6A Operating system Lab 6A",
+    "openUrl": "https://drive.google.com/drive/folders/1Rg0szxG7atlwmjDwXJI7fzT2pQDpIi4oxSMMG4upsb0lbu-m3ur6dtbJkDYu-8m8BL-IOcTD"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Chemistry.jpg",
+  "subject": "Operating systems",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217229@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-05-14T05:22:16.369Z",
+    "updateTime": "2023-05-14T05:22:38.735Z",
+    "publicationTime": "2023-05-14T05:22:38.236Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Quiz"
+    }],
+    "courseWork": {
+      "title": "Presentations",
+      "dueTime": "2023-05-15T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1_LslYrpb8QH2-xPK8kROIRwgbTN_jASp",
+              "title": "OS Presentation G5.pptx",
+              "alternateLink": "https://drive.google.com/file/d/1_LslYrpb8QH2-xPK8kROIRwgbTN_jASp/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOEYm0OgCUWq5KrPkHYL5rw3CzDJEYKd5yjFCfMO_wsKcQSjGIhVkh41Y-ch4O2aAoIyU71JdFCcKrztkZ9IhbzjfCaBtW8FHthV9Ddc-SIHmU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Saba Tariq MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217204@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-05-06T06:25:45.981Z",
+    "updateTime": "2023-05-06T06:26:33.802Z",
+    "publicationTime": "2023-05-06T06:26:33.383Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB TASKS"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1SKq0-Ci5LeX7bzLMETjkvleD8qaF59Nu",
+          "title": "OS-Lab-11.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1SKq0-Ci5LeX7bzLMETjkvleD8qaF59Nu/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOU3LWaepyOad--icqbBxkFvhbQaV0UkF29N3RY3hFi938G4L_tecXgPd64h-GoXpff_c4Pc4RRExKnMtf9DKgyYz3zYlbJV0FFQZh_x1EN-Q\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 12",
+      "dueTime": "2023-05-10T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1owD-SH5p6VowgiCVv38PYTTbA3GyVq51",
+              "title": "l200961.c",
+              "alternateLink": "https://drive.google.com/file/d/1owD-SH5p6VowgiCVv38PYTTbA3GyVq51/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMsTk0aJya87Wb9s7Vy_RrAw1FM13S96ZC1sx36RGkY2XIyKb0bxmMOafSMOjp_BhA2bFs4nusHvl3Tcw8wa9AEAepm5zNmoDsK4dj0JTnmEGs\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Saba Tariq MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217204@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-05-03T17:46:12.239Z",
+    "updateTime": "2023-05-03T17:47:21.600Z",
+    "publicationTime": "2023-05-03T17:47:21.178Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB TASKS"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1XoVnB1j3lyhcpJyhDu7csiIUcEHXuZzx",
+          "title": "OS-LAB-8.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1XoVnB1j3lyhcpJyhDu7csiIUcEHXuZzx/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOarVuTzc8871mSq7I9wDZB7zX6XxrknTg4VV-qpEpNuSOzS_BUgBMca9QGtdSfCzJoqpt6ZwG4P-nqvNa6LDG_c2WMmhDwsajObT96YBfECg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 11",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "19TvePJNOrOzaeID4vtHiF9btXdE51MX5",
+              "title": "l200961.c",
+              "alternateLink": "https://drive.google.com/file/d/19TvePJNOrOzaeID4vtHiF9btXdE51MX5/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO_Stvx9OcpuwPWgxGXY0lNnlXYL2ejVNB4DDNLrCfe7TSPHjNWNihjLcur9IAZGuDKWzaaw-4yxpqhJKWydNuUUIQA4UacAWnlp0GC50krhIM\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1QUENfix5EZGx_FHGTR0-4Cb34SUFqFAM",
+              "title": "numbers.txt",
+              "alternateLink": "https://drive.google.com/file/d/1QUENfix5EZGx_FHGTR0-4Cb34SUFqFAM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMsCor19-iDqCPVG8h3Sr1ugRP28IwNd1Yu_D_sjQLaspIUzEIBrL79AmZWWBH-YkqS-ciV8HblvM4oPy4fD4WXei86syk_Rcmu8mOcvzJ9oTU\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Saba Tariq MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217204@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-04-28T17:10:48.338Z",
+    "updateTime": "2023-05-14T18:35:25.094Z",
+    "publicationTime": "2023-04-29T06:49:48.471Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Quiz"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1KdM6VTTs7tV6E-gsfRMlcXaAGky80Zgb",
+          "title": "Quiz2 BDS-6A.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1KdM6VTTs7tV6E-gsfRMlcXaAGky80Zgb/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMp_YxqUj1VMWDEaOhyV_FjUosqeWKFomOtFbCoo1G0YKFzOHAlIE9kgxweYkqnpG4iyou4Cdrxdir7RFXqeAh7oNuYjVjMWqteTk9NZ4E9Kw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz 2",
+      "dueTime": "2023-04-29T07:35:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1MTWLy3Zu7C-FkDMrmuF0BegtlOAi95nv",
+              "title": "l200961.c",
+              "alternateLink": "https://drive.google.com/file/d/1MTWLy3Zu7C-FkDMrmuF0BegtlOAi95nv/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPP6jvIvzw_0HOGH62NZFYu8LSEIGDD4xfa_3duVAslYJW-o-YZiEC025aNHC2D1Q01hZS3LDVB3Wf4mO6gmRtO9WHdKzL7vuqkCjDrZuN7_MY\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "19D3DZr9ypDfO5IDhisBq4FJaGwCIFKH6",
+              "title": "Screenshot_20230429_121118.png",
+              "alternateLink": "https://drive.google.com/file/d/19D3DZr9ypDfO5IDhisBq4FJaGwCIFKH6/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMUKPXEA-_vtIKz1-bBjkcm8ofOJyzwSvY38WA_9eKxA2eFieSdOaej25oknEgR6rD5r-aaSPZQN_BT6CEzr5lIxiqRg_2IGriOheCLmdE4qxw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Saba Tariq MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217204@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-04-29T00:10:42.589Z",
+    "updateTime": "2023-04-29T03:31:00.760Z",
+    "scheduledTime": "2023-04-29T03:30:00Z",
+    "publicationTime": "2023-04-29T03:31:00.523Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB TASKS"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1LbCw05yE_rLqbi7-RtVm2VoJ8Yn73tPL",
+          "title": "OS-LAB-12.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1LbCw05yE_rLqbi7-RtVm2VoJ8Yn73tPL/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOw-sVXvWFUKmftF3BPRYZHuEtu4_ccu2aIn6S9I15YR7hqOkLXj4eBUqokbOxNxTBnm9LN9BtYsOufLiz81lGIVdBu73xN4cHS5hf9zeK_bg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab 10",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1n9__rPGmjwmY-Y4AfLJPh8cFtPjbF3cX",
+              "title": "l200961.c",
+              "alternateLink": "https://drive.google.com/file/d/1n9__rPGmjwmY-Y4AfLJPh8cFtPjbF3cX/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMJSKpqmvGCs8Xe6m3Ws-npSzo9RNVGTlVUhGf7nkKKGkjfgoYCrot_moZ5yd_j4wLKVHO15XoBrqUwcHxWRpbJ8Mn0ixVz65TSaVFFR-SjMPE\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Saba Tariq MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217204@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-04-15T05:52:20.713Z",
+    "updateTime": "2023-04-16T19:10:02.459Z",
+    "publicationTime": "2023-04-15T05:52:52.124Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB TASKS"
+    }],
+    "courseWork": {
+      "title": "Lab 09",
+      "dueTime": "2023-04-15T20:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1vOwLy5HClPVPQcOdZu3Au9trFxkrv3Kp",
+              "title": "first.c",
+              "alternateLink": "https://drive.google.com/file/d/1vOwLy5HClPVPQcOdZu3Au9trFxkrv3Kp/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP9lPiOHvIL1M-2Y_DV2yYhWVOzzaU5qyM8ywZJtj6QMfy3VLwhz-sYs-JvcV86h4IUpOhhAN_IONAlKJlvJGlqpuu7bF97n_ZX6N917AGE0hY\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Rqm_qfKn5YbXTmUkbk5q4Uxr7R3pDkDi",
+              "title": "makefile",
+              "alternateLink": "https://drive.google.com/file/d/1Rqm_qfKn5YbXTmUkbk5q4Uxr7R3pDkDi/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1tUNdNKtpIuZNMN_8dgOtAQ1xAFlqNVaY",
+              "title": "makefile",
+              "alternateLink": "https://drive.google.com/file/d/1tUNdNKtpIuZNMN_8dgOtAQ1xAFlqNVaY/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1UxoyoBzZZZN5qJdJGHFzzcmllnDlNmmE",
+              "title": "second.c",
+              "alternateLink": "https://drive.google.com/file/d/1UxoyoBzZZZN5qJdJGHFzzcmllnDlNmmE/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPxZCbIHIuKvl39Abumj3y8vGK5dIURgwYGi1P0w5wPnlELGHtZbFGo-exDmk4VBTWmaCBJlJcET3wfGFOPIBnPSlFj0BHHIPqGXIPdJ4lIzdw\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Y_iSQOyoMYlvNtw8LzfRGHRtOEEs4jlB",
+              "title": "makefile",
+              "alternateLink": "https://drive.google.com/file/d/1Y_iSQOyoMYlvNtw8LzfRGHRtOEEs4jlB/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1ETWH1yzEr-a66hpfRpUcY8GBKPaQC1L1",
+              "title": "sum.txt",
+              "alternateLink": "https://drive.google.com/file/d/1ETWH1yzEr-a66hpfRpUcY8GBKPaQC1L1/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPv672Lv2TWu5aOVCDZzl65y4Ad4xkPgqus6nb--d7eqVvnZWBZGuRC92czhlhMaFli1XB2jBfaHLMpdhala6bKlLM9_Fi8Lrb8gE7kH3E1qoY\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "14DmGtl1qXg-Kz8zfQq2MC8Gj80pJ4Jfu",
+              "title": "third.c",
+              "alternateLink": "https://drive.google.com/file/d/14DmGtl1qXg-Kz8zfQq2MC8Gj80pJ4Jfu/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOhGY3DoBUpX2jwwKizasyzsPOZ8cGVbjE9BvDjZRIyD85BG7iEMnWkG0dt6UNuo3apefq44VKxrYBF2nnIIj8Cg9KtZbT7Iwsh6w_VvjKV8XA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217229@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-04-01T06:38:41.542Z",
+    "updateTime": "2023-04-29T13:06:25.871Z",
+    "publicationTime": "2023-04-01T06:38:43.394Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB TASKS"
+    }],
+    "courseWork": {
+      "title": "LAB 7 TASKS",
+      "dueTime": "2023-04-01T08:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1mNofPVpSOjtBfQoVSLtMcy5uK9fLn34k",
+              "title": "20L-0961_Q1_OUTPUT.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1mNofPVpSOjtBfQoVSLtMcy5uK9fLn34k/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPw17oDPASWrHgGF4DAHxo202zjNeyJQ7giMD400ReuYfmWk6RhQbLZLYi5lpgR3KWsFlZI_XzzC189DTBzZFJLiCR4br2jSVLuJJD4LAp1Xxo\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1YaL8y-S1_uUTzH1P9PnvtMdmv3SYTIjn",
+              "title": "20L-0961_Q1.c",
+              "alternateLink": "https://drive.google.com/file/d/1YaL8y-S1_uUTzH1P9PnvtMdmv3SYTIjn/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNcdnk-YndDXaUZDTt301LsPy2pioUZr9x0LdBeZFiwA1UhXDG2j0x5_Qlr7HsPo8ORx6CuzG7H-iYsw5x6p8IePh8X_cmnG5bgah64wGPJ7XA\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1YptwxtXFDlgMT5I5XxfKbxh72HJoh_66",
+              "title": "20L-0961_Q2_OUTPUT.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1YptwxtXFDlgMT5I5XxfKbxh72HJoh_66/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN5Zjbwj1A8JAhD-OifDYID-DZQ9JsOrPxMuEayM1vWAbCL2BY4Fvs0FYtPAvWkDXlZf09YZ6ObE28J-4uhaotE1GOFZB74RT8Op3JA_QL6Ntc\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1bAwYOh82Ny1XnbUMVdLa5am-BVnstaSM",
+              "title": "20L-0961_Q2.c",
+              "alternateLink": "https://drive.google.com/file/d/1bAwYOh82Ny1XnbUMVdLa5am-BVnstaSM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOcjJt5Xumn0fawsd-Fp51-7wS6G8Z7rJmEKD3bv0RFe-qOkwIYdyofCOIXemaBhub-3LM7gjr-HBJUo-AKcybJidnnjur1HEy0OB8qWkk4JHo\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217229@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-03-25T06:05:44.398Z",
+    "updateTime": "2023-03-25T06:06:25.508Z",
+    "publicationTime": "2023-03-25T06:06:24.995Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB TASKS"
+    }],
+    "courseWork": {
+      "title": "OS MID EXAMS",
+      "dueTime": "2023-03-25T08:20:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1CwN8IVgkCosfP0rQKAO-fP64SyoDZEG6",
+              "title": "main.c",
+              "alternateLink": "https://drive.google.com/file/d/1CwN8IVgkCosfP0rQKAO-fP64SyoDZEG6/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOwCN3A_o6-z0SvwQdPPlRjlSLyEIycDE0a3NHM0TYMWLogR8G3GvWapVaOPB6qZXEypabL8fYBVylXgVwxKhjqhHc-bl4u-SfFLsTCWkOVcyc\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1mFBlKdr13Uj_Zv3ImzqLKgZIYN9xYwwf",
+              "title": "makepipe.c",
+              "alternateLink": "https://drive.google.com/file/d/1mFBlKdr13Uj_Zv3ImzqLKgZIYN9xYwwf/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMIEr_h5hNL3F9duuIsE71g0Ibw7oD1gNYrFsIPrZjNGceg3lXI_RFaMeEfytQyWGT_tp841CaodPgKwpl_FhBb_2t8BevHoKz-BbNuOKef6hs\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1FGAI5YJ8Rohzm2ZQt6ogotPKia0WQvWm",
+              "title": "reciever.c",
+              "alternateLink": "https://drive.google.com/file/d/1FGAI5YJ8Rohzm2ZQt6ogotPKia0WQvWm/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMKD-M5zeUW2vSKHbiBkI3iIsGD3eIZcgL5nMcVsrAFcxpAY5Ln_p0QDBbfoxVl7-YDLP83lFglU_lE3VRLIVND3rZ95_6tNPZ23duWOqmJ5wA\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1CMMDbWid6thymbo5aylXEd2QvuAjDR4W",
+              "title": "sender.c",
+              "alternateLink": "https://drive.google.com/file/d/1CMMDbWid6thymbo5aylXEd2QvuAjDR4W/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPdVJa9FKOZtgGjEYajIVf5bREVa8Vjm7XFxvMh3JBeVIqU8JwxN6FhZUsz1dSDjTpn8AKKTEGtz4uWDo9QNuY8V5RJ-KLt_g_ewHJnTRdLNJk\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Ft5uFRFzhRAnovcRWGs23pmNGUj4xZCn",
+              "title": "pipeques.c",
+              "alternateLink": "https://drive.google.com/file/d/1Ft5uFRFzhRAnovcRWGs23pmNGUj4xZCn/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMQLnikZEX9-Icc34D9ZIVwEfd32HzfVKb9S79YsW0ctgdNMxONrhLxoXArKS8h8FHf-sEJ8jKu34LUqYgaAQ2_bLJGIYxsj41X1hM0s0UjFMQ\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2023-03-25T08:13:02.309Z",
+          "updateTime": "2023-03-25T08:13:02.096Z",
+          "comment": "20L-0961",
+          "commentHtml": "\u003cdiv\u003e20L-0961\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217229@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-03-18T06:44:37.142Z",
+    "updateTime": "2023-04-29T13:04:50.850Z",
+    "publicationTime": "2023-03-18T06:44:38.785Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB TASKS"
+    }],
+    "courseWork": {
+      "title": "LAB 6 TASKS",
+      "dueTime": "2023-04-01T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1-Oa2G2KysdgVw8f5AD5WV9Q0IVGq7ic2",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1-Oa2G2KysdgVw8f5AD5WV9Q0IVGq7ic2/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217229@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-03-11T07:55:32.798Z",
+    "updateTime": "2023-03-12T00:09:01.899Z",
+    "publicationTime": "2023-03-11T07:55:34.848Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB TASKS"
+    }],
+    "courseWork": {
+      "title": "LAB 5 TASKS\n",
+      "dueTime": "2023-03-12T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1PSKJacLUH2dBYL4GSCe0ahIh6uAwdOjS",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1PSKJacLUH2dBYL4GSCe0ahIh6uAwdOjS/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217229@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-03-11T06:52:43.209Z",
+    "updateTime": "2023-03-11T13:29:23.671Z",
+    "publicationTime": "2023-03-11T06:53:11.201Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Quiz"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "11sgBkBhbgkTJDNkfR3w_GrdHGx1LwR6w",
+          "title": "OS lab Quiz 1-3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/11sgBkBhbgkTJDNkfR3w_GrdHGx1LwR6w/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN-fgfOkhBjWGbeWQONVkXJdGYfkfyVrq1FQImvqqKDR_QaB1HboTk4zLzDKwu3R9pDhB9H2g3XKLxq1Ry58h088o9ImDtCgmyqTvCjRJmO0A\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Quiz 1",
+      "description": "Quiz 1\n\nUpload .c files named rollnumber_question.c\nupload ss of output screens",
+      "descriptionHtml": "\u003cdiv\u003eQuiz 1\u003cbr\u003e\u003cbr\u003eUpload .c files named rollnumber_question.c\u003cbr\u003eupload ss of output screens\u003c/div\u003e",
+      "dueTime": "2023-03-11T08:15:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BENnaOyDY9XuFCx3rO4HzdLCNh3KtUHR",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1BENnaOyDY9XuFCx3rO4HzdLCNh3KtUHR/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Saba Tariq MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217204@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-03-04T04:46:56.590Z",
+    "updateTime": "2023-03-12T00:14:12.265Z",
+    "publicationTime": "2023-03-04T07:21:06.731Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB TASKS"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1icM7MpSkTKH8UFohAYMxiWo4-rKZJLBl",
+          "title": "Lab 4.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1icM7MpSkTKH8UFohAYMxiWo4-rKZJLBl/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN-QWQHlEWV3Fp1ntz9KIUupz7zYBIAl1by4WX0tTqj84dHbnBq0Cop5MR335VGJgzT6GJqqi0-VDFPiDT1EQId7IkLubIPCRLwk_F2rJ9GCQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "LAB 04 TASKS",
+      "dueTime": "2023-03-03T21:30:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1UlYMBejiMK_OnWcmfbLLB61tsaPusjj2",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1UlYMBejiMK_OnWcmfbLLB61tsaPusjj2/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Saba Tariq MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217204@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-02-18T14:21:02.904Z",
+    "updateTime": "2023-03-04T15:13:14.925Z",
+    "publicationTime": "2023-02-18T14:21:59.477Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB TASKS"
+    }],
+    "courseWork": {
+      "title": "LAB 3 TASKS",
+      "dueTime": "2023-02-18T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1WY37SuXuJ7m0uS4Cms-Tj2yarynsxHNg",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1WY37SuXuJ7m0uS4Cms-Tj2yarynsxHNg/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Syed Mujtaba Hassan Rizvi MSCS 2021 FAST NU LHR"
+      },
+      "emailAddress": "l217229@lhr.nu.edu.pk"
+    },
+    "creationTime": "2023-02-08T07:32:26.909Z",
+    "updateTime": "2023-02-18T14:23:20.297Z",
+    "publicationTime": "2023-02-08T07:33:05.644Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB TASKS"
+    }],
+    "courseWork": {
+      "title": "LAB 2 TASKS",
+      "dueTime": "2023-02-18T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15Mo7M3tJLb8aNf9ACtrR8YhfYl49ZjPc",
+              "title": "lab2os.zip",
+              "alternateLink": "https://drive.google.com/file/d/15Mo7M3tJLb8aNf9ACtrR8YhfYl49ZjPc/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

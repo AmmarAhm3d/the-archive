@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "name": "BDS-6A Operating systems Class",
+  "section": "6A",
+  "room": "CS-5",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomfeeb0bf7@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1QkpzDKCcCxG9_UD5T_hHJ_GzB_G1x3j2TV-E1-spjcT__DpYeHOmejbubxa9fVFtsXe_6u3v",
+    "name": "BDS-6A 6A",
+    "openUrl": "https://drive.google.com/drive/folders/1QkpzDKCcCxG9_UD5T_hHJ_GzB_G1x3j2TV-E1-spjcT__DpYeHOmejbubxa9fVFtsXe_6u3v"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_bookclub.jpg",
+  "subject": "Operating systems",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Rubab Anam Janjua Ilyas janjua"
+      }
+    },
+    "creationTime": "2023-03-30T09:40:19.046Z",
+    "updateTime": "2023-03-30T09:41:39.013Z",
+    "publicationTime": "2023-03-30T09:41:38.815Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignment: 2"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ZhHmsq2b9X0QRIupTeb1HALYeGN7POuj",
+          "title": "assignment 2 OS.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1ZhHmsq2b9X0QRIupTeb1HALYeGN7POuj/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPXrMsctPbDhqvVMGNex8GbJ5cV78soPf4coqtALig77YyWpLMlc687YhE3sG4ebQz9c436gl5iP6-XP80EWwi5VRShqOnCmHfbOOiMCBDfUKs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment: 2",
+      "dueTime": "2023-04-05T03:30:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rubab Anam Janjua Ilyas janjua"
+      }
+    },
+    "creationTime": "2023-02-24T05:25:20.464Z",
+    "updateTime": "2023-02-26T07:32:16.548Z",
+    "publicationTime": "2023-02-24T05:26:18.910Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignment:1"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1pJn04MVP8pq6z9F6I4Ay2Hg_V_5I5nXi",
+          "title": "Assignment 1.docx",
+          "alternateLink": "https://drive.google.com/file/d/1pJn04MVP8pq6z9F6I4Ay2Hg_V_5I5nXi/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOa40be8FVuYsM-miwikjuSAt1BUNI-YJ9rfSDa61-qPkSwpUDIu4B4Me510teDR7gleXsWlbu5EimulYXL0bjHTXSZKMuZ-ZmR4yejpX83hmo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Updated Version of Assignment: 1",
+      "dueTime": "2023-03-01T18:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}

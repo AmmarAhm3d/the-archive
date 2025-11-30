@@ -1,0 +1,85 @@
+create table student(
+RollNum varchar(8) not null,
+Name varchar(50) ,
+Gender  varchar(6) ,
+Phone float(11),
+check (gender='Male' or gender = 'Female')
+)
+insert into student
+values
+('L164123', 'Ali Ahmad' ,'Male', 03333333333),
+('L164124','Rafia Ahmed', 'Female', 03333456789),
+('L164125 ','Basit Junaid', 'Male', 03453243567);
+
+
+create table attendance(
+RollNum varchar(8),
+Date varchar(10),
+Status char(1),
+ClassVenue int,
+check (Status ='P' or Status='A')
+)
+insert into attendance
+values
+('L164123', '2-22-2016', 'P', 2),
+('L164124', '2-23-2016', 'A', 1),
+('L164125', '3-4-2016', 'P', 2);
+
+create table classvenue(
+id int ,
+Building varchar(15),
+RoomNum int unique,
+Teacher varchar(25)
+)
+insert into classvenue
+values
+(1, 'CS', 2 ,'Sarim Baig'),
+(2, 'Civil', 7,'Bismillah Jan')
+;
+
+create table teacher(
+Name varchar(25),
+Designation varchar(25),
+Department varchar(25)
+)
+insert into teacher
+values
+('Sarim Baig', 'Assistant Prof.', 'Computer Science'),
+('Bismillah Jan', 'Lecturer', 'Civil Eng.'),
+('Kashif zafar', 'Professor', 'Electrical Eng.');
+-- pk of student = RollNum
+Alter Table Student add Primary Key(rollnum)
+-- pk of classvenue = id
+Alter Table ClassVenue add Primary Key(ID)
+-- pk of teacher = Name
+Alter Table Teacher add Primary Key(Name)
+-- fk of attendance = student.RollNum
+Alter Table Attendance add Foreign Key(rollnum) references Student(rollnum)
+on delete no action on update cascade;
+-- fk of classvenue = teacher.Name
+Alter Table ClassVenue add Foreign Key(Teacher) references Teacher(Name)
+on delete no action on update cascade
+
+alter table student add warning_count int
+alter table student drop column Phone
+-- query not valid, warning count cannot be in decimals, change into cgpa
+insert into student 
+ values ('L162334', 'Fozan Shahid', 'Male', 3.2)
+-- query not valid, teacher row must contain Ali for query to work
+-- , violating foreign key constraint
+ insert into ClassVenue
+  values (3, 'CS', 5, 'Ali')
+update teacher
+set Name = 'Dr. Kashif Zafar' where name ='Kashif zafar'
+-- no students with supplied id
+Delete from Student where rollnum = 'L162334';
+-- foreign key exists in attendance
+Delete from Student where rollnum = 'L164123'; 
+Delete from Attendance where rollnum = 'L164124' and  status = 'A'
+Alter table Teacher add unique(Name); 
+-- other 2 checks done
+
+---drop table attendance
+--drop table  classvenue
+--drop table  student
+--drop table  teacher

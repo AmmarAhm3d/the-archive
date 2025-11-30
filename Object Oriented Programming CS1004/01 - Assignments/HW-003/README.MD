@@ -1,0 +1,2 @@
+-> Difference between class and structure.
+-> is sizeof() function working for abstract datatype?

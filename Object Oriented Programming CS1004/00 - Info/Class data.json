@@ -1,0 +1,528 @@
+{
+  "version": 1,
+  "name": "Object Oriented Programming - B",
+  "section": "2-B",
+  "room": "CE-1",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom0b40c831@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1MYzrj3WVeAWzuBnMm_H3LkdR-5u35buaX76f0aQEM1js2MSGPb0L8XEkgZL3ag4sL-NeYyxg",
+    "name": "Object Oriented Programming - B 2-B",
+    "openUrl": "https://drive.google.com/drive/folders/1MYzrj3WVeAWzuBnMm_H3LkdR-5u35buaX76f0aQEM1js2MSGPb0L8XEkgZL3ag4sL-NeYyxg"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_learnlanguage.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-06-06T15:59:08.552Z",
+    "updateTime": "2022-06-06T15:59:19Z",
+    "publicationTime": "2022-06-06T15:59:18.940Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Notes Submission",
+      "description": "Only one .pdf file is required. Notes should be in your hand writing.\n",
+      "descriptionHtml": "\u003cdiv\u003eOnly one .pdf file is required. Notes should be in your hand writing.\u003c/div\u003e",
+      "dueTime": "2022-06-13T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1mqdk9veAT68wuxdDgiBYYzJTw68lEShI",
+              "alternateLink": "https://drive.google.com/open?id\u003d1mqdk9veAT68wuxdDgiBYYzJTw68lEShI"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-05-18T18:21:17.156Z",
+    "updateTime": "2022-05-18T18:22:02.850Z",
+    "publicationTime": "2022-05-18T18:22:02.708Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "162MDwjaenntrgHS9P-m0V9dLFfPwg-1Q",
+          "alternateLink": "https://drive.google.com/open?id\u003d162MDwjaenntrgHS9P-m0V9dLFfPwg-1Q"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "ASM-003",
+      "dueTime": "2022-05-24T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1LDtzp9ztRTMwcBquRFw3bvty51_LdmUv",
+              "alternateLink": "https://drive.google.com/open?id\u003d1LDtzp9ztRTMwcBquRFw3bvty51_LdmUv"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-04-25T17:33:49.652Z",
+    "updateTime": "2022-04-25T17:40:53.040Z",
+    "publicationTime": "2022-04-25T17:40:37.806Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homeworks"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1jTfdRYQzqMQNrE0up_pfGa0gTsPo2FlM",
+          "alternateLink": "https://drive.google.com/open?id\u003d1jTfdRYQzqMQNrE0up_pfGa0gTsPo2FlM"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "HW-006",
+      "description": "NOTE: \nIf there is plagiarism or suspicious activity, your all homework marks will set to 0 without negotiation.\n\nNO LATE SUBMISSIONS(even 1 minute late) whether there is internet issue or any other reason(s).",
+      "descriptionHtml": "\u003cdiv\u003eNOTE: \u003cbr\u003eIf there is plagiarism or suspicious activity, your all homework marks will set to 0 without negotiation.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eNO LATE SUBMISSIONS(even 1 minute late) whether there is internet issue or any other reason(s).\u003c/b\u003e\u003c/div\u003e",
+      "dueTime": "2022-04-27T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1f77VgCuEBQg5GbxphpmC4i9n9Ns_PM-o",
+              "alternateLink": "https://drive.google.com/open?id\u003d1f77VgCuEBQg5GbxphpmC4i9n9Ns_PM-o"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-04-11T20:02:50.653Z",
+    "updateTime": "2022-04-16T09:56:06.725Z",
+    "publicationTime": "2022-04-16T09:56:06.586Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homeworks"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1WLprb5skf1X3mPO2ak1JTEv-5GIH1HC6",
+          "alternateLink": "https://drive.google.com/open?id\u003d1WLprb5skf1X3mPO2ak1JTEv-5GIH1HC6"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1Fabqq0TW29KcMoKKfMsEjl7gJDLhy_0y",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Fabqq0TW29KcMoKKfMsEjl7gJDLhy_0y"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "HW-005",
+      "description": "In this question, you just have to see which object will be created first and which will  be created\nlater. And we know, the calling sequence of destructors is the reverse of calling sequence of\nconstructors.\n- There are some global and static objects in the program, which are written before main.\n\n\n\nSubmission guideline:\n Submit single .docs file that contains output of below code snippet with explanation on each line shown on console as output. Sample explanation is attached. \nName of file should be your roll Number.",
+      "descriptionHtml": "\u003cdiv\u003eIn this question, you just have to see which object will be created first and which will  be created\u003cbr\u003elater. And we know, the calling sequence of destructors is the reverse of calling sequence of\u003cbr\u003econstructors.\u003cbr\u003e- There are some global and static objects in the program, which are written before main.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003eSubmission guideline:\u003c/b\u003e\u003cbr\u003e Submit single .docs file that contains output of below code snippet with explanation on each line shown on console as output. Sample explanation is attached. \u003cbr\u003eName of file should be your roll Number.\u003c/div\u003e",
+      "dueTime": "2022-04-18T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1WqGUCq-GsP7HrR79oH-67RQUT9KPPISj",
+              "alternateLink": "https://drive.google.com/open?id\u003d1WqGUCq-GsP7HrR79oH-67RQUT9KPPISj"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-04-06T18:05:30.017Z",
+    "updateTime": "2022-04-06T18:06:01.212Z",
+    "publicationTime": "2022-04-06T18:06:01.045Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Y4mALeYg3lA5C8N4m4DkXFGvPpPni4sm",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Y4mALeYg3lA5C8N4m4DkXFGvPpPni4sm"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "ASM-002",
+      "description": "NOTE: \nSubmit only one RUNNING file YourRollNumber.cpp that contains class, its\nimplementation and the driver Program. Do not submit .rar or .zip files.\n\nEven 1 minute late will not be considered.\n",
+      "descriptionHtml": "\u003cdiv\u003eNOTE: \u003cbr\u003e\u003cb\u003eSubmit \u003c/b\u003eonly one \u003cb\u003eRUNNING\u003c/b\u003e file YourRollNumber.cpp that contains class, its\u003cbr\u003eimplementation and the driver Program. \u003cb\u003eDo not \u003c/b\u003esubmit .rar or .zip files.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eEven 1 minute late will not be considered.\u003c/b\u003e\u003c/div\u003e",
+      "dueTime": "2022-04-10T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1K42k7f442GH34cYMtfPAEiniZ7ywABAM",
+              "alternateLink": "https://drive.google.com/open?id\u003d1K42k7f442GH34cYMtfPAEiniZ7ywABAM"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-03-31T20:28:02.353Z",
+    "updateTime": "2022-03-31T20:28:31.038Z",
+    "publicationTime": "2022-03-31T20:28:30.904Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Mid-1",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 17.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-03-30T16:54:26.855Z",
+    "updateTime": "2022-03-30T16:56:00.198Z",
+    "publicationTime": "2022-03-30T16:56:00.057Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homeworks"
+    }],
+    "courseWork": {
+      "title": "HW-004",
+      "description": "Execution of code discussed in last lecture.\n\nSubmit single .cpp file.",
+      "descriptionHtml": "\u003cdiv\u003eExecution of code discussed in last lecture.\u003cbr\u003e\u003cbr\u003eSubmit single .cpp file.\u003c/div\u003e",
+      "dueTime": "2022-03-31T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1V4IoPUo_Jj9MFPgDbA3lx5OFo9fNbJfp",
+              "alternateLink": "https://drive.google.com/open?id\u003d1V4IoPUo_Jj9MFPgDbA3lx5OFo9fNbJfp"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-03-15T18:48:43.807Z",
+    "updateTime": "2022-03-30T16:54:14.653Z",
+    "publicationTime": "2022-03-15T18:50:35.711Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homeworks"
+    }],
+    "courseWork": {
+      "title": "HW-003",
+      "description": "-\u003e Difference between class and structure.\n-\u003e is sizeof() function working for abstract datatype?\nSubmission:\nSubmit single .docs/.pdf file with above 2 answers.\nName of the file should be your roll number",
+      "descriptionHtml": "\u003cdiv\u003e-\u0026gt; Difference between class and structure.\u003cbr\u003e-\u0026gt; is sizeof() function working for abstract datatype?\u003cbr\u003eSubmission:\u003cbr\u003eSubmit single .docs/.pdf file with above 2 answers.\u003cbr\u003eName of the file should be your roll number\u003c/div\u003e",
+      "dueTime": "2022-03-17T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15namtGx7zBSXa_ASQlWjBmZzHQDRS9Ke",
+              "alternateLink": "https://drive.google.com/open?id\u003d15namtGx7zBSXa_ASQlWjBmZzHQDRS9Ke"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-03-08T19:35:24.378Z",
+    "updateTime": "2022-03-08T19:42:11.853Z",
+    "publicationTime": "2022-03-08T19:41:04.986Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1vVxeO03p_0VvPSoBGM1o0uu6AAGhT10Y",
+          "alternateLink": "https://drive.google.com/open?id\u003d1vVxeO03p_0VvPSoBGM1o0uu6AAGhT10Y"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "ASM-001",
+      "description": "Submission Guideline:\nSubmit .rar/.zip file which contains following: (Name of this compressed file should be your roll number) \n-\u003e .cpp files(seperate for both questions). Name of .cpp file must be question # according to assignment document.\n-\u003e A .docs file in which you have to paste the screenshot of results by executing your own code. Name of .docs should be your name\nNOTE: Document is well defined. No vague queries please.\nEven 1 minute late assignment will not be considered.",
+      "descriptionHtml": "\u003cdiv\u003eSubmission Guideline:\u003cbr\u003eSubmit .rar/.zip file which contains following: (Name of this compressed file should be your roll number) \u003cbr\u003e-\u0026gt; .cpp files(seperate for both questions). Name of .cpp file must be question # according to assignment document.\u003cbr\u003e-\u0026gt; A .docs file in which you have to paste the screenshot of results by executing your own code. Name of .docs should be your name\u003cbr\u003eNOTE: Document is well defined. No vague queries please.\u003cbr\u003e\u003cb\u003eEven 1 minute late assignment will not be considered.\u003c/b\u003e\u003c/div\u003e",
+      "dueTime": "2022-03-15T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1P-ghMX8kNStdC4NFP-w9D3RcOQvPpwMB",
+              "alternateLink": "https://drive.google.com/open?id\u003d1P-ghMX8kNStdC4NFP-w9D3RcOQvPpwMB"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-03-04T10:36:03.248Z",
+    "updateTime": "2022-03-04T10:42:49.931Z",
+    "publicationTime": "2022-03-04T10:38:08.571Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homeworks"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1WaGhgsPl8fdBNp1E1o6Zz7GWqTB14Ci2",
+          "alternateLink": "https://drive.google.com/open?id\u003d1WaGhgsPl8fdBNp1E1o6Zz7GWqTB14Ci2"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "HW-002",
+      "description": "No late submission. Even a one minute late will not be considered.",
+      "descriptionHtml": "\u003cdiv\u003eNo late submission. Even a one minute late will not be considered.\u003c/div\u003e",
+      "dueTime": "2022-03-08T18:59:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1aWJiThdOWrU9_G5AtLtnMGc4zTYbx6Xj",
+              "alternateLink": "https://drive.google.com/open?id\u003d1aWJiThdOWrU9_G5AtLtnMGc4zTYbx6Xj"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2022-03-04T12:11:33.628Z",
+          "updateTime": "2022-03-04T12:11:33.535Z",
+          "comment": "// I have examined both sending oversized array and suitably sized one\n// for example with size 5 for \"ammar\" i get \"ramma\"\n// and for size 10 or a huge buffer i get \"════ramma\"\n// is there a reason for this ?",
+          "commentHtml": "\u003cdiv\u003e// I have examined both sending oversized array and suitably sized one\u003cbr\u003e// for example with size 5 for \u0026quot;ammar\u0026quot; i get \u0026quot;ramma\u0026quot;\u003cbr\u003e// and for size 10 or a huge buffer i get \u0026quot;════ramma\u0026quot;\u003cbr\u003e// is there a reason for this ?\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-02-22T08:08:02.700Z",
+    "updateTime": "2022-03-09T13:12:24.713Z",
+    "publicationTime": "2022-02-22T08:08:54.358Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homeworks"
+    }],
+    "courseWork": {
+      "title": "HW-001",
+      "description": "Do execute the following code:\nPassing a pointer to a function by reference\nvoid func(int* \u0026 p)\n{\n        *p \u003d 20;\n        //p \u003d 20;\n}\nvoid main()\n{\n        int a \u003d 10;\n        cout \u003c\u003c a \u003c\u003c endl;\n        int *p1 \u003d \u0026a;\n        func(p1);\n        cout \u003c\u003c *p1 \u003c\u003c endl;\n}",
+      "descriptionHtml": "\u003cdiv\u003eDo execute the following code:\u003cbr\u003ePassing a pointer to a function by reference\u003cbr\u003evoid func(int* \u0026amp; p)\u003cbr\u003e{\u003cbr\u003e        *p \u003d 20;\u003cbr\u003e        //p \u003d 20;\u003cbr\u003e}\u003cbr\u003evoid main()\u003cbr\u003e{\u003cbr\u003e        int a \u003d 10;\u003cbr\u003e        cout \u0026lt;\u0026lt; a \u0026lt;\u0026lt; endl;\u003cbr\u003e        int *p1 \u003d \u0026amp;a;\u003cbr\u003e        func(p1);\u003cbr\u003e        cout \u0026lt;\u0026lt; *p1 \u0026lt;\u0026lt; endl;\u003cbr\u003e}\u003c/div\u003e",
+      "dueTime": "2022-02-24T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1okdyRCKvJdM8Wuh6XuI6-piOI7NDSC82",
+              "title": "HW001.zip",
+              "alternateLink": "https://drive.google.com/file/d/1okdyRCKvJdM8Wuh6XuI6-piOI7NDSC82/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "name": "3-B-Data Structures",
+  "section": "BDS-3B",
+  "room": "CS-11",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom7505335c@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1fBotzdWmDVbXeHaBzRN5YC0gbeDH52XnsikpjkOQUB3c2ZHCljWNH83dduKIML5NgPuPYu9C",
+    "name": "Data Structures BDS-3B",
+    "openUrl": "https://drive.google.com/drive/folders/1fBotzdWmDVbXeHaBzRN5YC0gbeDH52XnsikpjkOQUB3c2ZHCljWNH83dduKIML5NgPuPYu9C"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_reachout.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2023-01-03T09:57:23.796Z",
+    "updateTime": "2023-01-03T09:57:28.176Z",
+    "publicationTime": "2023-01-03T09:57:28.120Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Final-Term-Marks",
+      "maxPoints": 70.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 41.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-12-19T06:21:32.119Z",
+    "updateTime": "2022-12-19T06:21:31.707Z",
+    "publicationTime": "2022-12-19T06:21:31.610Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Notes Submission",
+      "dueTime": "2022-12-25T18:59:00Z",
+      "maxPoints": 1.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1a1cOVWMC3pDYYnXqiRjO0mNdYS2qhkuz",
+              "alternateLink": "https://drive.google.com/open?id\u003d1a1cOVWMC3pDYYnXqiRjO0mNdYS2qhkuz"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-10-28T15:39:31Z",
+    "updateTime": "2022-11-12T20:18:58.302Z",
+    "publicationTime": "2022-10-28T15:40:06.915Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "10UrIkkWTjtTg9cf2BZvOOBPPnDDt2yqP",
+          "alternateLink": "https://drive.google.com/open?id\u003d10UrIkkWTjtTg9cf2BZvOOBPPnDDt2yqP"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1_wf51vVXwQd34oXfg0RVc0AfbDIJUo3U",
+          "alternateLink": "https://drive.google.com/open?id\u003d1_wf51vVXwQd34oXfg0RVc0AfbDIJUo3U"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "ASM-002",
+      "dueTime": "2022-11-15T18:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1efdt_L4R6LKjh_ZGhSFRhEbOTSIp2IXA",
+              "alternateLink": "https://drive.google.com/open?id\u003d1efdt_L4R6LKjh_ZGhSFRhEbOTSIp2IXA"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-10-12T20:36:39.752Z",
+    "updateTime": "2022-10-12T20:38:14.530Z",
+    "publicationTime": "2022-10-12T20:38:14.201Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homeworks"
+    }],
+    "courseWork": {
+      "title": "HW-003",
+      "description": "Submit single file having following:\nTime complexity (step count) of Bubble sort, insertion sort and selection sort.\nFile name should be your roll number.",
+      "descriptionHtml": "\u003cdiv\u003eSubmit single file having following:\u003cbr\u003eTime complexity (step count) of Bubble sort, insertion sort and selection sort.\u003cbr\u003eFile name should be your roll number.\u003c/div\u003e",
+      "dueTime": "2022-10-16T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1chfZ_X71uhV8XIj2ax0NcZTACmk1Cz7-",
+              "alternateLink": "https://drive.google.com/open?id\u003d1chfZ_X71uhV8XIj2ax0NcZTACmk1Cz7-"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-09-22T07:31:30.061Z",
+    "updateTime": "2022-09-22T07:35:19.319Z",
+    "publicationTime": "2022-09-22T07:31:59.870Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homeworks"
+    }],
+    "courseWork": {
+      "title": "HW-002",
+      "dueTime": "2022-09-22T07:45:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1-jeU6Idog1Dvd9aA3uP5NAewwdBSfq2o",
+              "alternateLink": "https://drive.google.com/open?id\u003d1-jeU6Idog1Dvd9aA3uP5NAewwdBSfq2o"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-09-15T07:47:14.203Z",
+    "updateTime": "2022-09-15T07:47:52.875Z",
+    "publicationTime": "2022-09-15T07:47:52.815Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Assignments"
+    }],
+    "courseWork": {
+      "title": "ASM-001",
+      "description": "Explained in class.",
+      "descriptionHtml": "\u003cdiv\u003eExplained in class.\u003c/div\u003e",
+      "dueTime": "2022-09-18T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1D_TmYdpj7MmtCf7pHq0eADSyK22WN3Ql",
+              "alternateLink": "https://drive.google.com/open?id\u003d1D_TmYdpj7MmtCf7pHq0eADSyK22WN3Ql"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-08-31T19:04:32.237Z",
+    "updateTime": "2022-08-31T19:04:54.057Z",
+    "publicationTime": "2022-08-31T19:04:53.945Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Homeworks"
+    }],
+    "courseWork": {
+      "title": "HW-001",
+      "description": "Page 51 of recommend book (uploaded in classroom under Book (s) tab)\nSolve following parts of Question 8\nb, c, e, f, h, j, m\n------------------------------------------------------------------------------------\nSubmission instructions:\n-\u003e Assignment should be handwritten.\n-\u003e Please create pdf file after scanning your handwritten solutions through CamScanner or any other app.\n-\u003e Single pdf file should be uploaded.\n-\u003e Name of the file should be your roll number ",
+      "descriptionHtml": "\u003cdiv\u003ePage 51 of recommend book (uploaded in classroom under Book (s) tab)\u003cbr\u003eSolve following parts of Question 8\u003cbr\u003e\u003cb\u003eb, c, e, f, h, j, m\u003c/b\u003e\u003cbr\u003e\u003cb\u003e------------------------------------------------------------------------------------\u003c/b\u003e\u003cbr\u003e\u003cb\u003eSubmission instructions:\u003c/b\u003e\u003cbr\u003e-\u0026gt; Assignment should be \u003cb\u003ehandwritten\u003c/b\u003e.\u003cbr\u003e-\u0026gt; Please create pdf file after scanning your handwritten solutions through CamScanner or any other app.\u003cbr\u003e-\u0026gt; \u003cb\u003eSingle pdf file \u003c/b\u003eshould be uploaded.\u003cbr\u003e-\u0026gt; Name of the file should be your\u003cb\u003e roll number\u003c/b\u003e\u003c/div\u003e",
+      "dueTime": "2022-09-04T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1pOHwRpVyLZ4HsI6oEwtu3m_DgkDfe2w6",
+              "alternateLink": "https://drive.google.com/open?id\u003d1pOHwRpVyLZ4HsI6oEwtu3m_DgkDfe2w6"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

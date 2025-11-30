@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Academic Records</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/5.3.0/quartz/bootstrap.min.css" integrity="sha512-NCzD9X02ejnv+OeOJhcQb71TgJyaNqbD1uyYyLQ2N0NOUM9NgWJHm7V/1pq/+pUn7G5U6mS06GqxFOALmIzU6w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+		<link rel="stylesheet" type="text/css" href="style.css">
+<style>
+		/* some custom styling */
+		body {
+			background-color: #f2f2f2;
+		}
+		header {
+			background-color: #343a40;
+			color: white;
+			padding: 1rem;
+			margin-bottom: 2rem;
+		}
+		nav ul {
+			list-style: none;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			padding: 0;
+			margin: 0;
+			background-color: #e3f2fd;
+			padding: 1rem;
+		}
+		nav li {
+			margin: 0 1rem;
+		}
+		nav a {
+			color: #212529;
+			text-decoration: none;
+		}
+		nav a:hover {
+			color: #007bff;
+			text-decoration: none;
+		}
+		.course-schedule table {
+			width: 100%;
+			border-collapse: collapse;
+		}
+		.course-schedule th,
+		.course-schedule td {
+			padding: 0.5rem;
+			text-align: left;
+			border-bottom: 1px solid #dee2e6;
+		}
+		.course-schedule th {
+			background-color: #e9ecef;
+			font-weight: bold;
+			text-transform: uppercase;
+			font-size: 0.9rem;
+		}
+		.course-assignments ul {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+		.course-assignments li {
+			margin: 0.5rem 0;
+		}
+		.course-grades table {
+			width: 100%;
+			border-collapse: collapse;
+		}
+		.course-grades th,
+		.course-grades td {
+			padding: 0.5rem;
+			text-align: left;
+			border-bottom: 1px solid #dee2e6;
+		}
+		.course-grades th {
+			background-color: #e9ecef;
+			font-weight: bold;
+			text-transform: uppercase;
+			font-size: 0.9rem;
+		}
+	</style>
+
+</head>
+<body>
+	<header>
+		<h1>Academic Records</h1>
+
+	</header>
+	<div class="container">
+		<form>
+			<label for="search">Search:</label>
+			<input type="text" id="search" name="search">
+			<label for="sort">Sort by:</label>
+			<select id="sort" name="sort">
+				<option value="name">Name</option>
+				<option value="grade">Grade</option>
+				<option value="date">Date</option>
+			</select>
+			<label for="filter">Filter by:</label>
+			<select id="filter" name="filter">
+				<option value="">All</option>
+				<option value="math">Math</option>
+				<option value="science">Science</option>
+				<option value="english">English</option>
+			</select>
+			<input type="submit" value="Apply">
+		</form>
+		<table>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Subject</th>
+					<th>Grade</th>
+					<th>Date</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>John Smith</td>
+					<td>Math</td>
+					<td>A</td>
+					<td>2022-01-15</td>
+				</tr>
+				<tr>
+					<td>Jane Doe</td>
+					<td>English</td>
+					<td>B+</td>
+					<td>2022-01-17</td>
+				</tr>
+				<tr>
+					<td>Bob Johnson</td>
+					<td>Science</td>
+					<td>C-</td>
+					<td>2022-01-20</td>
+				</tr>
+				<!-- more data rows -->
+			</tbody>
+		</table>
+	</div>
+</body>
+</html>
+
+

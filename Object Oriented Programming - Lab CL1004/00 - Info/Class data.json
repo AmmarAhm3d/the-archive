@@ -1,0 +1,727 @@
+{
+  "version": 1,
+  "name": "OOP Lab",
+  "section": "2B",
+  "description": "Saturday (2:30PM-5:30PM)",
+  "room": "CS-2B",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom8f2262e7@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1rXMHyL3gx0lQC2d66MKZw1wwzIKdRY96V7iaoZCY0jSUbKsuI6_OoCrtKww5zYvoad8XRcGd",
+    "name": "OOP Lab 2B",
+    "openUrl": "https://drive.google.com/drive/folders/1rXMHyL3gx0lQC2d66MKZw1wwzIKdRY96V7iaoZCY0jSUbKsuI6_OoCrtKww5zYvoad8XRcGd"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Chemistry.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Fariha Maqbool"
+      },
+      "emailAddress": "fariha.maqbool@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-06-01T03:33:23.450Z",
+    "updateTime": "2022-06-01T03:33:22.204Z",
+    "publicationTime": "2022-06-01T03:33:22.010Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manuals"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1_wqUYt4Yg6CtnQmPDkVWQJ2thOXxSnXQ",
+          "title": "Lab-12 B.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1_wqUYt4Yg6CtnQmPDkVWQJ2thOXxSnXQ/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMwXCtcBwO8az0J2FahiivysJIUilwjsS-2x-xXFOdP9DbmvDZ7fOP2AeUEx_G5TNtT15M532vQvtN8LRR1ufucYfZ-svzAtZQk5HoAvXs5Rg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-12",
+      "dueTime": "2022-06-01T06:20:30.584Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1mKPC4n3BRTVNh7U0vG1DIXsNMfzg_ffu",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1mKPC4n3BRTVNh7U0vG1DIXsNMfzg_ffu/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fariha Maqbool"
+      },
+      "emailAddress": "fariha.maqbool@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-05-24T17:23:57.774Z",
+    "updateTime": "2022-05-25T04:07:45.301Z",
+    "publicationTime": "2022-05-25T03:38:22.091Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manuals"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1rJHXwiM0bnyGymwVdNEahBNzMvUbWT7A",
+          "title": "OOP-B Lab-11.docx",
+          "alternateLink": "https://drive.google.com/file/d/1rJHXwiM0bnyGymwVdNEahBNzMvUbWT7A/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOE-vxWWn1Ehfohvd57wlX5ZBnte3NsyVlEYKnxSQyUhLIDyFWQh6pcIBOm9raNm4yLm6jWP-QzXjiZPrv4_Uj0fIoN1DWhAudAIPfdsXpCoQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-11",
+      "dueTime": "2022-05-25T05:30:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1upyD0nxJ3Qx7lxiVa83EhTvq2bpz5I8i",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1upyD0nxJ3Qx7lxiVa83EhTvq2bpz5I8i/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fariha Maqbool"
+      },
+      "emailAddress": "fariha.maqbool@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-05-18T03:28:32.814Z",
+    "updateTime": "2022-05-18T03:29:07.416Z",
+    "publicationTime": "2022-05-18T03:28:32.290Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manuals"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "12DCHZckf5YC9AVX2Zt1oZWGvQ4Wa-RE2",
+          "title": "Lab-010-B-Section.pdf",
+          "alternateLink": "https://drive.google.com/file/d/12DCHZckf5YC9AVX2Zt1oZWGvQ4Wa-RE2/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMWWfBeGs24lmHO27CnKr0S7459oWVK91c4SeZrKrT99GQgCaelABNzoPPvH6oomiAyP5M4zrXUqTt8w9O0IlHw_q9UvlV7lbu0FvKCzy04Og\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-10",
+      "dueTime": "2022-05-18T06:20:06.906Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1LdL8uGZxmO5fbHFKOwTfsAbnCUpiqhUI",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1LdL8uGZxmO5fbHFKOwTfsAbnCUpiqhUI/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fariha Maqbool"
+      },
+      "emailAddress": "fariha.maqbool@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-05-10T19:02:21.744Z",
+    "updateTime": "2022-05-11T07:20:45.491Z",
+    "publicationTime": "2022-05-11T03:20:53.213Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manuals"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14fTm9-YhtCgBCyPNZ9lN8Pc24DGOAbXI",
+          "title": "OOP-B Lab-09.docx",
+          "alternateLink": "https://drive.google.com/file/d/14fTm9-YhtCgBCyPNZ9lN8Pc24DGOAbXI/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMHdL3GjVk-LYW-lwO-HFm5jTUzvLOArufCmaR2-4MoHs-G2oOdRWUQ7785gYI2PUPkTifkBgiPG9HujkmYaOtzy0aUu_h64W52EKL87xRQEg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-09",
+      "description": "\"How to define and use header files? \"\nRead following links:\nLink1 (For understanding of header files):  \nhttps://www.simplilearn.com/tutorials/cpp-tutorial/guide-to-understand-cpp-header-files\nLink-2 (For implementation): \nhttps://docs.microsoft.com/en-us/cpp/build/walkthrough-header-units?view\u003dmsvc-170 \nRead and apply \"Approach 1: Choose header units to build\" from Link-2. Only follow the code, no need to change settings.",
+      "descriptionHtml": "\u003cdiv\u003e\u0026quot;How to define and use header files? \u0026quot;\u003cbr\u003eRead following links:\u003cbr\u003eLink1 (For understanding of header files):  \u003cbr\u003ehttps://www.simplilearn.com/tutorials/cpp-tutorial/guide-to-understand-cpp-header-files\u003cbr\u003eLink-2 (For implementation): \u003cbr\u003ehttps://docs.microsoft.com/en-us/cpp/build/walkthrough-header-units?view\u003dmsvc-170 \u003cbr\u003eRead and apply \u0026quot;Approach 1: Choose header units to build\u0026quot; from Link-2. Only follow the code, no need to change settings.\u003c/div\u003e",
+      "dueTime": "2022-05-11T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "112hXD_x7yZZL_U91VtTeqRqx_5DKjBby",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/112hXD_x7yZZL_U91VtTeqRqx_5DKjBby/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fariha Maqbool"
+      },
+      "emailAddress": "fariha.maqbool@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-04-27T03:04:45.204Z",
+    "updateTime": "2022-04-27T18:02:01.046Z",
+    "publicationTime": "2022-04-27T03:04:44.734Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Submissions"
+    }],
+    "courseWork": {
+      "title": "Lab-08 B2 Submission",
+      "dueTime": "2022-04-27T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fariha Maqbool"
+      },
+      "emailAddress": "fariha.maqbool@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-04-27T03:03:43.094Z",
+    "updateTime": "2022-04-27T18:01:27.570Z",
+    "publicationTime": "2022-04-27T03:03:42.608Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Submissions"
+    }],
+    "courseWork": {
+      "title": "Lab-08 B1 Submission",
+      "dueTime": "2022-04-27T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1pmKkVldjMPXumBq46L31h2Refn_6dKBA",
+              "title": "l200961-task 1.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1pmKkVldjMPXumBq46L31h2Refn_6dKBA/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPYTvSXTiEpl3NzdP2eQhRoMaWN34Yb0V5PZ8cAUdZfi6iiW6R3zrHeOW-LjQhk6AJlMF0EAte4MXzhzGkrEFdm-ps3CjiHFze3ifkie803rlI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fariha Maqbool"
+      },
+      "emailAddress": "fariha.maqbool@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-04-12T18:25:59.785Z",
+    "updateTime": "2022-04-13T03:25:31.461Z",
+    "publicationTime": "2022-04-13T03:25:31.263Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manuals"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1LsPrqkOfSB1YpckcOTyTetSpUocK5OLD",
+          "title": "OOP-B Lab-07.docx",
+          "alternateLink": "https://drive.google.com/file/d/1LsPrqkOfSB1YpckcOTyTetSpUocK5OLD/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNmFNYfmULOhCC0EidcXK7NjcBNZbmAZHD57IlIGJQXY4CbxSNDvFPf4MlwqoDQ-bDHkykCiT-9OmuXoosuSpKIm7suEytRyYsC-gAd2wlOSw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1J8p5Q40SihJ6idzSCTiX5H4Avwfd8Mp7",
+          "title": "Tutorial-Overloading-insertion-andextraction-operators.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1J8p5Q40SihJ6idzSCTiX5H4Avwfd8Mp7/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNv0SMwoWPVwIojJ10Bx92UldiHDvY3Zmtv_FKSjqUqscBwrglf6zl9r-LCLMGVGQvd-V-7FVi0YBYKyBZq4CAfqPO10zeibNfva6sECp5DLw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-07",
+      "dueTime": "2022-04-13T06:00:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1RqVi_xY12BA1jAq9PYXMb7ozts_tb_t9",
+              "title": "Source.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1RqVi_xY12BA1jAq9PYXMb7ozts_tb_t9/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPD6nHVX2F40K_g8g9D9nz9YIUicdxm3AfM4_jZSUNWa9SDweaUGqELSg62df0ZfAKQdbsBhpoqDuRoK9Xc4GHTiwU49IKwgnLz67ub4yeUaRw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-04-06T03:33:06.879Z",
+    "updateTime": "2022-04-12T18:25:44.477Z",
+    "publicationTime": "2022-04-06T03:35:04.295Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manuals"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Guq6mwreYzQFKLU0pRhuKfAvX6x2DmWv",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Guq6mwreYzQFKLU0pRhuKfAvX6x2DmWv"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-06",
+      "dueTime": "2022-04-06T05:00:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1qNjwfH0vtt0OWtoYEQHn5CKMIQc1hiko",
+              "title": "Source.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1qNjwfH0vtt0OWtoYEQHn5CKMIQc1hiko/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOxiwmBoZzfwGCOzdGWgS043lk3GuqL8vA58g87l2tW51SWZv87_NJ2vxNv9Sqckl2kE8jiZRUm2T-gfEKMs187FliU1OuDRt-2_9so7ghaiqk\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fariha Maqbool"
+      },
+      "emailAddress": "fariha.maqbool@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-03-30T03:29:03.202Z",
+    "updateTime": "2022-03-30T03:31:40.703Z",
+    "publicationTime": "2022-03-30T03:31:40.565Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manuals"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1O27mJlxd4PUCjC95cvkVjO5ugs4jtjOA",
+          "title": "Lab-05 OOP-BDS-2B.docx",
+          "alternateLink": "https://drive.google.com/file/d/1O27mJlxd4PUCjC95cvkVjO5ugs4jtjOA/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOzhF4vWfqyPvzxrsskJvlmKwzpmZB_DAzxiijCuDeLTiQZXfLg1t9OyYkdfW3BfOVuVmjS6Osc7qK7i0nNKDdH7yiLFI2Gspu7J16MlytdLQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-05",
+      "dueTime": "2022-03-30T06:30:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "17pMMxrEKvlcOAHQjWg6kDVz91NfxO1lY",
+              "title": "20L-0961_lab 5.zip",
+              "alternateLink": "https://drive.google.com/file/d/17pMMxrEKvlcOAHQjWg6kDVz91NfxO1lY/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fariha Maqbool"
+      },
+      "emailAddress": "fariha.maqbool@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-03-19T09:49:55.619Z",
+    "updateTime": "2022-03-19T09:49:55.238Z",
+    "publicationTime": "2022-03-19T09:49:55.107Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Submissions"
+    }],
+    "courseWork": {
+      "title": "Lab-04 Questions2",
+      "dueTime": "2022-03-19T12:30:38.896Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "12cNHez4WxT-BUQp3_T9mG1nvWd7-Kpmb",
+              "title": "Source.cpp",
+              "alternateLink": "https://drive.google.com/file/d/12cNHez4WxT-BUQp3_T9mG1nvWd7-Kpmb/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNo6snPVQSk-AOm4LeDPXRYnlQghZgzLj_eRKpgvmK1dmUGOPGFd2hPMPqF6jb_Wt1L3D4VmAv7vhgtA-oWw2M3zxohpMkDYmGsIaEvoRT-GkU\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Sznofq65a19Sco-dKIdMQ9DTyUSAQRfr",
+              "title": "matrix.txt",
+              "alternateLink": "https://drive.google.com/file/d/1Sznofq65a19Sco-dKIdMQ9DTyUSAQRfr/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO2Ef9l9WbN1nKTLUTYvOnqOCkQxsrPuPcjL_p8PG_jhM2q7IBoB6xWUryNEO03EekbYX3cJEtVGbIcXyCxQqMLenTbufmHcWJwNoHi0T8Jjdc\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fariha Maqbool"
+      },
+      "emailAddress": "fariha.maqbool@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-03-19T09:48:51.205Z",
+    "updateTime": "2022-03-19T09:50:15.014Z",
+    "publicationTime": "2022-03-19T09:48:50.592Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Submissions"
+    }],
+    "courseWork": {
+      "title": "Lab-04 Question 1",
+      "dueTime": "2022-03-19T12:30:15.775Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1LddHupk3jUK59FdLwkIkkhvP95tB8kTq",
+              "title": "l200961_Lab 04.cpp",
+              "alternateLink": "https://drive.google.com/file/d/1LddHupk3jUK59FdLwkIkkhvP95tB8kTq/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOFh3jqMfkqW8HOzgH_IZr_z8zlYqPVUV7RDNhqyfiAAe7dNGwbqaZscgVoHMlFfE8FnOgcPm_BprQN9uKYyi9yXvJFPeTlH73TQMJf5JS6cvM\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fariha Maqbool"
+      },
+      "emailAddress": "fariha.maqbool@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-03-19T09:27:29.774Z",
+    "updateTime": "2022-03-19T09:41:03.682Z",
+    "publicationTime": "2022-03-19T09:41:03.548Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manuals"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1SQUsOqNofc2eHPo-QAPd-iRzpFGyW0RR",
+          "title": "OOP-2B Lab4.docx",
+          "alternateLink": "https://drive.google.com/file/d/1SQUsOqNofc2eHPo-QAPd-iRzpFGyW0RR/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNHwxZYP6Ne-a0QMpNopUlBLBUamNLO07Uqmlqb768q0EA_sQ8kP3OG4zSREhui2sAvqM-uM1dgn-aHwDBoCTZU7dDRXTjh71n1nEatrr-CEg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-04",
+      "dueTime": "2022-03-19T12:30:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-03-12T08:58:22.531Z",
+    "updateTime": "2022-03-19T09:47:36.367Z",
+    "publicationTime": "2022-03-12T09:38:58.726Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manuals"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "17_iejIVMiSseockkAO1Ny-upbYY53m37",
+          "alternateLink": "https://drive.google.com/open?id\u003d17_iejIVMiSseockkAO1Ny-upbYY53m37"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1szcklBsRWg5ywE2_ACBn_9LiLMopAAXI",
+          "alternateLink": "https://drive.google.com/open?id\u003d1szcklBsRWg5ywE2_ACBn_9LiLMopAAXI"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-03",
+      "dueTime": "2022-03-12T12:42:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 0.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1o3gkVInaCuKyTDtk6wHJ7smTxP6KtGqU",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1o3gkVInaCuKyTDtk6wHJ7smTxP6KtGqU/view?usp\u003ddrive_web"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2022-03-14T09:51:54.470Z",
+          "updateTime": "2022-03-14T09:51:54.371Z",
+          "comment": "0/20 ? But I did finish my work",
+          "commentHtml": "\u003cdiv\u003e0/20 ? But I did finish my work\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fariha Maqbool"
+      },
+      "emailAddress": "fariha.maqbool@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-03-05T06:43:11.342Z",
+    "updateTime": "2022-03-14T10:12:29.926Z",
+    "publicationTime": "2022-03-05T06:48:14.881Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manuals"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1eaz3DQvP68krzW7KSDAGnjT3QvvWahS4",
+          "title": "Lab-02 OOP-B.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1eaz3DQvP68krzW7KSDAGnjT3QvvWahS4/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP_miSi33EsCSYuevSfTCtKQpKZk-a3bZGxe9bp4dyGoPvKTukGyGK7_JaxwyKptH-dYMXPFeoTF1mLRd4fwsI4igkFErg_dD1DLjBzwIw2PTw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-02",
+      "dueTime": "2022-03-05T12:30:00Z",
+      "maxPoints": 25.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1_LUEW1PGmgddDL0Dzr0vByPxSuTzpiSH",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1_LUEW1PGmgddDL0Dzr0vByPxSuTzpiSH/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

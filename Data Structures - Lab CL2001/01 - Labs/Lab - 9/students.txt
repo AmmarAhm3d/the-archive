@@ -1,0 +1,20 @@
+18
+
+9 Akram 2.53
+254 Yaseen 2.98
+111 Abdul 3.2
+6 Momin 3.3
+5 Ali 3.1
+4 Farooq 3.2
+176 Danial 3.5
+101 Ibtissam 3.2
+153 Zayd 2.34
+10 Tania 2.64
+16 Ahmed 2.5
+300 Ahmed 2.38
+43 Umer 2.9
+15 Haroon 3.5
+98 Nimra 2.8
+1 Tariq 2.73
+2 Umer 2.72
+3 Ali 3.15
