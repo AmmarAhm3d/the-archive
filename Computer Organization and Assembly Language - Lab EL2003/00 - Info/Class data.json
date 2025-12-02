@@ -1,0 +1,526 @@
+{
+  "version": 1,
+  "name": "BDS-3B COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE",
+  "section": "3B",
+  "room": "Lab-4",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom31ae6fa9@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1tSx_43qsT2_eTzAdcl5hZrCAC4_J5H6mDPQG80zLO5FKMdiPqDOCYgF8xgxX1kx5gZKDSW0h",
+    "name": "BDS-3B COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE 3B",
+    "openUrl": "https://drive.google.com/drive/folders/1tSx_43qsT2_eTzAdcl5hZrCAC4_J5H6mDPQG80zLO5FKMdiPqDOCYgF8xgxX1kx5gZKDSW0h"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "subject": "COAL",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Wajahat Ali Khan"
+      },
+      "emailAddress": "wajahat.ali@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-12-09T10:27:49.985Z",
+    "updateTime": "2022-12-09T10:27:48.644Z",
+    "publicationTime": "2022-12-09T10:27:48.317Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1DF5FDn9HLgXGg0KcP62LfCOEBf1pMk5P",
+          "title": "Lab11 coal.docx",
+          "alternateLink": "https://drive.google.com/file/d/1DF5FDn9HLgXGg0KcP62LfCOEBf1pMk5P/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN-HcrnMJny9vvwS1YMNQMb9t2dp0ZeGQ1P97idIkNwxQtUNwpeU64cIM9555u7vg-pmWpknSAcXLKLIEep4EL0skeBD-vEdDLaXaVDhAGuxNo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-11",
+      "dueTime": "2022-12-11T18:59:36.679Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1QQ-DdvQIgHk464BLWD7i5cgg9DgeYBOL",
+              "title": "l200961_act1.asm",
+              "alternateLink": "https://drive.google.com/file/d/1QQ-DdvQIgHk464BLWD7i5cgg9DgeYBOL/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPbo-bRXhmDj08n-Rvc1ds5bu8QUplqA4LJlvhaU185nV1jDddKrQ1pX5SMrIefaoru39VaRmTlAzRT1CPJdGbCW3wpF-qT7iWcUCgpzgH4eYk\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Wajahat Ali Khan"
+      },
+      "emailAddress": "wajahat.ali@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-12-06T04:19:06.412Z",
+    "updateTime": "2022-12-08T15:26:27.355Z",
+    "publicationTime": "2022-12-06T04:19:04.745Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1z68MzYDxEwtq75-jSbWTnihpOEaJrk62",
+          "title": "COAL_Lab10.docx",
+          "alternateLink": "https://drive.google.com/file/d/1z68MzYDxEwtq75-jSbWTnihpOEaJrk62/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNbRxQU-H09O1snIY3aKkqzMuwqj2pT81u0fHyRpCpw7nhRJ8bgeqaGktU0pL8logaQw2NNplPAR2Sdgp7xl6uZ7qsPUQyz9gKR_dvVsBIz-Yg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-10",
+      "description": "Submit this lab before Friday lecture",
+      "descriptionHtml": "\u003cdiv\u003eSubmit this lab before Friday lecture\u003c/div\u003e",
+      "dueTime": "2022-12-10T18:59:48.630Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1MYuBDKItkADxZv6N0-dV7SllkKqF9BEo",
+              "title": "l200961_act1.asm",
+              "alternateLink": "https://drive.google.com/file/d/1MYuBDKItkADxZv6N0-dV7SllkKqF9BEo/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP06j7JUduAQugdkVkN80yA1_2nFGTtOF7s_xavuBjhYV0KeS4_oLkeaBPTMmDjBl0xEDnx4MatVGofPCkQnA-8m8DvntE9lbPXJflF279gUMw\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "158eT_RQ5AZPvJF_ZUYVPqVneWT74znWW",
+              "title": "l200961_act2.asm",
+              "alternateLink": "https://drive.google.com/file/d/158eT_RQ5AZPvJF_ZUYVPqVneWT74znWW/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNqxVmYm8pGMi6rXSaTxDBJk80-qtaVwU5f_vne5ia72uAlti0qCpiyw-m2sYm9_CPr0sMD-bLph7JwSC37HoWWjpz9B8mP0_WN4fQE7Pjk7lw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Wajahat Ali Khan"
+      },
+      "emailAddress": "wajahat.ali@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-11-25T09:30:43.660Z",
+    "updateTime": "2022-11-25T09:30:42.141Z",
+    "publicationTime": "2022-11-25T09:30:41.907Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ZIick3CLBHEaU0kFk4DBf8hxQN8kQ1YG",
+          "title": "COAL_Lab9.docx",
+          "alternateLink": "https://drive.google.com/file/d/1ZIick3CLBHEaU0kFk4DBf8hxQN8kQ1YG/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPAM9kJA67NmNF1WluR9zRHaaHP01LbYUyEqrb0Ivl0arQ8Hmlz21iw3n2zPvF5S9LZo3i6X9yxV-lmp-Not6ZSqwnDMtpFUUZiu9-7s6KqAhc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-9",
+      "dueTime": "2022-11-25T18:59:27.908Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1AlxqIoqLKUT10-P4kaBEaoCehk6Cqw0y",
+              "title": "act2.asm.txt",
+              "alternateLink": "https://drive.google.com/file/d/1AlxqIoqLKUT10-P4kaBEaoCehk6Cqw0y/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN-1-b3MsR8D5iuBx2UrSnuYO5Ou7xxA5lQIO24Sw0WPd8oL371loruPpytjmmboEJdB2hap6IcaBZMEZQZUcfpFkf2f7qcIIWDlZikRxuh2xk\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1P0u2sLJF5w02uTgqX8IyIoyndMcz6FF2",
+              "title": "act1.asm.txt",
+              "alternateLink": "https://drive.google.com/file/d/1P0u2sLJF5w02uTgqX8IyIoyndMcz6FF2/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBONiAzVW4UtBSxwIAXoOmVZc-r_N3OpFm7apk0wCuWqTJqdJDu1MIoa8N4NRKgKZDonbTHLOuklDKLWk3gzDO6ZPEWrdDzEfvr-hKTgEpp-GTY\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Wajahat Ali Khan"
+      },
+      "emailAddress": "wajahat.ali@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-11-18T10:03:51.698Z",
+    "updateTime": "2022-11-18T10:03:50.082Z",
+    "publicationTime": "2022-11-18T10:03:49.855Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1U5521nvRwZE7kJENR-x_FCiJf7OWeLmt",
+          "title": "COAL_Lab8.docx",
+          "alternateLink": "https://drive.google.com/file/d/1U5521nvRwZE7kJENR-x_FCiJf7OWeLmt/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPs7c-DAHHow-tHvdv9YtuYIRxlheIYD04eHRUvuH4xOcuwI8RiLGNHy4vLPHf50iECvstlF-3sTnhywml-M_p4AWd3-beUaWbURfwhg3s8BVo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-8",
+      "dueTime": "2022-11-19T18:59:39.154Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1wauhS2ApP5bVmiSF9Z2YWwOiCWZKnsNp",
+              "title": "lab 8.asm",
+              "alternateLink": "https://drive.google.com/file/d/1wauhS2ApP5bVmiSF9Z2YWwOiCWZKnsNp/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO83HFP7uLKch6y6EB35tr7FYMSlF7HLlx1747oY3H7tK6OYAa4c3p8weRAHI86NSb1lPgyg6naOY-65pWI0w9d7QkEOVn7aw73AqaxQU4lVeQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Wajahat Ali Khan"
+      },
+      "emailAddress": "wajahat.ali@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-11-07T17:03:23.042Z",
+    "updateTime": "2022-11-07T17:03:21.627Z",
+    "publicationTime": "2022-11-07T17:03:21.413Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1CD0MHHlqVAgbOaXkIjk5q44Ph46MLgha",
+          "title": "COAL_Lab7.docx",
+          "alternateLink": "https://drive.google.com/file/d/1CD0MHHlqVAgbOaXkIjk5q44Ph46MLgha/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP0m_DnToUvveUrv89GFgBvHlPirGTcaNg3_4dcXbEQJMDLQVmgvNUjsXzetF-ZLL64Mk4tW7SHpQtis1zTZPOzUcdEhxzi_tZSmHz2KV9jSQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-7",
+      "dueTime": "2022-11-10T18:59:08.675Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BwC9WVdrHr9s1beMf_vdwOdM-XK6SEdd",
+              "title": "lab 7.zip",
+              "alternateLink": "https://drive.google.com/file/d/1BwC9WVdrHr9s1beMf_vdwOdM-XK6SEdd/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Wajahat Ali Khan"
+      },
+      "emailAddress": "wajahat.ali@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-10-21T09:34:17.826Z",
+    "updateTime": "2022-10-21T16:58:45.520Z",
+    "publicationTime": "2022-10-21T09:34:15.993Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14QoKGulx-6S4DWPXtUBvD7Yob9M4yBD0",
+          "title": "Lab6 Coal.docx",
+          "alternateLink": "https://drive.google.com/file/d/14QoKGulx-6S4DWPXtUBvD7Yob9M4yBD0/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPuNDfQoEKor5pi_KJriI5x3vBz6A_ms9qeyowLZywLTEiBjZcm72eYs-8E-UbskVuICl7mA-a3otGwkFXjKC-7BA3gpiYmAO74ilWAIkNJpF4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-6",
+      "dueTime": "2022-10-26T18:59:10.008Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1VKvwVf5c0Hv_In1uVrpL7iRXL75dtGsK",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1VKvwVf5c0Hv_In1uVrpL7iRXL75dtGsK/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Wajahat Ali Khan"
+      },
+      "emailAddress": "wajahat.ali@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-10-14T09:33:17.377Z",
+    "updateTime": "2022-10-14T17:32:57.468Z",
+    "publicationTime": "2022-10-14T09:33:15.452Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14yKIGWjtltlf17-4zhND_BckvGoAJqZV",
+          "title": "COAL_Lab5.docx",
+          "alternateLink": "https://drive.google.com/file/d/14yKIGWjtltlf17-4zhND_BckvGoAJqZV/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNUK_OxU_f7nIMP74mBiMYKriM_EVlxv5_DUC0cG7ktyxCcyXsRnoD1Ay4TaIR65jaVZM2J5IAOo5kMwKi_JMfCG6ypqzjUvkzf8lwAb64bVqo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-5",
+      "dueTime": "2022-10-16T18:59:06.649Z",
+      "maxPoints": 80.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1hcCRZX8w9cq7Nby4mE32F0WCqpMMJ2F7",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1hcCRZX8w9cq7Nby4mE32F0WCqpMMJ2F7/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Wajahat Ali Khan"
+      },
+      "emailAddress": "wajahat.ali@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-09-30T09:29:41.007Z",
+    "updateTime": "2022-09-30T09:29:39.620Z",
+    "publicationTime": "2022-09-30T09:29:39.384Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1MYivfBBgojm1VqDp4HG_-4dYEolvrOHt",
+          "title": "COAL_Lab4.docx",
+          "alternateLink": "https://drive.google.com/file/d/1MYivfBBgojm1VqDp4HG_-4dYEolvrOHt/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNHfLsgX4O9UyECso2QXgjmj8b8OPZimslOZ0zJxqKnGGh38xn35jdrKQWuSJSg2cL82KWEJjKsuuF2xS0mSXIvT12OTCjDk6-XUSh5iXa8dw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-4",
+      "dueTime": "2022-09-30T18:59:18.400Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1qs95iY7fwfAmRGI2LtheMUkTwVeGWR0o",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1qs95iY7fwfAmRGI2LtheMUkTwVeGWR0o/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Wajahat Ali Khan"
+      },
+      "emailAddress": "wajahat.ali@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-09-23T10:02:07.624Z",
+    "updateTime": "2022-09-25T03:21:51.533Z",
+    "publicationTime": "2022-09-23T10:02:06.311Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1d8AaZbXo8_gxRg5H9_2w_Nuo8qIr6YBs",
+          "title": "COAL_Lab3.docx",
+          "alternateLink": "https://drive.google.com/file/d/1d8AaZbXo8_gxRg5H9_2w_Nuo8qIr6YBs/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM9pTBvjgQPMLNVs_TPg8UHvHWNg6ngJDgclfpR9u1MKGrynH8-FK4U93dy4_GfR3zH5_QoIOf53bymRrI0KfIgJfw57TGP83nq9j68inC3lw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-3",
+      "dueTime": "2022-09-27T18:59:47.162Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1DMGM6TnmVs3sTAwAtYKU2wKIhBaBHh_t",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1DMGM6TnmVs3sTAwAtYKU2wKIhBaBHh_t/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Wajahat Ali Khan"
+      },
+      "emailAddress": "wajahat.ali@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-09-16T09:38:39.019Z",
+    "updateTime": "2022-09-16T17:01:36.218Z",
+    "publicationTime": "2022-09-16T09:38:37.270Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "17q97MovuRwfV5A9HpcJLiLPOm44J4yza",
+          "title": "COAL_Lab2 BDS-3B.docx",
+          "alternateLink": "https://drive.google.com/file/d/17q97MovuRwfV5A9HpcJLiLPOm44J4yza/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOdlS0El9awNsABRrN-Kl40eFQCvRW8xQ6M4EQ6Xmuu6jmvWx8xvz1NIRq3fdLSsDzZP9GRKDED1rp1n_N7K6mgKBpu6EeDAAVoh6859feLd-s\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab-2",
+      "dueTime": "2022-09-19T18:59:54.263Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1NcNYwNClqQNnYiiyuwB8Eg3oBGppgR9X",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1NcNYwNClqQNnYiiyuwB8Eg3oBGppgR9X/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

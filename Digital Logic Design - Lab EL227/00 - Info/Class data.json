@@ -1,0 +1,979 @@
+{
+  "version": 1,
+  "name": "Digital Logic Design LAB",
+  "section": "BDS-2B2",
+  "room": "B2",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomd96652c0@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/lookup/clbkv44wxp",
+  "courseFolder": {
+    "id": "0B6lgnLfMnpqyfllyal9HSnZwdU9PQzE5WVVmLTgtb2ZHdDNmdWpMWHBJX21vcjE2eER3NFk",
+    "name": "Digital Logic Design LAB BDS-2B2",
+    "openUrl": "https://drive.google.com/drive/folders/0B6lgnLfMnpqyfllyal9HSnZwdU9PQzE5WVVmLTgtb2ZHdDNmdWpMWHBJX21vcjE2eER3NFk?resourcekey\u003d0-ccCDd_Nwf6Bt_-97LEW3pw"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_code.jpg",
+  "subject": "Digital Logic Design",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-07-02T17:43:15.473Z",
+    "updateTime": "2021-07-03T05:03:52.150Z",
+    "scheduledTime": "2021-07-03T05:00:00Z",
+    "publicationTime": "2021-07-03T05:03:51.358Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Final"
+    }],
+    "courseWork": {
+      "title": "LAB Final",
+      "dueTime": "2021-07-03T07:00:00Z",
+      "maxPoints": 60.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1bBOwGPZhTzbVo4Atx4IeGeP7iiFOSJvV",
+              "title": "Task 1.cct",
+              "alternateLink": "https://drive.google.com/file/d/1bBOwGPZhTzbVo4Atx4IeGeP7iiFOSJvV/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1jwHyIGss2aAzoaP8ayl9EfpXmhlY3GG7",
+              "title": "Task 1 Pic Timing Dig.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1jwHyIGss2aAzoaP8ayl9EfpXmhlY3GG7/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOadVMeBLbNF0kqUaqXHuuD6MxNTd9EhE79zV7EDZWGaMwaJjxh95EjmWfyFD-gSkeAHE1CRvbi2Qb0PxyNFBBW41tSOsfY3OZdyIH66xkyZQ\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1KNGa_Y6jEam-eB6FLBwa2kwU-Hbi7NMQ",
+              "title": "Task 1 Pic Cir.PNG",
+              "alternateLink": "https://drive.google.com/file/d/1KNGa_Y6jEam-eB6FLBwa2kwU-Hbi7NMQ/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMHJSWSSfLc4FUS6QdogaIQfnqixnFFAqDXGh2MJowm1PHlUwEjdFEJqTDup_oxzqHwXnJOAL6ONY5a4AtD9VoofttuIyjaQgwu-zk5r2wFTQ\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1n1d40mzLFMNi-8URl3aqySeSFDQcQTs-",
+              "title": "Task 2.cct",
+              "alternateLink": "https://drive.google.com/file/d/1n1d40mzLFMNi-8URl3aqySeSFDQcQTs-/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1Lovu7hV13nCrsViM6Y2NL1THYMMPbaT-",
+              "title": "Task 2 Pic Cir (2).PNG",
+              "alternateLink": "https://drive.google.com/file/d/1Lovu7hV13nCrsViM6Y2NL1THYMMPbaT-/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPoaUrZ-6OGD3TUnz2gCMNfnoznpap8dhgI5UJ4pHyPJZwLDnzn3sBOyh-U0UAD4VChiiXEOT5GbpWlFXjQUUz3nGyE929YfpFGEs_J2z9byA\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-07-03T07:47:56.942Z",
+          "updateTime": "2021-07-03T07:47:56.866Z",
+          "comment": "maam please mark leniently, I have tried to reproduce the diagrams we learnt in course to my level best.\nalso i could not complete the task 2 in time.",
+          "commentHtml": "\u003cdiv\u003emaam please mark leniently, I have tried to reproduce the diagrams we learnt in course to my level best.\u003cbr\u003ealso i could not complete the task 2 in time.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-07-03T07:49:58.414Z",
+          "updateTime": "2021-07-03T07:49:58.340Z",
+          "comment": "also i have wrong clear input for dff a, please consider it",
+          "commentHtml": "\u003cdiv\u003ealso i have wrong clear input for dff a, please consider it\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Anum Tariq VF 2024"
+            },
+            "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-07-12T22:10:13.994Z",
+          "updateTime": "2021-07-12T22:10:13.613Z",
+          "comment": "ok",
+          "commentHtml": "\u003cdiv\u003eok\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-06-16T13:07:54.153Z",
+    "updateTime": "2021-06-18T06:33:31.033Z",
+    "publicationTime": "2021-06-18T06:33:30.864Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manual 13"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "10yKWgcBIAp0Pi6v5x_kbBjbvdGMU2ekf",
+          "title": "DLD-Lab Manual_13_BDS_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/10yKWgcBIAp0Pi6v5x_kbBjbvdGMU2ekf/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP5sFn1Ndi4FpiryqZrVW8VghU9E_llraq9ifHWRNVlKx6ApH-ZQyRIuRileBMSii_-LqDjv6bKUCFrrcCNeocFXklrX7t0n8YvRJV7KpZJ5RM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1OCm-0_A8VnLj7JeIVpSn8WgIfs-8Ft4r",
+          "title": "DLD-Lab Manual_13_BDS_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1OCm-0_A8VnLj7JeIVpSn8WgIfs-8Ft4r/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMQQJ5lz2s1uG8ydirh7DyWN6aV85KMGPwZMmG0P1scFyFykBfn4VzaR86qwGxT_GF_o78EQX5jqb3V2iwDlQx9eH1b50DPv70YeOyHMpcA6ro\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab Manual 13",
+      "dueTime": "2021-06-18T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1KXh_Kh8QUrzOL0_CGI6G6bjTfyybwvhH",
+              "title": "20L-0961_Ammar Ahmed_Lab-13.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1KXh_Kh8QUrzOL0_CGI6G6bjTfyybwvhH/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOKh7D6zqvWWgYh2F0jxz5DuQiDiWeoHwqTAP-y3pOUn6eyslDbcRzc4YttkHS7wvja8isAvrSC0l4UySIzZNsZxkSNNn91yO1DY8aEWLjU_A\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-06-09T19:15:44.024Z",
+    "updateTime": "2021-06-11T09:00:35.755Z",
+    "scheduledTime": "2021-06-11T09:00:00Z",
+    "publicationTime": "2021-06-11T09:00:35.539Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manual 12"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1NnqHsMOFl2EAnT1XSxZ7rUmZ7VqOu1_y",
+          "title": "DLD-Lab Manual_12_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1NnqHsMOFl2EAnT1XSxZ7rUmZ7VqOu1_y/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOgwdTaEpGdFM1hSZ_zkcir2kElNe_wB9ozyGG28gA7Q34tWouQt9JTgJF5jgweYGbY4ND_8pAvhbX3WsF-waMP_wPqGM8Hj2o3Dbdmc7wjXjg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "113mcjl-_7wRJf7cpzvswOOOikwFM0Di6",
+          "title": "DLD-Lab Manual_12_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/113mcjl-_7wRJf7cpzvswOOOikwFM0Di6/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN7aFS2Auj3XSv4nFTG1Mq4xvwHyG8jFGOFwWTV_p97nuZ_eNWPdUB50BpvQ28wxr7e2Z4aj152dvJUvjKpUVcvuH7GOrq8M_cDgL1I0rgsGus\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab Manual 12",
+      "dueTime": "2021-06-11T11:30:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1nADIL1-ILTZ-lSx0QQThQffIp1k2JzK5",
+              "title": "20L-0961_Ammar Ahmed_Lab-12.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1nADIL1-ILTZ-lSx0QQThQffIp1k2JzK5/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPWz6U_WcDpgvsdm8FVAY4XTtuemGgBof7x56sSwB0eju6WF3Z8DTs8bL1oWuwmlR4z11_0Wo3zhbnfJAxcTPWCEU2RFjSNc0A4EgY0EHgiVA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-06-03T19:45:18.234Z",
+    "updateTime": "2021-06-04T09:02:52.947Z",
+    "scheduledTime": "2021-06-04T09:00:00Z",
+    "publicationTime": "2021-06-04T09:02:52.760Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manual 11"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "173hxftPx9uWarw-PcaSgGnmr7EUDN3hB",
+          "title": "DLD-Lab Manual_11_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/173hxftPx9uWarw-PcaSgGnmr7EUDN3hB/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMggn2-GsEZt6z3L-JV2dfe3dzIwW6arYZiskarb5TBPE_sd-OX_zsfLpZL_WOwZfp3yRQ578erclijad5ESAQhzOpLvfSuurmx5KonryOD_88\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1AXzKd1M-SW6vRUQRaxC3HHrn_79ZEyW-",
+          "title": "DLD-Lab Manual_11_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1AXzKd1M-SW6vRUQRaxC3HHrn_79ZEyW-/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPu3QOZdeOrMsMofGSHdC24hnwDePJJTCnxIRePtzr4CZzyrEY0wGeemCfHXCVAOZ_JYecKwEeiGCmFhHFQE1mC8a_U1yUmQISz07ie1rwOamg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab Manual 11",
+      "dueTime": "2021-06-04T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1UNybWa9owV4WPIRbC0wuLEnVQSzdx3mb",
+              "title": "20L-0961_Ammar Ahmed_Lab-11.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1UNybWa9owV4WPIRbC0wuLEnVQSzdx3mb/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPAQeAiwBmzVCGOngCg5BXHgZIAdBoPh5lXBzGrhSxjxpAZ7et-0hpB63MIsWB0RNiAOyIIfM530CgZN_3ZjFZTStlzRdkgvXIA0ALUl6W-Eg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-28T09:02:09.229Z",
+    "updateTime": "2021-05-28T09:04:08.454Z",
+    "publicationTime": "2021-05-28T09:04:08.355Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manual 10"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "16Gc_nbI6VjlcRTXsdG7cR_C8rJEfNc5C",
+          "title": "DLD-Lab Manual_10_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/16Gc_nbI6VjlcRTXsdG7cR_C8rJEfNc5C/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMj7Xc0dWnwMVoKKcVRCZlzouwrpDypJG1T4udxpzATxZ-24UpfgVQaE1G9h9w2LRto1QJYg9bc5zq5gZhNUlB0BoEmkovwyjE8D6uEZBb3cXY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1XQui2ehIdAX1fE4Vi6LBFOp_apKehhWw",
+          "title": "DLD-Lab Manual_10_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1XQui2ehIdAX1fE4Vi6LBFOp_apKehhWw/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM0L496DofoxKDfDkHBY-fZ7nBvtd5AOHvdrHch_h_0I-iuAKcvNMXp63yCyix8atuailP7wjb5D6CAmQKnWoorIWgSkGs6IL0BnN0xAH5v9N0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab Manual 10",
+      "dueTime": "2021-05-28T18:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1OLrXoxYYVU13Iq36lfC7dHlY1O6q1AQA",
+              "title": "20L-0961_Ammar Ahmed_Lab-10.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1OLrXoxYYVU13Iq36lfC7dHlY1O6q1AQA/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBONSjuMeqVaghaLhRGMFzU7yXhGp6UEc6Jbpwub7O86UNMcIHZiipbrOYmnOkzwnv9_pyIh5v3yb1sToi2EWlfBOyI_nk7Vz5plcCYr-zxCig\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-19T21:30:17.456Z",
+    "updateTime": "2021-05-21T09:00:05.780Z",
+    "scheduledTime": "2021-05-21T09:00:00Z",
+    "publicationTime": "2021-05-21T09:00:05.544Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manual 09"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1mL8EsyuEJbdedw_h8VXXWP1cJ5xwrk5r",
+          "title": "DLD-Lab Manual_09_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1mL8EsyuEJbdedw_h8VXXWP1cJ5xwrk5r/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOQxhri-of56Y9TqBWSV-PIdLjaqRZfU1YFbCkiaKz41luwbIrAMFfVuOYD9V_iIZnDEtGH8QSgrMzKpnYzK8ihMyMZg8n93h8n1_z1WujKwoo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1Xw7qMeHgSkIAuFknEPg2orov0lfNUi6s",
+          "title": "DLD-Lab Manual_09_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Xw7qMeHgSkIAuFknEPg2orov0lfNUi6s/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPPbYzB_mApILybTorS9tRNy4daSKOAV6F_8yP0M132cJTPMId6Ugw8x_w1fjrQtnCTO6quUHu3s8KtWRPuF7XcERNZUeydh4q_32Y9X_F9bgk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab Manual 09",
+      "dueTime": "2021-05-21T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1DhG05Q5KbZ0YcUAswdQsTe-dl5Y4cT3q",
+              "title": "20L-0961_Ammar Ahmed_Lab-9.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1DhG05Q5KbZ0YcUAswdQsTe-dl5Y4cT3q/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO-v8RKXQzJFAfqvFAsN2wO_91TpawmwmWI2stKlPOwh579d37m890OkShOW0KYfD6WywwDt029TLA62g24wyNpJN7-scaNZMnoitohp3bOiQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-06T22:25:13.434Z",
+    "updateTime": "2021-05-07T09:10:42.057Z",
+    "scheduledTime": "2021-05-07T09:10:00Z",
+    "publicationTime": "2021-05-07T09:10:41.821Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manual 08"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1bmFWXgNicig4Fmq8Tc-TMPZgNXzE79oX",
+          "title": "DLD-Lab Manual_08_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1bmFWXgNicig4Fmq8Tc-TMPZgNXzE79oX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMZzWnedatigqKSwEAvl8bcWFVeGUVXJw5e3IUrZP47K6qwu9j_Q06r29ooYn_Ga1Dazbvvqg5Qvb5QhkqgAK4ZrnDYYeokvELKqQRThtut-o8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1Xayher4WeWjIusnlY0U0-1auWiDZW05y",
+          "title": "DLD-Lab Manual_08_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Xayher4WeWjIusnlY0U0-1auWiDZW05y/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOMSus70yTQgvlFv3ej17JUbmyaHVuYzWhEKWZ4XWB2Vwq4do_avB975kc8Tv0GbJWL18pRy8Ob-MZHsqUZUWVYP8ec04qoDGZ_A0rM8BS2LlA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab Manual 08",
+      "dueTime": "2021-05-07T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1X0dUVJNB8TM6pK2cAlBt_UsJWAsMtyUz",
+              "title": "20L-0961_Ammar Ahmed_Lab-8.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1X0dUVJNB8TM6pK2cAlBt_UsJWAsMtyUz/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNgZpOnmetsinbHFadGnKYCKqNRQaJKcmeGzsulb84h9efvtgBw99vOj3jdZy4M-imauiaJLevmVepAP2-APS40ETYZQ6um19ZKy1R3HE6sLA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-29T20:55:43.721Z",
+    "updateTime": "2021-04-30T09:13:51.670Z",
+    "publicationTime": "2021-04-30T09:13:51.498Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manual 07"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1yNhe0A9-JtKInx19xVs09NOMuFqFaMM6",
+          "title": "DLD-Lab Manual_07_BDS_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1yNhe0A9-JtKInx19xVs09NOMuFqFaMM6/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP5qDK6ZH2UonL5N0WHM55vBzWbYwHgELJfz0nff3PMKBO3CPGKybe3dsiQVRsXuwJ9aijOnaYjjpvD9ntfbJlb5FsjSyDeslXp7FgzzY6B7nM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1fAP1PVrVrzgSAqVxzIJ8z6gMI8nIb4tV",
+          "title": "DLD-Lab Manual_07_BDS_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1fAP1PVrVrzgSAqVxzIJ8z6gMI8nIb4tV/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP36-EIQRsjV-Qz3Dx_TyzpA5ZhN_ebi0CyaHlG8mIK9vgCV_XbD7J5Qvci-U1yfmA4P7qv5ON-LI_B0AhuhUk5YIcDxNL651IlGudZVASMCCY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Lab Manual 07",
+      "dueTime": "2021-04-30T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1PtcOM16KJkThkhN-xHoBzCq4CuIF9oLs",
+              "title": "20L-0961_Ammar Ahmed_Lab-7.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1PtcOM16KJkThkhN-xHoBzCq4CuIF9oLs/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOb9Px-bpA8DdLk_0zJYgv-fh3TR-LTUm3-chJ0EdgMqlTNLFdI8lNtUppM8_6KWKMiPqCytliXo54q9L62T2JdU2sp3pibVajeQofBd5_isw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-23T03:52:32.289Z",
+    "updateTime": "2021-04-23T09:03:47.236Z",
+    "scheduledTime": "2021-04-23T09:00:00Z",
+    "publicationTime": "2021-04-23T09:03:47.066Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manual 06"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1x3tMfRWIdq5EOpWgpHsmR0kxqTgs1fcj",
+          "title": "DLD-Lab Manual_06_BDS_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1x3tMfRWIdq5EOpWgpHsmR0kxqTgs1fcj/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBODvCFPjdLtdTaCfmMSDNtpHZ6xynfwWqMKFgTHGvSszziNVdth_HaeDMFsPAX0rIZWjDI_1fa6lKU6H6RzRPJpaiCCgM_HyYRCnlKMjx0kIQc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1fE1FYMMdJmTUXTslHGc-3YzTHJnnrLrX",
+          "title": "DLD-Lab Manual_06_BDS_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1fE1FYMMdJmTUXTslHGc-3YzTHJnnrLrX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP2XBdaSlkbdPqq_fgqREFgatXACNEilFzuWphbqMsxOiejjnZVK7WgfJlhxt4B9Ehujgd0DOBjywrys3lYNnDVgr-ZqB5y_qPfJ-BiNADgM-0\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "LAB MANUAL 06",
+      "dueTime": "2021-04-23T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1A3vFsCW7jeNBqhlLifdJc-g06mXYYEkD",
+              "title": "20L-0961_Ammar Ahmed_Lab-6.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1A3vFsCW7jeNBqhlLifdJc-g06mXYYEkD/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPrQTGTueRkxURtTkJwcUiwHeu2Z6XhO6YGfB-OPgjbKgBFv5evP_eJc3U40TfsWhcnRnz1IAtO3g-v3CHge5yMz-6Tf95JWttZpHcPbYFneA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-16T09:14:16.021Z",
+    "updateTime": "2021-04-16T10:04:58.254Z",
+    "publicationTime": "2021-04-16T09:16:12.348Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manual 05"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "129bSmdIgLVd5vMtUyBIipezGI75JxLhG",
+          "title": "DLD-Lab Manual_05_BDS_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/129bSmdIgLVd5vMtUyBIipezGI75JxLhG/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO3oTO_czp6vdx3Imzb7w24YQ6EqbgQ4L0VFIhch62NpQlhnGSaHTA3AbX2x79yw--LekbvwyA0As6X2OiuzjTC7UwEbxfduBVfily4BUDqTjg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "112qBW_6-SJZ0i8BlXCS5mQ6WE4e7kedr",
+          "title": "DLD-Lab Manual_05_BDS_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/112qBW_6-SJZ0i8BlXCS5mQ6WE4e7kedr/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM7_Q9th6GnFgORZ2kETD3Ko0asSBHtwqjECucrTp_QqboYbpLn9rdel2Xwf1MvVoXo2aV32DrIrbl-tmH-cH0jFp3iQU-oL7a5rDVW7pJhV0w\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "LAB MANUAL 05",
+      "dueTime": "2021-04-16T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xBdRFs1jpnjZxCPHuxNDjx0dbmG7t9Nf",
+              "title": "20L-0961_Ammar Ahmed_Lab-5.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1xBdRFs1jpnjZxCPHuxNDjx0dbmG7t9Nf/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN4iyItD3-N8q7Qv4yigAMq3rInZkrqYoC9LjIbnCqdtbybZ7HCHGmJozKglfQAXpSZbZtRNVT-ZyVNkN6G-bKwE-DCIAuSW8UlJ0NTvKjrKg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-07T09:32:43.436Z",
+    "updateTime": "2021-04-09T09:11:24.365Z",
+    "scheduledTime": "2021-04-09T09:00:00Z",
+    "publicationTime": "2021-04-09T09:00:46.030Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB Manual 04"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1GHNSqdQi2rduGxEAqqv1PQZokmnKzaOc",
+          "title": "DLD-LAB Manual_04_2B2_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1GHNSqdQi2rduGxEAqqv1PQZokmnKzaOc/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPKXeGXtCzVfJKd6_QCcnBR0xc29_LuJMApzsxuFT8MraOa0Jyps213DejGYDp3qh7dpCZXZNk9AFPa1sh9ftHPzHHdTIfbnlOq1qCG0C3MQGM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1JaiFhxRmM22R6WMH0AeXj9wnx1PudLKr",
+          "title": "DLD-LAB Manual_04_2B2_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1JaiFhxRmM22R6WMH0AeXj9wnx1PudLKr/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPI6Wt5-XVqZXtLRP_KfWyQNnis7qJ5q4SuYXeHf9ZBx3vqzmocOMNmi2SYrO7BIJYdCim1U9pTb3e3Tregce-wcYKsOtS-9iiHQTPfmgVU1qk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "LAB MANUAL 04",
+      "description": "Dear Students,\n\nPerform Question 1 \u0026 2 using ICs (codes of ICs are provided).  Remaining all questions you can do using blocks of gates.",
+      "descriptionHtml": "\u003cdiv\u003eDear Students,\u003cbr\u003e\u003cbr\u003ePerform Question 1 \u0026amp; 2 using ICs (codes of ICs are provided).  Remaining all questions you can do using blocks of gates.\u003c/div\u003e",
+      "dueTime": "2021-04-09T18:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Czdz46Doh_AgkaFROmaNHiBH--dAI0_D",
+              "title": "20L-0961_Ammar Ahmed_Lab_4.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1Czdz46Doh_AgkaFROmaNHiBH--dAI0_D/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMMdLEv_pQVsVlIXmylpNuLsK7Qeo_hsFszp96hmtL4VbccHChAJcO7gKWvxMGyXMzGtMdPPD9krakwMe6iC3tGutNakvRbY8ZLeKIaWIiU1Q\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-01T19:43:49.423Z",
+    "updateTime": "2021-04-02T09:00:05.624Z",
+    "scheduledTime": "2021-04-02T09:00:00Z",
+    "publicationTime": "2021-04-02T09:00:05.568Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "LAB Manual 03"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1uTrnZVCdfdsFcEKB5Hbii8PLRHbROwWI",
+          "title": "DLD-Lab Manual_03_2B2_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1uTrnZVCdfdsFcEKB5Hbii8PLRHbROwWI/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPYUSy8tE84p2pTrPQ5yAJ5fjBH1Q79wdko7BLKee9zQDmaLBg91JNdurZvTdLER-dINQFF-_jSnqv-1iXtbkOF9TORNR7eQTXhxGse9MIkv48\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1w7T2t61nzGQx-J9Pnd6bHcX7tMzHUlJ3",
+          "title": "DLD-Lab Manual_03_2B2_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1w7T2t61nzGQx-J9Pnd6bHcX7tMzHUlJ3/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPQRKx7g1A-Bb4CTDc2DwWxcy0W6HRa9S9nHvxD5btJqZxgiCGGjApjFkrJ15QMdD7sFuzAYPwu5bl-xniYWc5VrrqrTvIZXQ8DAxHDDxOkVFg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "LAB Manual 03",
+      "description": "The Manual is self explanatory. Kindly read it and start working. You can add the pictures in the manual if the solution is done on a piece of paper. Deadline is today 11:59PM. Session is available for questions and answers.\n",
+      "descriptionHtml": "\u003cdiv\u003eThe Manual is self explanatory. Kindly read it and start working. You can add the pictures in the manual if the solution is done on a piece of paper. Deadline is today 11:59PM. Session is available for questions and answers.\u003c/div\u003e",
+      "dueTime": "2021-04-02T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1v36FU6VIXB-kA0EKV4A0Ifx0FIkLinXu",
+              "title": "20L-0961_Ammar Ahmed_Lab_3.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1v36FU6VIXB-kA0EKV4A0Ifx0FIkLinXu/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOSVnB_G8v6Wlxj7lmltVLOAPFf2I6HY9fnLjV5sDtSK9e9_G8FGS-fcxHlbleaJtVQqU2jvv9RgBgxIv-8WDU1IoDAGY5dW7sTegl7kJlYIA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-03-24T15:18:10.833Z",
+    "updateTime": "2021-03-31T18:34:27.327Z",
+    "scheduledTime": "2021-03-26T09:00:00Z",
+    "publicationTime": "2021-03-26T09:00:53.707Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manual 02"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1QHBYjNplmYO10dWfCa6OlJJ7f7LjC1-m",
+          "title": "Logic Works Manual.docx",
+          "alternateLink": "https://drive.google.com/file/d/1QHBYjNplmYO10dWfCa6OlJJ7f7LjC1-m/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP_sADU5p1ZbUgUPthw86i34UwszmbneM__Pj3DrvTZGDEiUKsYJvumi-rZlHXctG21BG0gfW2PQiIL2v1PyGfmk517n15tTjvz3DKEiA2tT64\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1__DzGNPalDe0NiQVOZz8KzGoNUqb2TDk",
+          "title": "DLD-Lab Manual_02_BDS_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1__DzGNPalDe0NiQVOZz8KzGoNUqb2TDk/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPTJPQCH52ICL3s5Hi8sox_aJXP305Ot5JUpWM_qHCGto2YM2-7WNiG37fBd8IXZLGxNm_wEeNJChiTfDygcph-9iHivJIWoWi9GcwX7gATTGk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "LAB MANUAL 02",
+      "description": "Kindly download the Software from this Link:\n\nhttps://archive.org/details/LogicWorks5.7z",
+      "descriptionHtml": "\u003cdiv\u003eKindly download the Software from this Link:\u003cbr\u003e\u003cbr\u003ehttps://archive.org/details/LogicWorks5.7z\u003c/div\u003e",
+      "dueTime": "2021-03-26T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1sW_jt4tvUtHt1v5TyOdoN27RKjPaRS2Y",
+              "title": "20L-0961_Lab_2.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1sW_jt4tvUtHt1v5TyOdoN27RKjPaRS2Y/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOI0X-2LQygmchi6EqUPu7GaUZM8lUCVEnA4GXDzFqv8Z8kqxSU08Qm2sCKxp4U2wPy1c2drt57AQqUCRHvFVdwiGs849OhhVJ4JX5wPNtGnA\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-03-26T12:48:26.775Z",
+          "updateTime": "2021-03-26T12:48:26.657Z",
+          "comment": "maam I have done what I could understand accordingly, also I have explained what I did in the pdf.",
+          "commentHtml": "\u003cdiv\u003emaam I have done what I could understand accordingly, also I have explained what I did in the pdf.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Anum Tariq VF 2024"
+            },
+            "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-03-27T12:57:25.556Z",
+          "updateTime": "2021-03-27T12:57:25.503Z",
+          "comment": "ok",
+          "commentHtml": "\u003cdiv\u003eok\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Anum Tariq VF 2024"
+      },
+      "emailAddress": "anumtariq.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-03-18T06:54:41.472Z",
+    "updateTime": "2021-04-06T16:02:27.878Z",
+    "scheduledTime": "2021-03-19T09:00:00Z",
+    "publicationTime": "2021-03-19T09:00:52.669Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Lab Manual 01"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1nSfHIshTCRcWwmgfjwug-y2A7DyxUj5j",
+          "title": "DLD-Lab Manual_01_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1nSfHIshTCRcWwmgfjwug-y2A7DyxUj5j/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNwllvjulcj-Cw0FdwJlFfakhh5KsbL7SmIVsBD1YlHxFvnf5VkswUKeXCCHNzozYTOGkuFqLDlIZFjiKveevunOKEEVAorWX7GhN8IAFFYrWQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "DLD LAB Manual 01",
+      "dueTime": "2021-03-19T12:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1oj3xhulJtHX5wazU8pyV78idOo-ev0Zq",
+              "title": "20L-0961_Ammar_Ahmed.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1oj3xhulJtHX5wazU8pyV78idOo-ev0Zq/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPxd1TYRBxYteJ7uQN2SzDTU1x_3BeXMmAnEbzEp6i1-559Claoj-Lii6hbsvLmpOKXp6tKU_l5VRZIpnSLSQwSkpaWTrchKSRReHIi7m4cGg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

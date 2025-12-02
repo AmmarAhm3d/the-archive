@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "name": "Comp. Organization and Assembly Lang EE2003",
+  "section": "BDS-3B",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom61f8a81f@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1lLgYIjd7D1CwX-ozMKIFMc8GQP6XKGmxT34Ror5YlseEzV2fySKY82OnNXvFm2f80DiKQH1q",
+    "name": "Comp. Organization and Assembly Lang EE2003 BDS-3B",
+    "openUrl": "https://drive.google.com/drive/folders/1lLgYIjd7D1CwX-ozMKIFMc8GQP6XKGmxT34Ror5YlseEzV2fySKY82OnNXvFm2f80DiKQH1q"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Psychology.jpg",
+  "subject": "Comp. Organization and Assembly Lang",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-10-22T16:42:14.251Z",
+    "updateTime": "2022-11-21T15:34:44.567Z",
+    "publicationTime": "2022-10-22T16:49:43.882Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1LyulKIwQ58zdEe8bGWo_vk4QnN6GOnqP",
+          "alternateLink": "https://drive.google.com/open?id\u003d1LyulKIwQ58zdEe8bGWo_vk4QnN6GOnqP"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "10uA9MwiL8yUVn19m1OnSqxR1B4J3lb93",
+          "alternateLink": "https://drive.google.com/open?id\u003d10uA9MwiL8yUVn19m1OnSqxR1B4J3lb93"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Project",
+      "description": "PFA the project description and the excel sheet including your assigned project. This is the individual project, you can find a project number in front of your name on the sheet. The detail of each project is mentioned in the document. \n\nNote: The deadline is final, there will be no change to it. You have more than a month for this project so manage accordingly.\n\n\nSubmit only the .asm file.",
+      "descriptionHtml": "\u003cdiv\u003ePFA the project description and the excel sheet including your assigned project. This is the\u003cb\u003e individual project\u003c/b\u003e, you can find a project number in front of your name on the sheet. The detail of each project is mentioned in the document. \u003cbr\u003e\u003cbr\u003e\u003cb\u003eNote: The deadline is final, there will be no change to it. You have more than a month for this project so manage accordingly.\u003c/b\u003e\u003cbr\u003e\u003cb\u003e\u003cbr\u003e\u003c/b\u003e\u003cbr\u003e\u003cb\u003eSubmit only the .asm file.\u003c/b\u003e\u003c/div\u003e",
+      "dueTime": "2022-11-27T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1vvXXfV5p3Wb7ggAz84H4lNLB0CJlmtRg",
+              "title": "20L-0961_Ammar Ahmed_Snakes \u0026 Apples.asm",
+              "alternateLink": "https://drive.google.com/file/d/1vvXXfV5p3Wb7ggAz84H4lNLB0CJlmtRg/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPmvMrtrLzL94ms3gUDsxMJsxTcrmSKCcFb3xGsKaWM-lC9uN172bZ0N2r0JX1g376ME00HZm7I9NZuEDyUkPJThP-QgiUqzyAD2N_Lq9zi5cw\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Unknown user"
+            }
+          },
+          "creationTime": "2022-11-27T11:06:48.697Z",
+          "updateTime": "2022-11-27T11:06:48.660Z",
+          "comment": "Rename file and submit according to the format mentioned in the post few days ago.",
+          "commentHtml": "\u003cdiv\u003eRename file and submit according to the format mentioned in the post few days ago.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2022-11-27T11:07:47.490Z",
+          "updateTime": "2022-11-27T11:07:47.431Z",
+          "comment": "Ok",
+          "commentHtml": "\u003cdiv\u003eOk\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-10-22T16:11:50.583Z",
+    "updateTime": "2022-10-30T07:43:33.057Z",
+    "publicationTime": "2022-10-22T16:11:49.079Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1UjU0mMksdwPaOfmiuS0s3iuuYOPu5BZs",
+          "alternateLink": "https://drive.google.com/open?id\u003d1UjU0mMksdwPaOfmiuS0s3iuuYOPu5BZs"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2",
+      "description": "Late submission marks will be deducted. Submit a separate .asm file for each question. \n\n\nNote: Follow this format for file name \n21L_1234_Q1.asm",
+      "descriptionHtml": "\u003cdiv\u003eLate submission marks will be deducted. Submit a separate .asm file for each question. \u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003eNote: Follow this format for file name \u003c/b\u003e\u003cbr\u003e\u003cb\u003e21L_1234_Q1.asm\u003c/b\u003e\u003c/div\u003e",
+      "dueTime": "2022-11-02T18:59:00Z",
+      "maxPoints": 60.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1H0XJgWYL9gL-ofR21H5D2pdBq975YA7Q",
+              "title": "20L_0961_Q3.asm",
+              "alternateLink": "https://drive.google.com/file/d/1H0XJgWYL9gL-ofR21H5D2pdBq975YA7Q/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMeiQ7p7Q3CTpv3QpCY85dQOc-Yk4u6L75kmbcjPSw5EiccMGt1hL22Fp8JH11MRAkZ5E0Ca3gVxCHi6v_tSiLbCXqom17UQdQG5M72g8rIz4U\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "15W1A6eTM7f4XBh1-3iSTm-cePoTtGURM",
+              "title": "20L_0961_Q1.asm",
+              "alternateLink": "https://drive.google.com/file/d/15W1A6eTM7f4XBh1-3iSTm-cePoTtGURM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNJlUvJNAxuPsB_ckR-10uIbyEG8rdgJ633RZk6dDBqBm5lJ44PYe6z-HZct3_2SI2R-eRqRiq6sHt3Lbc-lbprgekAu-JhQQtfbvpOb77RMDc\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "13omFwEmkobAOXTRl6B2F_VILY6c9qehv",
+              "title": "20L_0961_Q2.asm",
+              "alternateLink": "https://drive.google.com/file/d/13omFwEmkobAOXTRl6B2F_VILY6c9qehv/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNF_bwGEY5IFUlBccPrWXO-B2Yroj-EYFYLazLtZxei7rvKwcbTkRiiXuhAxPVbVhGgN0jCPixbw8WJP8_IBw8byTyPMdjgCxBmcN9HAyhnZEI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Sana Fatima"
+      },
+      "emailAddress": "sana.fatima@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-09-22T06:31:30.997Z",
+    "updateTime": "2022-09-30T07:04:59.403Z",
+    "publicationTime": "2022-09-22T06:31:30.290Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment #1 submission folder",
+      "dueTime": "2022-09-23T08:00:00Z",
+      "maxPoints": 75.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 63.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1RkOazlo7Ew-P2ZNytCsvfbhdlpGiF-1t",
+              "title": "l200961 assignment 1 coal.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1RkOazlo7Ew-P2ZNytCsvfbhdlpGiF-1t/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMS-DhewpkwVd4CrbdDBl7CbIoWfGppHTCqD9DjK7aAFG_XkO9rDzYRD3iJmOd2IJmdXUdvQUctpeKuaLq7FlwPz3yDgJyntVgNcKSdTZM0ZyA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2022-09-11T14:24:07.084Z",
+    "updateTime": "2022-09-17T10:51:45.488Z",
+    "publicationTime": "2022-09-11T14:24:06.584Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Homework 1 Submission (Scanned Copy)",
+      "description": "Submit Handwritten homework in class and also submit a scanned file in google classroom.\nLate submissions are not allowed.",
+      "descriptionHtml": "\u003cdiv\u003eSubmit Handwritten homework in class and also submit a scanned file in google classroom.\u003cbr\u003eLate submissions are not allowed.\u003c/div\u003e",
+      "dueTime": "2022-09-12T05:00:00Z",
+      "maxPoints": 35.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 30.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1KiPszdqASSMVugG-AJTgAiPbxmgX1H4X",
+              "title": "l200961 hw 1.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1KiPszdqASSMVugG-AJTgAiPbxmgX1H4X/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMPFwI7dUDuLPbtulOUf5n1MzRMkWYYTrHiS1CrRjDnI3bGA9BlHd-Ft9dhgCNPN90ll39YfpCKVktvkI84l1iJy_B7iI_FiM8qHH5nUnCf0iY\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

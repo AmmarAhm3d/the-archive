@@ -1,0 +1,1140 @@
+{
+  "version": 1,
+  "name": "Digital Logic Design",
+  "section": "BDS-2B (Spring-2021)",
+  "room": "B",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom98f08621@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0B6lgnLfMnpqyfmdNREpHXy1fVy1EWlRaN21mVGpxYTNXRW83UTQycDdLcV9wZnoyUXRZRFk",
+    "name": "Digital Logic Design BDS-2B (Spring-2021)",
+    "openUrl": "https://drive.google.com/drive/folders/0B6lgnLfMnpqyfmdNREpHXy1fVy1EWlRaN21mVGpxYTNXRW83UTQycDdLcV9wZnoyUXRZRFk?resourcekey\u003d0-k9FVEqZhVVQ5Wl5ABdqpkg"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_breakfast.jpg",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-26T11:48:04.276Z",
+    "updateTime": "2021-06-11T05:43:16.595Z",
+    "publicationTime": "2021-06-11T05:43:16.500Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "DLD Project Submission",
+      "description": "Submit the .cct files of your projects in the G-classroom too.\n\n\n",
+      "descriptionHtml": "\u003cdiv\u003eSubmit the .cct files of your projects in the G-classroom too.\u003c/div\u003e",
+      "dueTime": "2021-06-23T18:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-31T10:50:16.739Z",
+    "updateTime": "2021-05-31T10:50:54.706Z",
+    "publicationTime": "2021-05-31T10:50:54.521Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "130mVgaRDiUqaQHVyGx3Ds2x1JAkyQ0ok",
+          "title": "Class activity # 18.pdf",
+          "alternateLink": "https://drive.google.com/file/d/130mVgaRDiUqaQHVyGx3Ds2x1JAkyQ0ok/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN5uBbi0SdtIGss7cPSR1Mqi-q8jbfLXNv5GfAMSZ04SZysUp4KYBgpSqWQUMxfOXO9HQtgu4FEdzKiaiDXyV5Cg86gFo07-6RnxcUZIYlQRhw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity # 18",
+      "dueTime": "2021-05-31T12:00:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1l0QFSd8au5bbQL8FE_Lo3p17VKGTpyUN",
+              "title": "20L-0961_Class Activity # 18.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1l0QFSd8au5bbQL8FE_Lo3p17VKGTpyUN/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPGtoVN_AykKC3vShMSsMUVlheq8cVHuiDteQSfrzlZV4c04GjKukP_rLrktG64yBRgzMV5MHtfRx9z5BgzDpqUeU8nqC6pNFXZ1l-_7TXtWA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-26T10:48:09.131Z",
+    "updateTime": "2021-05-26T10:48:34.267Z",
+    "publicationTime": "2021-05-26T10:48:34.247Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Ov0v8pYNqBSaWkgS9bprY32gNGFL4CnT",
+          "title": "Class Activity # 17.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Ov0v8pYNqBSaWkgS9bprY32gNGFL4CnT/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOngY2nXOBHPl2zMVi65a4oSvR45RinD_iQKV7Vcd-TMFMwAXVwkxVFx6osCkx1ADAKLvzNkPEqhfraKzEBuYKX9aC35WBWt61dPRgb5ohH6xk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity # 17",
+      "dueTime": "2021-05-26T11:45:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "17-JKWq8z4wxdkZ2vmYMrskfz-jKFSRAm",
+              "title": "20L-0961_Class Activity # 17.pdf",
+              "alternateLink": "https://drive.google.com/file/d/17-JKWq8z4wxdkZ2vmYMrskfz-jKFSRAm/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP22ZD1fJcj-U6xJjlK8qQkeeznT-bHtfHpKYYYjsbvTvipd5vMmCnoKTX7aCueI4kjOKn-ylC_JmVAU7xkTNF4mHcOtugCpLalb87vmvgQig\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-24T10:34:30.256Z",
+    "updateTime": "2021-05-24T11:07:00.228Z",
+    "publicationTime": "2021-05-24T10:46:20.154Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1N94AMnWGglzkHc_tjF0AK-fAkQp7JFrp",
+          "title": "Class Activity # 16_Spring 2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1N94AMnWGglzkHc_tjF0AK-fAkQp7JFrp/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP-I7KI7nztkGTiVOPq-xoVAXtYbeWo_rREZ5w9R1qg4VLf8J1SErqINr_dBGbDVndnIm9Z6zJx8phu7d5qLvF1EJNTjS2xKuR2n2nvh51uYr4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity # 16",
+      "description": "Solve the up-dated class activity now\n(I have made few changes in the file)\n",
+      "descriptionHtml": "\u003cdiv\u003eSolve the up-dated class activity now\u003cbr\u003e(I have made few changes in the file)\u003c/div\u003e",
+      "dueTime": "2021-05-24T11:50:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "17se2QXIux4jgUKftBePIZqDyqE6g781c",
+              "title": "20L-0961_Class Activity # 16.pdf",
+              "alternateLink": "https://drive.google.com/file/d/17se2QXIux4jgUKftBePIZqDyqE6g781c/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPO0FJK23bVslELX93e3eZJDRAIJs-L7uIsVBxiHMlTEgIT3erFFrMWf5U81ADfPgygjLO5x5Avlv4rfV6GM9wRCzV-HWa7OuJtyAARE3Ezuw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-19T09:29:33.695Z",
+    "updateTime": "2021-05-19T10:43:54.195Z",
+    "publicationTime": "2021-05-19T09:43:37.122Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1YiqgcYBJBJDcgQE1u1FlFWGdnO9gnbiz",
+          "title": "DLD Projects.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1YiqgcYBJBJDcgQE1u1FlFWGdnO9gnbiz/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPWL7faA6bJOxwx1M6_fqCjBvqP1RxE4y-SoLqeVI5lvN0dmq2i7B2Pa47qvDZOpBb6UlS8L7V10Suc8Olps4Ffc5I0g6Tuf6Wt6daXEqc8dwc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Groups \u0026 Selected Project",
+      "description": "Rule is first come, first take. Means the group who will comment under the post the title of selected project first, will take that project. (even if the difference is a few minutes). \nThat is why I am creating a post in G-classroom as a \"Question\" so you can write down the details (group members \u0026 selected project) in the answer. And at the same time, other students will know whether they can select that project or not. So kindly after reading the comments of other students, make your choice (as I\u0027ll not mention every student that this project has already taken twice)\nIn each group only 2 members are allowed. (You have a total strength of 28 students it means total groups will be 14)\n",
+      "descriptionHtml": "\u003cdiv\u003e\u003cb\u003eRule is first come, first take. \u003c/b\u003eMeans the group who will comment under the post the\u003cb\u003e \u003c/b\u003etitle of selected project first, will take that project. (even if the difference is a few minutes). \u003cul\u003e\u003cli\u003eThat is why I am creating a post in G-classroom as a \u0026quot;\u003cb\u003eQuestion\u003c/b\u003e\u0026quot; so you can write down the details (group members \u0026amp; selected project) in the answer. And at the same time, other students will know whether they can select that project or not. So kindly after reading the comments of other students, make your choice (as I\u0026#39;ll not mention every student that this project has already taken twice)\u003c/li\u003e\u003cli\u003eIn each group only 2 members are allowed. (You have a total strength of 28 students it means total groups will be 14)\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e",
+      "dueTime": "2021-05-24T09:00:00Z",
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "shortAnswerSubmission": {
+          "answer": "Ammar 20L-0961\nHassan 20L-1365\nProject 2: Bank Token Management System"
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-05-19T11:34:08.868Z",
+          "updateTime": "2021-05-19T11:34:08.675Z",
+          "comment": "now we have chosen\n\nProject 3: 4-bit Processor",
+          "commentHtml": "\u003cdiv\u003enow we have chosen\u003cbr\u003e\u003cbr\u003eProject 3: 4-bit Processor\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "COURSE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-17T10:52:25.108Z",
+    "updateTime": "2021-05-17T12:11:30.453Z",
+    "publicationTime": "2021-05-17T10:52:48.001Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1-C_Q3ZLDFuaVe8kX0Mtrj7QC6LCOCHVX",
+          "title": "DLD- Class Activity 15_SPRING2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1-C_Q3ZLDFuaVe8kX0Mtrj7QC6LCOCHVX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOrjiP0hTZqgVbFsfeLhPboUfCldRJ9sudMlmnNgAbLZMUkq2qmVPlyAMUZkf_H5UUiOQIvD5-M4rDcEQ8AROG39MxIwcK9ZUGKowCTHacl4dQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity # 15",
+      "dueTime": "2021-05-17T13:30:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "12dcMiyaE3-ZY9KdsOLITRjIK6e4DamD9",
+              "title": "20L-0961_Class Activity # 15.pdf",
+              "alternateLink": "https://drive.google.com/file/d/12dcMiyaE3-ZY9KdsOLITRjIK6e4DamD9/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMwQiRnnTYVmHJJAhDg9h8-za_xv83QvgdAaP2gsOsGrhUfr6F9CiRpHaALsFonRh1c0Z51dYlPRlWbpeV7d1BLoYK6WCSpZ5Ut61fSHL25Cg\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-05T08:53:39.632Z",
+    "updateTime": "2021-05-05T10:42:09.728Z",
+    "publicationTime": "2021-05-05T10:42:09.629Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1RSyI8go2uTP8lVHF9_4x6AkjLf2yJ3qc",
+          "title": "Class Activity # 14.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1RSyI8go2uTP8lVHF9_4x6AkjLf2yJ3qc/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNt84aAh74gO9DeANqtHZi-qZ-ST0ABnabrYyogEBByFoluLCwGn_GHB2D9z8iKx2PukV2tD9-iZkq65Se57A0hV8VOD74Q4sZrzhwD5Mh46XM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity # 14",
+      "dueTime": "2021-05-05T12:00:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1CL9NrQr6S0SHy3B0fPGvRbU932SuoEn4",
+              "title": "20L-0961_Class Activity # 14.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1CL9NrQr6S0SHy3B0fPGvRbU932SuoEn4/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNsycfejg_V4NfcDVjYfYb5xo5tohONBWrrW3Rq8Kygr_dv-9hv_1yB9zWktHrKYCTLq8w89p5z320_GHUbgp1iL5A9VrC6mWFNXXtweYctYw\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-02T06:11:52.897Z",
+    "updateTime": "2021-05-02T06:15:01.167Z",
+    "publicationTime": "2021-05-02T06:14:48.299Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Homework Submission",
+      "description": "There was a homework, nobody asked how to submit. Those who remember can submit here. \nDue time is mentioned. \nI will not respond to the emails who will ask \"what was the homework ma\u0027am?\"",
+      "descriptionHtml": "\u003cdiv\u003eThere was a homework, nobody asked how to submit. Those who remember can submit here. \u003cbr\u003eDue time is mentioned. \u003cbr\u003eI will not respond to the emails who will ask \u0026quot;what was the homework ma\u0026#39;am?\u0026quot;\u003c/div\u003e",
+      "dueTime": "2021-05-02T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1tfexXeKsJVLzdqje6weKi98328b_ik6P",
+              "title": "20L-0961_Homework.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1tfexXeKsJVLzdqje6weKi98328b_ik6P/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPjJ2EAczhST550_MgVFLPq_ZlsGnlLBhhWBRLrKfD9t-qPiQ6L8lEZe4JOnEUrbWu61Az_NSVuXh9uJWC7bwCuujh_9tj0NV_aW2vOrnvhyw\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-05-02T19:39:28.208Z",
+          "updateTime": "2021-05-02T19:39:28.133Z",
+          "comment": "12:30 \nforgot to add OR gate for Y",
+          "commentHtml": "\u003cdiv\u003e12:30 \u003cbr\u003eforgot to add OR gate for Y\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-28T10:49:57.520Z",
+    "updateTime": "2021-04-28T10:50:27.879Z",
+    "publicationTime": "2021-04-28T10:50:27.785Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1_2DYp5gf6Ol3AO1MLrHdivlWD69ESDVp",
+          "title": "Class Activity # 13.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1_2DYp5gf6Ol3AO1MLrHdivlWD69ESDVp/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPljKtyjbJMR-caWYoDKEZ1LF0STj2bExMU0MFxWfwpS9-_Tg9GAeB69iy-EkgDCRygINoc8mJ2qkmaqre8lbfxm3Jdxylj8ipQ1xRsd4FSXqM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity # 13",
+      "dueTime": "2021-04-28T11:30:00Z",
+      "maxPoints": 5.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1zzrBzgQfR0efixScoJqf6oHUOfLbtdiE",
+              "title": "20L-0961_Class Activity # 13.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1zzrBzgQfR0efixScoJqf6oHUOfLbtdiE/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMPH7YI-vURjSg96Ea-UXsOyMkt-zGRKdhxpty1_JmdZYDfYeBT91cpdpol5jrlByI53QkFeBlKClYx6lHUSlT6mwkUchTAhTDja_6eA3sv0g\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-26T10:35:25.742Z",
+    "updateTime": "2021-04-26T10:40:59.944Z",
+    "publicationTime": "2021-04-26T10:40:59.844Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1PUhgliNtZnjQeW1GesNLL25pharW4rKt",
+          "title": "Class Activity # 12.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1PUhgliNtZnjQeW1GesNLL25pharW4rKt/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPDl4aK-flxOc_XSbuG934PGj14kVtc2YciU9wO7HKrDTj9NYkcf9lHt7rCNah3dqvJNDgfCQpwC0SqLyj21fLWW7hTtQoFmTvUBRbxT2qg0WI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity # 12",
+      "dueTime": "2021-04-26T11:45:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1lvb3KJPPhoc-yGaEnUjSzDlGNzAAi7X9",
+              "title": "20L-0961_Class Activity # 12.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1lvb3KJPPhoc-yGaEnUjSzDlGNzAAi7X9/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMMfb0e0hAST0jAQ2rm70VfM3cWA0QTbPpBKPqHNeFzvdTUM-DEzaEJtj2PWiMekGtBaaBiA6e_Oshb8IuIfdGndVyuXqLoeME8WcyzH_JDSA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-21T12:25:31.772Z",
+    "updateTime": "2021-04-21T12:28:23.931Z",
+    "publicationTime": "2021-04-21T12:28:23.716Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1zaR9N39Th3v8JAIk-pzPLBnPsaLxBx4b",
+          "title": "Assignment (Class Activity # 11).pdf",
+          "alternateLink": "https://drive.google.com/file/d/1zaR9N39Th3v8JAIk-pzPLBnPsaLxBx4b/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMWT70g016S273xD2qEbJX_FJlsqCqPd7ZfmWggi9lEMMTksMkHXQkoBHMTy49BFMbT1jtiBIviBdrcKUjxHWA07FKC8LqhGi06KKuxIQ2LWdg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment (Class Activity # 11)",
+      "description": "Due time: Saturday till 11:59 PM\nNo late submission will be accepted as plenty of time is given. So kindly if you think up-loading takes time then submit BEFORE time.",
+      "descriptionHtml": "\u003cdiv\u003eDue time: Saturday till 11:59 PM\u003cbr\u003eNo late submission will be accepted as plenty of time is given. So kindly if you think up-loading takes time then submit BEFORE time.\u003c/div\u003e",
+      "dueTime": "2021-04-24T18:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1vETC3gVtYr1jhPZ_n58GntQ6uvsDPwte",
+              "title": "20L-0961_Class Activity # 11.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1vETC3gVtYr1jhPZ_n58GntQ6uvsDPwte/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPzx4hEjEZWG84YNc1vt5DLJCWIO_v9B6XB_p5y6tH8LjdSF_ao1FYN27pJkiDrUf5TtC_kOxZtN1Qdd0VtZZEnNowtcQr5qZB6T9-3t4kX9g\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-19T10:46:00.101Z",
+    "updateTime": "2021-04-19T10:46:39.120Z",
+    "publicationTime": "2021-04-19T10:46:39.011Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1pI1iZiwe5WstH4-4HoZoJg5S4nIxFCV4",
+          "title": "Class Activity # 10.docx",
+          "alternateLink": "https://drive.google.com/file/d/1pI1iZiwe5WstH4-4HoZoJg5S4nIxFCV4/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNJnJP-BtZTTK4zak01uKaFB61_u58mTQnaIqwm7mReZp_EVg-Ju-B090iWwGeH1eewvM_8__nOMyt0zezYZ4iCJa4ixv50jjnHSQ_MBY2ZNE4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity # 10",
+      "dueTime": "2021-04-19T11:40:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1uHwngCw22keZAbysG1VfOWj77feIi37p",
+              "title": "20L-0961_Class Activity # 10.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1uHwngCw22keZAbysG1VfOWj77feIi37p/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPQxHF2VzYyZBEebWrfVx4v16VmMqIyKNvOh9-on0WecADuP5bdRnAKfDBlZPIL3fMr4LS_RlPLyHm3HUTpMTre6Xcp7HM8zTNwqRSlV32R4g\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-12T10:00:01.461Z",
+    "updateTime": "2021-04-12T11:45:09.037Z",
+    "publicationTime": "2021-04-12T10:45:06.053Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1gMM1G56tliWFZoHCnjJmmP8yEzcDsewB",
+          "title": "CLASS ACTIVITY# 8_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1gMM1G56tliWFZoHCnjJmmP8yEzcDsewB/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOdyrIP9il91HfD3McYtygFWunYlMOKI0_PY_eZPb0TyT61vdGbzeHeaqblweJ7o9ioS3rv6M87bfihoi1hn2M2i3MTTeNDzKq5u7XNKSnhYhI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity # 9",
+      "description": "It is class activity # 9. \n",
+      "descriptionHtml": "\u003cdiv\u003eIt is class activity # 9.\u003c/div\u003e",
+      "dueTime": "2021-04-12T11:46:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1pFY62W902xey0JUUmaFDrQvmyVoczAtI",
+              "title": "20L-0961_Class Activity # 9.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1pFY62W902xey0JUUmaFDrQvmyVoczAtI/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPyaapZVPW6whfl1uWOXxJEtdh2oiCtm9r2EqVPou3e-QKaC8djzvBQmuvt5fNEBlS-xI3dVxrdEgyeU5MTWLjSZytc7pP8zwVu4pamW05FAA\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-04-12T11:41:12.380Z",
+          "updateTime": "2021-04-12T11:41:12.227Z",
+          "comment": "ma\u0027am, shouldn\u0027t this class activity be named #9, as we did activity #8 last class",
+          "commentHtml": "\u003cdiv\u003ema\u0026#39;am, shouldn\u0026#39;t this class activity be named #9, as we did activity #8 last class\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Nazish Saleem"
+            },
+            "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-04-12T11:44:39.946Z",
+          "updateTime": "2021-04-12T11:44:39.574Z",
+          "comment": "Yes.\nmy mistake\nThank you",
+          "commentHtml": "\u003cdiv\u003eYes.\u003cbr\u003emy mistake\u003cbr\u003eThank you\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-07T10:52:45.538Z",
+    "updateTime": "2021-04-07T10:53:18.252Z",
+    "publicationTime": "2021-04-07T10:53:18.221Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Qh3V0TgcAoiw71apki5sVelIPnAFbGqk",
+          "title": "Class Activity#8_SP2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1Qh3V0TgcAoiw71apki5sVelIPnAFbGqk/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO3g_ydNYL14AFVHs8Fq5wY4jqtI6Zex1LGPZy1ofI94VWa5hObVk1dikLMNSRcYEUhDAXKuIKnr7QLvq7-2qaYFKBsYKFp2Iw-lm82q20ZhiM\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity# 8",
+      "dueTime": "2021-04-07T11:46:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "18gg3LG5zQKAPmnSTjXM8Ar23X8beDBNO",
+              "title": "20L-0961_Class Activity# 8.pdf",
+              "alternateLink": "https://drive.google.com/file/d/18gg3LG5zQKAPmnSTjXM8Ar23X8beDBNO/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMkgYWq90xLMah6iayniHla1JokZrysWDxyViI-Z_VnHJDtv-hNk-_DcHQfbY5vWpT4vCDjVZY5tePYmqW---eomdC8LVWtQzZR03GMEJ0m8A\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-05T11:19:41.324Z",
+    "updateTime": "2021-04-05T11:21:07.931Z",
+    "publicationTime": "2021-04-05T11:21:07.720Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "14s68k6nHu-u6X4pZxvq_kkV6Qyt9r0Q4",
+          "title": "CLASS-ACTIVITY# 7_SP-2021.pdf",
+          "alternateLink": "https://drive.google.com/file/d/14s68k6nHu-u6X4pZxvq_kkV6Qyt9r0Q4/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMomFUl_2LwvemPbP_pHlFlw_rBcUbU3-wnaxagvUMLDBGKDUh3EYxwY_fgYjI3Ltgy4nsj24jAD8KYuAnkgz49mnGzgEafT8qmba9D_2NhYw8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity# 7",
+      "dueTime": "2021-04-05T11:50:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ZLUowCkSzRBXSTOEK457aQ3R1kQo4HlZ",
+              "title": "20L-0961_Class Activity #7.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1ZLUowCkSzRBXSTOEK457aQ3R1kQo4HlZ/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNornYX8BFLEkUQjlYZHO3yixKX_t03hAJLKDkQk5qeNfX8IogSpNxuWnxL-9kleP5EFBtL_ZahPAB64bTeh3V9Bmskq-UGX0zZTISxeT_Hww\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-03-31T12:16:36.139Z",
+    "updateTime": "2021-03-31T12:17:37.343Z",
+    "publicationTime": "2021-03-31T12:17:37.111Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1DvZFh_aFkmVVvjcy736cxFWrK0PpT3Qb",
+          "title": "Home Work (activity#6).doc",
+          "alternateLink": "https://drive.google.com/file/d/1DvZFh_aFkmVVvjcy736cxFWrK0PpT3Qb/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOmKFIyJrWkBH-Y_32w_fCI35Tmn35WeV6a8urlBO-jwm_jtmcvZloFZgqRwgTN1XDHmgMP_E4YNscFUwX0mkoFOxVXKfKPTtT7diiBOB9g1VA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Activity# 6 (Home work)",
+      "dueTime": "2021-04-01T05:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1L8yp7cynUzesUZDEM7lprLG327AJJlfp",
+              "title": "20L-0961_Class Activity # 6.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1L8yp7cynUzesUZDEM7lprLG327AJJlfp/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPaNOFMPXfNIKBZBkXwgwaCCVhqzlZ92jgX9vxqE9w13RLvX60mqIqLvYmDr3k03uRZBv9oVF_aQcyiCyBDccYDN84nCxU-0mQLmsD_7by4zA\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-04-01T05:49:21.237Z",
+          "updateTime": "2021-04-01T05:49:21.213Z",
+          "comment": "mam i forgot to turn in the work, it was attached today 12 am, will not happen again",
+          "commentHtml": "\u003cdiv\u003emam i forgot to turn in the work, it was attached today 12 am, will not happen again\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-03-29T10:49:43.872Z",
+    "updateTime": "2021-03-29T10:51:05.268Z",
+    "publicationTime": "2021-03-29T10:51:05.058Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1aFJgb4a8saX6KWfYuWJwMWcQwCEMeWpA",
+          "title": "Class Activity# 5_DLD-BDS-B_SP2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1aFJgb4a8saX6KWfYuWJwMWcQwCEMeWpA/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMYhLQHGB-xkNDmPiD3K6hrs_L7SuOJwKxWaAbcssy5NGLI9cKsqvzmoxzy7qDVZVbNxo8FIeD2EiLSLLPqmj3HY-3bflhdBAHmSmyRJHCCOEg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity# 5",
+      "dueTime": "2021-03-29T11:45:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1YwZ_b6Vpn40jTRADKHxT7eWHvj8VzI_B",
+              "title": "20l-0961_Class Activity 5.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1YwZ_b6Vpn40jTRADKHxT7eWHvj8VzI_B/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOI1odok8e97hKKl7w6Omaibn7MkGAv3xnb7l_WwitJcq-0QZpqfI3sVaSm1FrSW8KbxHMY-XmHyjsdvF4iBAJgkwyOB119OY2Bs6fv5GnidA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-03-24T10:48:24.199Z",
+    "updateTime": "2021-03-24T10:52:21.731Z",
+    "publicationTime": "2021-03-24T10:52:21.524Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1r9zB5D54CIt4e5n2P6YwGanJfQh_S91I",
+          "title": "CLass Activity#4_DLD-BDS-B_SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/1r9zB5D54CIt4e5n2P6YwGanJfQh_S91I/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPJHEoSsTzeGAkdo1CzqDmq5IGv3TXXAmsUVP_3CasMeDki-35kKlB2BJLC5rr-cqQrYXSX-M1e08a1o4pSxqIqy9M_cCt5xKH0EpxVdrJigyQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity# 4",
+      "dueTime": "2021-03-24T11:45:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1RdMTMmtXYFb_ml6L8tRHn2HWF2JXxW55",
+              "title": "20L-0961_Class Activity# 4.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1RdMTMmtXYFb_ml6L8tRHn2HWF2JXxW55/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMW3forxnaiSCaX31x3kDvrDYsKFkDXxakvzpU1UC2wHcZYafrN2EAPpW8qLHKM119mFZF3k7gh8aAQVsVnq56htrwRIabQ0C2pwRIm5zXaDQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-03-22T10:37:46.047Z",
+    "updateTime": "2021-03-22T11:28:16.328Z",
+    "publicationTime": "2021-03-22T10:51:08.912Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1D1LMIARlYfTIU3ElvgweDtN_lcKmeJ5f",
+          "title": "Class activity # 5.docx",
+          "alternateLink": "https://drive.google.com/file/d/1D1LMIARlYfTIU3ElvgweDtN_lcKmeJ5f/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBME4mY9fwdRQbmewtjRZPWtUfMVrUEeMs-9I5tabVjQK_61LiflC2ueQg4at5ZSooboUIlhG7H9lhSogRpS10YhEi0lkGQI2sdAwHG2yKWkZFA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity # 3",
+      "description": "In Q4 follow the question\u0027s statement. BCD is the base instead of base-2 \nQ1 or Q6 , solve any one of it (as there is a repetition)",
+      "descriptionHtml": "\u003cdiv\u003eIn Q4 follow the question\u0026#39;s statement. BCD is the base instead of base-2 \u003cbr\u003eQ1 or Q6 , solve any one of it (as there is a repetition)\u003c/div\u003e",
+      "dueTime": "2021-03-22T11:40:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1jWEti1KVWK_pJZ-vUmEt_wH5vpoHX6QI",
+              "title": "Class Activity # 3_20L-0961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1jWEti1KVWK_pJZ-vUmEt_wH5vpoHX6QI/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPBDQCioZPiOqtdQIOPHP6nvPQe3IQmt-y0Koa1LATzX3nCCP53wdq4EhnM9hzApfgmN2t9GmB2H7frFtX26vpKPs4Oo7V-SFqlfYw3exXJ0g\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-03-22T11:32:23.045Z",
+          "updateTime": "2021-03-22T11:32:23.024Z",
+          "comment": "Renamed to Class Activity 3 at 4:30 \nSubmitted at 4:24",
+          "commentHtml": "\u003cdiv\u003eRenamed to Class Activity 3 at 4:30 \u003cbr\u003eSubmitted at 4:24\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-03-17T10:44:54.704Z",
+    "updateTime": "2021-03-17T10:58:29.968Z",
+    "publicationTime": "2021-03-17T10:58:29.751Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ZUsst7nUiIA_CL2wKbwOsmFLUxyxeTEW",
+          "title": "Class Activity # 2.docx",
+          "alternateLink": "https://drive.google.com/file/d/1ZUsst7nUiIA_CL2wKbwOsmFLUxyxeTEW/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMROcV7JF9gpQ6rbdi_S3ve4p90Rw79QUxs9lOm-jiKy8FQ6NuLLIiy_zm9YaEnHqUok5WT8kM0Is7XiY1m3JaBU2XaM5degmO0WmKEj27fqtc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity# 2",
+      "dueTime": "2021-03-17T11:40:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xclMMniyLXB2gwgi6HytassThoDO5e9u",
+              "title": "Class Activity# 2.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1xclMMniyLXB2gwgi6HytassThoDO5e9u/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNKEUy4cSV3rX15fftUmR6FuoHYTiQGoP92Nd-SdM4qZrCy3Zh_PB9irqEgf3FMvaLkvvW-T21_7yycIec8TY394dSIyroCidYtnrDlF6X38g\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nazish Saleem"
+      },
+      "emailAddress": "nazish.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-03-15T10:59:02.425Z",
+    "updateTime": "2021-03-15T11:00:25.103Z",
+    "publicationTime": "2021-03-15T10:59:52.936Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "12dJ1LxgL3pHJ_3t_9P9clh3mZ98W5cv5",
+          "title": "Class Activity# 1 (BDS-B) SP-2021.docx",
+          "alternateLink": "https://drive.google.com/file/d/12dJ1LxgL3pHJ_3t_9P9clh3mZ98W5cv5/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPl2d7skhRqlWE_44c5AXOgjCx7jR5KpoBlAzfl7NWHJBGdWbza-B2H7LtrR7_woMDfRB-tYbpXDNU9k-fNCOFxQkVN0bsQsif6c9KnBdbvOcg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity# 1",
+      "description": "DUE TIME: 04:40 PM, Today (this includes your turn-in time)",
+      "descriptionHtml": "\u003cdiv\u003eDUE TIME: 04:40 PM, Today (this includes your turn-in time)\u003c/div\u003e",
+      "dueTime": "2021-03-15T11:40:00Z",
+      "maxPoints": 18.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Hpi6zjzWrvgbojLujrcgmRLShDEju3tD",
+              "title": "Class Activity# 1.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1Hpi6zjzWrvgbojLujrcgmRLShDEju3tD/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOsdbFaw2_Xljw-zME46MpZFUv_vN2qzB3r2W3Uz0Cd93c-55dCO77ZpFm18gFw_ZRJUXOs-wBPdsj4jmu8GeZlPz0_-XGj2Y4pVZyPis_xLg\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-03-15T11:41:25.972Z",
+          "updateTime": "2021-03-15T11:41:25.952Z",
+          "comment": "Submitted at exact 4:40",
+          "commentHtml": "\u003cdiv\u003eSubmitted at exact 4:40\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }]
+}
