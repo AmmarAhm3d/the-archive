@@ -1,0 +1,111 @@
+-- This Script File includes the following SQL statement: 
+   --1. Create Table, 
+   --2. Bulk Data Load (from csv file to Table), 
+   --3. Create Indexes (Non-Clustered, Clustered, Sinle, Composite), 
+   --4. Physical Join Operator Hints in SQL statement
+   --5. SQL Extensions: Grouping Sets, Rollup, Cube, and Grouping() function
+---------------------------------------------------------------------------
+
+--1. Create Table statement 
+
+CREATE TABLE Author (
+    AuthorID       INT PRIMARY KEY,
+    Name           VARCHAR(100),
+    Nationality    VARCHAR(50),
+    Specialization VARCHAR(50),
+    PrimaryGenre   VARCHAR(50)
+);
+
+CREATE TABLE Book (
+    BookID INT PRIMARY KEY,
+    Title VARCHAR(255),
+    Publisher VARCHAR(100),
+    AuthorID INT,
+    FOREIGN KEY (AuthorID) REFERENCES Author(AuthorID)
+);
+---------------------------------------------------------
+
+--2. Bulk Data Loading Statement
+-- Load data from CSV File to a Table
+BULK INSERT Author
+FROM 'E:\Data\author_200k.csv'
+WITH (
+    FORMAT = 'CSV',
+    FIRSTROW = 2,
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '0x0A'
+);
+
+BULK INSERT Book
+FROM 'E:\Data\book_1m.csv'
+WITH (
+    FORMAT = 'CSV',
+    FIRSTROW = 2,
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '0x0A'
+);
+-----------------------------------------------------------------
+
+--3. Create Index Statements 
+-- Single (non-clustered) Indexes on Nationality, Specialization, PrimaryGenre columns separately
+CREATE INDEX idx_author_nationality ON Author (Nationality);
+CREATE INDEX idx_author_specialization ON Author (Specialization);
+CREATE INDEX idx_author_genre ON Author (PrimaryGenre);
+
+-- Composite (non-clustered) Index on (Nationality, Specialization, PrimaryGenre) columns
+CREATE INDEX idx_author_nat_spe_gen ON Author (Nationality, Specialization, PrimaryGenre);
+CREATE INDEX idx_author_nat_spe_gen ON Author (Nationality, Specialization, PrimaryGenre) INCLUDE (Title, Publisher);
+
+-- Clustered Index on AuthorID Column of Book table
+CREATE CLUSTERED INDEX idx_book_authorid ON Book (AuthorID);
+------------------------------------------------------------------
+
+--4. Physical Join Operator Hints in SQL statement
+-- Default selection by optimizer: Hash Join
+SELECT * 
+FROM author INNER JOIN book ON author.authorid=book.authorid
+WHERE nationality='Pakistani' and specialization='Science' and primarygenre IN ('Biography', 'Thriller');
+
+-- Provide Hint to optimizer to Force LOOP Join
+SELECT * 
+FROM author INNER LOOP JOIN book ON author.authorid=book.authorid
+WHERE nationality='Pakistani' and specialization='Science' and primarygenre IN ('Biography', 'Thriller');
+
+-- Provide Hint to optimizer to select join operator from a defined list of options
+SELECT * 
+FROM author INNER JOIN book ON author.authorid=book.authorid
+WHERE nationality='Pakistani' and specialization='Science' and primarygenre IN ('Biography', 'Thriller')
+OPTION (MERGE JOIN, LOOP JOIN);
+------------------------------------------------------------------
+
+--5. SQL Extensions: Grouping Sets, Super-Groups (Rollup & Cube)
+--================================================================
+
+-- GROUPING SETS
+SELECT nationality, specialization, primarygenre, COUNT(*) 
+FROM author 
+GROUP BY GROUPING SETS ((nationality, specialization, primarygenre),(nationality),())
+ORDER BY nationality, specialization, primarygenre;
+
+-- ROLLUP Super-Group
+SELECT nationality, specialization, primarygenre, COUNT(*)
+FROM author 
+GROUP BY ROLLUP (nationality, specialization, primarygenre) 
+ORDER BY nationality, specialization, primarygenre;
+
+-- CUBE Super-Group
+SELECT nationality, specialization, primarygenre, COUNT(*)
+FROM author 
+GROUP BY CUBE (nationality, specialization, primarygenre) 
+ORDER BY nationality, specialization, primarygenre;
+
+-- GROUPING() Function:
+-- Used in conjunction with ROLLUP, CUBE, or GROUPING SETS to distinguish between NULL values 
+-- that represent a super-aggregate row (e.g., a subtotal or grand total) and actual NULL values
+-- in the data. It returns 1 if a row is a super-aggregate row for the specified column, and 0 otherwise.
+SELECT nationality, specialization, primarygenre, COUNT(*), GROUPING(nationality), GROUPING(specialization), GROUPING(primarygenre)
+FROM author 
+GROUP BY ROLLUP (nationality, specialization, primarygenre) 
+ORDER BY GROUPING(nationality), GROUPING(specialization), GROUPING(primarygenre);
+
+-----------------------------------End of File------------------------------------------
