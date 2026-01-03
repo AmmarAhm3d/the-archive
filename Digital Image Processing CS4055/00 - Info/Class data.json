@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "name": "Digital Image Processing",
+  "section": "BSDS-9A",
+  "description": "(Fall2025)",
+  "room": "F-207",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroomacce3453@group.calendar.google.com",
+  "courseFolder": {
+    "id": "14szd9WMV_W5ckwj2ENb4Un1DfbqrUC26UpKUcvjRuUW06aG4lHJgFpWSZ9grg1ho_0NvtF1P",
+    "name": "Digital Image Processing BSDS-9A",
+    "openUrl": "https://drive.google.com/drive/folders/14szd9WMV_W5ckwj2ENb4Un1DfbqrUC26UpKUcvjRuUW06aG4lHJgFpWSZ9grg1ho_0NvtF1P"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_breakfast.jpg",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Asif Gilani"
+      },
+      "emailAddress": "asif.gilani@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-10-10T06:16:05.235Z",
+    "updateTime": "2025-10-10T06:16:04.280Z",
+    "publicationTime": "2025-10-10T06:16:04.165Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment 2",
+      "description": "1. Implement ACE filter by taking a low contrast image as\nan input.\n\n\n2.\nImplement Color Contrast Enhancement algorithm, studied in class and the\nflowchart is available at page 4 of handouts Chapter6-3.\n\n\n \n\n\nNote: It is a group project with maximum of two members; may be from cross sections.\n           As per practice algorithm working should be presented in a user-friendly GUI.\n\nSUBMISSIONS WILL BE CLOSED AFTER DUE DATE.",
+      "descriptionHtml": "\u003cdiv\u003e1. Implement \u003cb\u003eACE filter\u003c/b\u003e by taking a low contrast image as\u003cbr\u003ean input.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e2.\u003cbr\u003eImplement \u003cb\u003eColor Contrast Enhancement algorithm\u003c/b\u003e, studied in class and the\u003cbr\u003eflowchart is available at page 4 of handouts Chapter6-3.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e \u003cbr\u003e\u003cbr\u003e\u003cbr\u003eNote: It is a group project with maximum of two members; may be from cross sections.\u003cbr\u003e           As per practice algorithm working should be presented in a user-friendly GUI.\u003cbr\u003e\u003cbr\u003eSUBMISSIONS WILL BE CLOSED AFTER DUE DATE.\u003c/div\u003e",
+      "dueTime": "2025-10-14T18:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1YxiRVpyV-k-Q0BF6tA9AVzB2EPcMihpZ",
+              "title": "gui start.png",
+              "alternateLink": "https://drive.google.com/file/d/1YxiRVpyV-k-Q0BF6tA9AVzB2EPcMihpZ/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMNfxXXDWgs6NzyxYY7Yrh4MrH8kyx1vnAhO6g0xTRLZH7vK1V79uzEocQH2-WOoqZlY6p_1c8eM7--_1DQ1M8JoOcRPkejELviToHJQo7AEHc\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1DgYKoIti5zt5IGrKQK0qYCizLfLZ1cqf",
+              "title": "L216239_L200961_Asm02.py",
+              "alternateLink": "https://drive.google.com/file/d/1DgYKoIti5zt5IGrKQK0qYCizLfLZ1cqf/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1KJ-7BBwGD5ux1DmmS8iXpSRtDYvYq1pI",
+              "title": "log-ACE-2.png",
+              "alternateLink": "https://drive.google.com/file/d/1KJ-7BBwGD5ux1DmmS8iXpSRtDYvYq1pI/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM_HcVmSOKM1EA7A_8z0ple6Rg1ga_SvUxlYVEkNHSrMOBfyeku6ExwIz7fbuW6ekcWSsT2hgDAEhXbF6cgNL56HwO_WYCmj6m6HvLOdO68k7E\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1XFJ0VY5hlyy2SxIPx8l6NMfu1zdbEIcA",
+              "title": "ACE.png",
+              "alternateLink": "https://drive.google.com/file/d/1XFJ0VY5hlyy2SxIPx8l6NMfu1zdbEIcA/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPG7Xu0q0ZuScNsVgNqKmK2RfYpUfDxjT826mNg2EhVQtNKAAym9MDYBcxh6qnyIkQ9bhp43Uiv2ixcCH4cz0yyNjAj9pZh5o8AYgvtlyJl0S4\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1tmvC5P2rYP3rS1Z1Mz384CetF-k8htqo",
+              "title": "ACE-2.png",
+              "alternateLink": "https://drive.google.com/file/d/1tmvC5P2rYP3rS1Z1Mz384CetF-k8htqo/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMDmrYrM0BD4j9WZXrTnPekTXXGe6ZQV9OUwGF1p6rrXxkY2ASMMKGqSL-FzhTuBV3xUP3S5fYCGVY_VdhqI5XH6NagJdvSw9q6CA65duJPL7Q\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1VPLXWcmLFAjdPS3vNrkkYldh6FmiIrsk",
+              "title": "color-contrast-enhancement.png",
+              "alternateLink": "https://drive.google.com/file/d/1VPLXWcmLFAjdPS3vNrkkYldh6FmiIrsk/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP-auteQ4FlGg-6BvTiGG1LDJdmhWEHPIUSm3nW2f3wko7mgkEvTjmCxr9B4pC1v8YChLPUNQlhHMpiAeQKOvvGI3QUOXzcWDZmnJMJ4N6Db2w\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1CNlPj9adrX45aoXUO_F0lU2pvifWD3tN",
+              "title": "exp-ACE-2.png",
+              "alternateLink": "https://drive.google.com/file/d/1CNlPj9adrX45aoXUO_F0lU2pvifWD3tN/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPu7GeOyhUTsTUaKXDkKh7dL5-racwBqiynYm98Rg0j6vQN2_l6lOrE-3uRyam4-1Tz88lTFhk9cuL6btXjw_TUNJFwoCzlK5ttkyZnkAbqy3M\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Asif Gilani"
+      },
+      "emailAddress": "asif.gilani@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-10-01T06:25:32.144Z",
+    "updateTime": "2025-10-02T05:25:57.798Z",
+    "publicationTime": "2025-10-01T06:25:31.123Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment 1",
+      "description": "Implement the following algorithms by incorporating an appropriate GUI:\n\n1. Stretching and Shrinking using (a) Mapping equations (Create your own scenario to test for linear and piecewise), (b) Histogram based.\n2. Specified Histogram algorithm using two images, an image for Original and another for Specified.\n\nNote: 1. It is a group assignment; the group members should NOT be more than two (2), members can be from intersections/cross-sections. \n          2. There will be NO submissions after due date and NOT accepted through email.\n\nGood Luck.",
+      "descriptionHtml": "\u003cdiv\u003eImplement the following algorithms by incorporating an appropriate GUI:\u003cbr\u003e\u003cbr\u003e1. \u003cb\u003eStretching\u003c/b\u003e and \u003cb\u003eShrinking\u003c/b\u003e using (a) \u003cb\u003e\u003ci\u003eMapping equations (Create your own scenario to test for linear and piecewise)\u003c/i\u003e\u003c/b\u003e, (b) \u003cb\u003e\u003ci\u003eHistogram\u003c/i\u003e\u003c/b\u003e based.\u003cbr\u003e2. \u003cb\u003eSpecified Histogram\u003c/b\u003e algorithm using two images, an image for Original and another for Specified.\u003cbr\u003e\u003cbr\u003eNote: 1. It is a group assignment; the group members should NOT be more than two (2), members can be from intersections/cross-sections. \u003cbr\u003e          2. There will be NO submissions after due date and \u003cb\u003e\u003cu\u003eNOT accepted through email\u003c/u\u003e\u003c/b\u003e.\u003cbr\u003e\u003cbr\u003eGood Luck.\u003c/div\u003e",
+      "dueTime": "2025-10-06T18:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1I7aWvYLOWfeVMcJktPODwzh0gMfX63x3",
+              "title": "piecewise.png",
+              "alternateLink": "https://drive.google.com/file/d/1I7aWvYLOWfeVMcJktPODwzh0gMfX63x3/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPYracCjdxx_thHgE5wcJuZUPWHTBDx4x0ViKpF2B5T9Kwxt4s0FUh7Fy_podexXSzE6cAuU6I_loGVahSmXGXCiLp9zg1Jw27Hk6xenfXuviI\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1tHBHGhk8w9_8kgosbOVP1A4PC9ot3wWO",
+              "title": "summer.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1tHBHGhk8w9_8kgosbOVP1A4PC9ot3wWO/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMy0ahg7WtbPmpCwFcwnFH-udkb9MHauK-mXJizkzmHy3VGVz1EopCvxlDAapGCwsaf5nkJbHZwe3tWFjLL97ilr8N9wuq2w1O7DbwZ783rMxE\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1uu9PLb1WAnK0BfgCEHv4zfUsdF3e_Czc",
+              "title": "winter.jpg",
+              "alternateLink": "https://drive.google.com/file/d/1uu9PLb1WAnK0BfgCEHv4zfUsdF3e_Czc/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM9CTwsWK9_mJvIXy09KO5TWBNw2uHA6slPeamv9sYYT5SjIPV9BJzgql399dBLEzKINoLWjZ0onnw_bcMEHoShUF0Crh2g7wFUXG-06fH25Do\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1h9qIUmv1FRLYW9wxNVCrEg6Uf2w-gU1_",
+              "title": "histogram shrink.png",
+              "alternateLink": "https://drive.google.com/file/d/1h9qIUmv1FRLYW9wxNVCrEg6Uf2w-gU1_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO5JeuZ370UFujmHTi9oB4nYr_ZJjK4uEQxHFSLozeQktlV3Z1X3PtVJ3GB3D84A8jStY8sdeWfcA0zqzFpy2GP1S0DmU6W1QYUNAPBDIY7CzM\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1OvfhGKJbUY6FrvidMjasdNe9hDdGL0eB",
+              "title": "histogram specification on specified image.png",
+              "alternateLink": "https://drive.google.com/file/d/1OvfhGKJbUY6FrvidMjasdNe9hDdGL0eB/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNfbfg7FBqgmwECINzwGPbpYAkcPYF5o85HHZT7_UZM74g9laFjbdIYVZPV9IePZM3gs_XXz88Uj1z2GzU0xvIZglD56vO-jaiq593NY3XnzGw\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "14r_nOkPkuzwjVzx5jzrdS8tXvE-cJPZr",
+              "title": "histogram stretch on another image.png",
+              "alternateLink": "https://drive.google.com/file/d/14r_nOkPkuzwjVzx5jzrdS8tXvE-cJPZr/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMrWdEs6k-_IuV-1kZ0LkoScOXvo-wn-RQW9RylxHcCi9zh-qpRaf6fdNNeifUTduowbV-0sR6thNUDIy3TOJvFAd6W7fPI5MRO_uQ32t3sCEg\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1LQlnWDHgvPO75A6_NqujBga0pfDtIT5h",
+              "title": "L216239_L200961_Asm01.py",
+              "alternateLink": "https://drive.google.com/file/d/1LQlnWDHgvPO75A6_NqujBga0pfDtIT5h/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1JZvM8Q8FI9Jq8qcScyKdcDcIBQJb1iQU",
+              "title": "linear mapping (50,200).png",
+              "alternateLink": "https://drive.google.com/file/d/1JZvM8Q8FI9Jq8qcScyKdcDcIBQJb1iQU/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPE2v8mH-5-n9SzaDIXG3-Rm3VlwbocZ5d5ocZ4cpgYd_KMQSGdXbv4-JgpSKCoIwcoIHzHPtMOH4AB7sQVNeb7fQMur92UO6s7QL2XvwU9ERI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Asif Gilani"
+      },
+      "emailAddress": "asif.gilani@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-09-15T03:39:43.360Z",
+    "updateTime": "2025-09-19T05:07:52.824Z",
+    "publicationTime": "2025-09-15T03:55:48.217Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment (Zero)",
+      "description": "Implement the following queries, using any of the following \n\nprogramming environments :  Python, C++, MatLab.\n\n\n1.  Display any color image independently in the following three colored channels:  Red, Green, Blue.\n2.  Reduce an image spatially by keeping the canvas size constant, better to take sizes from the user as an input.\n\n\nNote:  1. You need to complete all assignments in an appropriate user friendly GUI.\n2. You can not use any function other than the builtin/input/ouput for that environment.\nGood Luck",
+      "descriptionHtml": "\u003cdiv\u003eImplement the following queries, using any of the following \u003cbr\u003e\u003cbr\u003eprogramming environments :  \u003cb\u003e\u003ci\u003ePython, C++, MatLab\u003c/i\u003e\u003c/b\u003e.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e1.  Display any color image independently in the following three colored channels:  Red, Green, Blue.\u003cbr\u003e2.  Reduce an image \u003cb\u003espatially\u003c/b\u003e by keeping the \u003cb\u003ecanvas size constant\u003c/b\u003e, better to take sizes from the user as an input.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003cu\u003eNote:  1. You need to complete all assignments in an appropriate user friendly GUI.\u003c/u\u003e\u003c/b\u003e\u003cbr\u003e\u003cb\u003e\u003cu\u003e2. You can not use any function other than the builtin/input/ouput for that environment.\u003c/u\u003e\u003c/b\u003e\u003cbr\u003eGood Luck\u003c/div\u003e",
+      "dueTime": "2025-09-18T18:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "CREATED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "17oJxMi2HACCrFKHiBZGCpcKXvvyQMjXx",
+              "title": "l200961 DIP A0.py",
+              "alternateLink": "https://drive.google.com/file/d/17oJxMi2HACCrFKHiBZGCpcKXvvyQMjXx/view?usp\u003ddrive_web"
+            }
+          }, {
+            "driveFile": {
+              "id": "1IeycE6g2cliXavoABEQMraZ1wlluAqOE",
+              "title": "Original.png",
+              "alternateLink": "https://drive.google.com/file/d/1IeycE6g2cliXavoABEQMraZ1wlluAqOE/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNRPucZUcFcBzudofRqMFirP5ckHyPJkjiYv9xNAf8QOnOv7r6kE_2quCCBoeJDx5kSpwTQNhusqL15W4PKVNmDKEpu52bxy_7-V6KaW1nyxfY\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1q8voUR4SYxSGvTyPP00Ly1USYwIuW0V9",
+              "title": "Other Channels.png",
+              "alternateLink": "https://drive.google.com/file/d/1q8voUR4SYxSGvTyPP00Ly1USYwIuW0V9/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPkT9dtL_76dzL7sdJ78T9YEQDgI2mNuc42ugafUEZrQ_R2jkrQpOp_OSqvALZahGm_hOXJRXdYhP5VDFoE4fHpGoluWupPz10VWrM8JX-6-vw\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "167_2MRD14iFYogG0DH_uelAFfCySyegS",
+              "title": "Red Channel.png",
+              "alternateLink": "https://drive.google.com/file/d/167_2MRD14iFYogG0DH_uelAFfCySyegS/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNk3YtpfI9V3avx0gtMsGU4FkXKISic0Xfgp8deinzunfgH7e1A0KMv-lC6ELkzgGQhfcSYuh8fVBPSTLlKMm5uWGYcpdMG4Vkk2uNc0-u2y6w\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1vchYHAiHi_uKffFuigAg3hp7RYcZweUl",
+              "title": "Reduced (fixed canvas).png",
+              "alternateLink": "https://drive.google.com/file/d/1vchYHAiHi_uKffFuigAg3hp7RYcZweUl/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOgMo014PqqwmhCi8EWlBCG9UKsym8eoAaGqMOuWEolSym0Jhi3NWQ8MVJKaVEqcNjptJ4Mj9PE770-sBetDGXjNUlwgoqlYmuKPFCEW_wC93w\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2025-09-19T09:06:11.280Z",
+          "updateTime": "2025-09-19T09:06:11.280Z",
+          "comment": "Forgot to turn in, added work before deadline",
+          "commentHtml": "\u003cdiv\u003eForgot to turn in, added work before deadline\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }]
+}
