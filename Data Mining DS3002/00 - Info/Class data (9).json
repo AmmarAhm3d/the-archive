@@ -1,0 +1,374 @@
+{
+  "version": 1,
+  "name": "DS3002",
+  "section": "B",
+  "room": "NB - 301",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom846bc91c@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/znd-hxvs-oxw",
+  "courseFolder": {
+    "id": "1Io6GmAliyvKewEEQu-5SldO07opWiw4u2i_i66lCtpGNo3uhiwnrB1vqwByBGyEiL_qr8dA4",
+    "name": "DS3002 B",
+    "openUrl": "https://drive.google.com/drive/folders/1Io6GmAliyvKewEEQu-5SldO07opWiw4u2i_i66lCtpGNo3uhiwnrB1vqwByBGyEiL_qr8dA4"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_read.jpg",
+  "subject": "Data Mining",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Esha Tur Razia Babar"
+      },
+      "emailAddress": "razia.babar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-05-11T14:36:57.665Z",
+    "updateTime": "2024-05-11T14:36:57.076Z",
+    "publicationTime": "2024-05-11T14:36:56.925Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Project",
+      "description": "1) Project Report\n2) Well commented code file",
+      "descriptionHtml": "\u003cdiv\u003e1) Project Report\u003cbr\u003e2) Well commented code file\u003c/div\u003e",
+      "dueTime": "2024-05-12T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "191gelPp45UFhI-Kf601mfgzt4_RAktGh",
+              "title": "DM.pdf",
+              "alternateLink": "https://drive.google.com/file/d/191gelPp45UFhI-Kf601mfgzt4_RAktGh/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOXTd-xGisjI1aMO93RycpwrYSFdIT9TZqVFcNYyJU4RacS5D20ld7hhgJwzrQqcE-ZUsRlxzl68FDKfLmTfMLb7fkjqmk0PROsUGVd23bjaww\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2024-05-17T09:29:49.053Z",
+          "updateTime": "2024-05-17T09:29:49.053Z",
+          "comment": "In reference to the mail sent of complete code (latex) and pd",
+          "commentHtml": "\u003cdiv\u003eIn reference to the mail sent of complete code (latex) and pd\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Esha Tur Razia Babar"
+      },
+      "emailAddress": "razia.babar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-05-03T06:32:36.082Z",
+    "updateTime": "2024-05-10T06:20:01.214Z",
+    "publicationTime": "2024-05-03T06:32:34.673Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1OH8X-RBpKeB_xzILuTf_UFhjL6eRsCRh",
+          "title": "HW 4 .pdf",
+          "alternateLink": "https://drive.google.com/file/d/1OH8X-RBpKeB_xzILuTf_UFhjL6eRsCRh/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNsFhC0lFkfSFjqH_CIQbK2oKFfqlGRwFQ6TDPz-7I9WmmNQ-bLlxVOOxX3cA7skBxwRx-YLV8puPLdPqQWx9Ua5nsYw2wipVoV0Gj5cjML5g\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "HW 4",
+      "dueTime": "2024-05-10T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "11HAS3wkNzhKRBeVla3kM18dYMKcdrMeu",
+              "title": "0961hw4.pdf",
+              "alternateLink": "https://drive.google.com/file/d/11HAS3wkNzhKRBeVla3kM18dYMKcdrMeu/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOUcaKymAi1mNM-I80Xfvs1Cv--CsAothmY2CvqRWWvo5-hWTnTFZa47niCCKtEYbvwUTqxda-qq_3SAHsjkCLtB0tcJBOW1b88anb3Sn7XKEs\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Esha Tur Razia Babar"
+      },
+      "emailAddress": "razia.babar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-04-23T05:25:23.531Z",
+    "updateTime": "2024-04-23T17:25:12.066Z",
+    "publicationTime": "2024-04-23T05:28:02.978Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Attendance ",
+      "description": "TP \u003d 50, \nFN \u003d 50\nFP \u003d 1\nTN \u003d 99\n\nCalculate Precision, Recall, F1 score, and accuracy.",
+      "descriptionHtml": "\u003cdiv\u003eTP \u003d 50, \u003cbr\u003eFN \u003d 50\u003cbr\u003eFP \u003d 1\u003cbr\u003eTN \u003d 99\u003cbr\u003e\u003cbr\u003eCalculate Precision, Recall, F1 score, and accuracy.\u003c/div\u003e",
+      "maxPoints": 100.0,
+      "workType": "SHORT_ANSWER_QUESTION",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "shortAnswerSubmission": {
+          "answer": "Precision\u003d.98\nRecall\u003dO.5\nF 1\u003d0.7\nAccuracy\u003d0.7"
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Esha Tur Razia Babar"
+      },
+      "emailAddress": "razia.babar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-04-12T14:48:38.797Z",
+    "updateTime": "2024-04-19T04:57:23.723Z",
+    "publicationTime": "2024-04-12T14:48:38.115Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Project Proposal (One submission per group)",
+      "description": "Please make sure to follow the project proposal template.",
+      "descriptionHtml": "\u003cdiv\u003ePlease make sure to follow the project proposal template.\u003c/div\u003e",
+      "dueTime": "2024-04-18T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Esha Tur Razia Babar"
+      },
+      "emailAddress": "razia.babar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-03-20T19:49:37.231Z",
+    "updateTime": "2024-03-23T12:25:31.562Z",
+    "publicationTime": "2024-03-20T19:49:35.868Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1IqX2eORt_crogTgwFnw38b9YXkqW4sXx",
+          "title": "HW2 Data Mining.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1IqX2eORt_crogTgwFnw38b9YXkqW4sXx/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM1YVANyMMTHVVn__t_Kbmdz1AqV5HTCwcU97FsJKAoeWWYvh8pO2oVA054mIehR_O36bDKXwz-XrUQf3QreCtN2T5DYGq6f9NBWoAft7zi3g\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assighnment",
+      "dueTime": "2024-03-24T18:59:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1S17BICCT90CQZ2f_i9NljpsELKRTz8f_",
+              "title": "0961.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1S17BICCT90CQZ2f_i9NljpsELKRTz8f_/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOb2NOQMzM_4iVdnC6ffLFG6vnOzPsYtOg9gWNAydW8QKfJYzjMHxtP_sCwqAHtCGo8fzKCEx2me_72JgSZZ-MFWE6xuayUg1Dv3nFE3fqLYf0\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Esha Tur Razia Babar"
+      },
+      "emailAddress": "razia.babar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-02-13T11:43:47.613Z",
+    "updateTime": "2024-02-13T11:43:46.784Z",
+    "publicationTime": "2024-02-13T11:43:46.538Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1YbiOdeU4V8fAXs80sZTIDE8SPK2k6o23",
+          "title": "DataMining Assignment1 Solution.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1YbiOdeU4V8fAXs80sZTIDE8SPK2k6o23/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMPVV_S0X839nE-Nd9RsHwfGzbVFqvg-pzHu0TdOOdFtL0o1rrF-xu9raKvQltY24V8XPh3MxjhYaMktnlrLyXlsJcEYMW0cnBiyNreNxmiAQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1 Solution",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Esha Tur Razia Babar"
+      },
+      "emailAddress": "razia.babar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-02-08T18:28:44.714Z",
+    "updateTime": "2024-02-08T20:02:05.524Z",
+    "publicationTime": "2024-02-08T18:29:58.745Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Decision Trees and Bayes Classifier"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1ERxW554G33GckGpzquuXGJHtJoqLOAoz",
+          "title": "DataMining Assignment1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1ERxW554G33GckGpzquuXGJHtJoqLOAoz/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNNIjUxcURSQNy-w7tcVMdR-3n0l3_K2rl-MCqM1j4xpYHSbjXVvGvsSSCL4AFVYOeQKYAcPmJM7p2lX0fkuRw40-Ul7CM4tgv80KPRXmBr-Q\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment1",
+      "dueTime": "2024-02-12T18:59:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "RECLAIMED_BY_STUDENT",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1NLNjE_fmQOJTxX87Jie0Xjdy3OQf4UTt",
+              "title": "AdobeScanFeb12,2024.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1NLNjE_fmQOJTxX87Jie0Xjdy3OQf4UTt/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMmEBxi4wSbTBpEgU1nPyL8Twp4ssRAgdFXJ-18cTdFVzm5Rn1sETy66ZVFqSl0n19G5J_cVyNaU8IfjDYcbW6bapqL2jULrN5GvvdfB-eeLlU\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1AHXBZyY6qJJpobxrTJQCx2LYSOTd89P8",
+              "title": "AdobeScanFeb12,2024.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1AHXBZyY6qJJpobxrTJQCx2LYSOTd89P8/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOHY8PF5e5Ct_DN6x2vwtsmTgB8CQ1BYCeMISQGZWLpo3ykYxp-ZKc-IM5EpjtMLqyf2Gqv_Yk-D1r8oIBv0GpPCd_MKJvoMPWAq08mPj2VWVk\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Esha Tur Razia Babar"
+      },
+      "emailAddress": "razia.babar@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-02-06T06:10:37.266Z",
+    "updateTime": "2024-02-06T06:15:04.519Z",
+    "publicationTime": "2024-02-06T06:10:39.676Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Attendance",
+      "dueTime": "2024-02-06T06:25:00Z",
+      "maxPoints": 100.0,
+      "workType": "MULTIPLE_CHOICE_QUESTION",
+      "multipleChoiceQuestion": {
+        "choices": ["Present"]
+      },
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "multipleChoiceSubmission": {
+          "answer": "Present"
+        }
+      }]
+    }
+  }]
+}

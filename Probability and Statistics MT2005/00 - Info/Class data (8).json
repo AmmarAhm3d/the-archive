@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "name": "BS(Data Science)",
+  "section": "Section : 3B (Probability and Statistics)",
+  "description": "(Fall 2022)",
+  "room": "CS-6",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom25656372@group.calendar.google.com",
+  "courseFolder": {
+    "id": "17TC_lrirg01mebL4ctPfnDoshhqVa3bd55sNHDZ4Trq4r6ifIPDCKBNHGwOFLVWhzwUTdt6H",
+    "name": "BS(Data Science) Section : 3B (Probability and Statistics)",
+    "openUrl": "https://drive.google.com/drive/folders/17TC_lrirg01mebL4ctPfnDoshhqVa3bd55sNHDZ4Trq4r6ifIPDCKBNHGwOFLVWhzwUTdt6H"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_backtoschool.jpg",
+  "subject": "Probability and Statistics",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "kanwal Saleem"
+      },
+      "emailAddress": "kanwal.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-11-25T08:58:30.173Z",
+    "updateTime": "2022-11-25T09:08:14.024Z",
+    "publicationTime": "2022-11-25T09:03:16.320Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "One and two sample mean - hypothesis testing. z test and t test"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1efdoBHdSA8te2m1jsZr8KPmC1QWYiPN8",
+          "title": "Assignment-3 _Section B_.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1efdoBHdSA8te2m1jsZr8KPmC1QWYiPN8/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOCKS4S0V_XtQznIjNwE3elADzd6MMHwAZd5mucbbowgTLI4ScTooeoJyOZzyGsiRI22KFG4hMXHYAUZ8CwNjUbUpP54WvCV8sWWLJTblMILzc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment-3",
+      "description": "Assignment Deadline: 29th Nov 2022, Tuesday.",
+      "descriptionHtml": "\u003cdiv\u003eAssignment Deadline: 29th Nov 2022, Tuesday.\u003c/div\u003e",
+      "dueTime": "2022-11-29T18:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "kanwal Saleem"
+      },
+      "emailAddress": "kanwal.saleem@lhr.nu.edu.pk"
+    },
+    "creationTime": "2022-09-18T17:51:09.464Z",
+    "updateTime": "2022-09-18T17:56:25.073Z",
+    "publicationTime": "2022-09-18T17:56:24.945Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Graphical representation, Counting sample points, Probability of an event"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1uoSAFV7l1hfozN_qporAFq9t2v3cjXiq",
+          "title": "Assignment-1 _Section B_.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1uoSAFV7l1hfozN_qporAFq9t2v3cjXiq/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPsyrYiwFH0F-JOSE6WxabUg0JiJ2Esk7M4QT1c7iSy7ssNm7ZQxvlaj4zTGo4TIrmtHKJdgl_jxYYzMDAzdw_BpBIdAe5pCfUnBy1zHoPtxiY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment-1",
+      "description": "You\u0027ll be able to solve a specific part of assignment after Tuesday\u0027s lecture, till then you can start solving other parts. \nThanks",
+      "descriptionHtml": "\u003cdiv\u003eYou\u0026#39;ll be able to solve a specific part of assignment after Tuesday\u0026#39;s lecture, till then you can start solving other parts. \u003cbr\u003eThanks\u003c/div\u003e",
+      "dueTime": "2022-09-22T18:59:00Z",
+      "maxPoints": 20.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}

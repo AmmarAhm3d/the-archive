@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "name": "Data Science",
+  "section": "4 A",
+  "room": "Seminar Hall",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom0f94d469@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/qaz-vbxw-wie",
+  "courseFolder": {
+    "id": "1unGuUHiP836mub2jlEhIPkD9lqLBTcUfWN5rehSr02ln2ouXykIWE7kQhYu-hz9VAO_a1vbC",
+    "name": "Data Science 4 A",
+    "openUrl": "https://drive.google.com/drive/folders/1unGuUHiP836mub2jlEhIPkD9lqLBTcUfWN5rehSr02ln2ouXykIWE7kQhYu-hz9VAO_a1vbC"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Chemistry.jpg",
+  "subject": "Fundamentals of SE",
+  "courseState": "ACTIVE"
+}

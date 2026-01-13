@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "name": "BCS-3A (Fall 2021)",
+  "section": "3A",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom94457c97@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/dpq-pdtp-imi",
+  "courseFolder": {
+    "id": "1vJJlpskUkri2QXEv1HR3rc8F-unR2u5RKrurTf4AZFeuJu9IgzUBTx2iw5TaUpVZWhgRvdPr",
+    "name": "BCS-3A (Fall 2021) 3A",
+    "openUrl": "https://drive.google.com/drive/folders/1vJJlpskUkri2QXEv1HR3rc8F-unR2u5RKrurTf4AZFeuJu9IgzUBTx2iw5TaUpVZWhgRvdPr"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_reachout.jpg",
+  "subject": "Differential Equations",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-12-10T15:57:16.673Z",
+    "updateTime": "2021-12-10T16:00:36.013Z",
+    "publicationTime": "2021-12-10T16:00:35.894Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "assignment 5",
+      "description": "assignment 5 is about heat equation \nexercise 12.3 ,  questions (Q.1 and Q.8 (a part only)\n\nfrom edition 7 already send the link of book.\nlast submission date 28th december, 2021",
+      "descriptionHtml": "\u003cdiv\u003eassignment 5 is about heat equation \u003cbr\u003eexercise 12.3 ,  questions (Q.1 and Q.8 (a part only)\u003cbr\u003e\u003cbr\u003efrom edition 7 already send the link of book.\u003cbr\u003elast submission date \u003cb\u003e28th december, 2021\u003c/b\u003e\u003c/div\u003e",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-12-10T15:54:13.476Z",
+    "updateTime": "2021-12-10T15:57:07.963Z",
+    "publicationTime": "2021-12-10T15:56:24.690Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1x3TH7U4b_TpqKyG9wMrDD5OAQLPK2A5_",
+          "alternateLink": "https://drive.google.com/open?id\u003d1x3TH7U4b_TpqKyG9wMrDD5OAQLPK2A5_"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1wwEin4LFfXtT00waDidSoDMtlJxKBtTg",
+          "alternateLink": "https://drive.google.com/open?id\u003d1wwEin4LFfXtT00waDidSoDMtlJxKBtTg"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "assignment 4",
+      "description": "last submission date is 21st december, 2021",
+      "descriptionHtml": "\u003cdiv\u003elast submission date is\u003cb\u003e 21st december, 2021\u003c/b\u003e\u003c/div\u003e",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-12-10T15:52:00.040Z",
+    "updateTime": "2021-12-10T15:53:18.179Z",
+    "publicationTime": "2021-12-10T15:53:18.003Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "for chapter 11 and 12 .",
+      "description": "the following book edition 7 will be use for last topics \nlink is given\nhttps://classroom.google.com/c/MjgwMjU4Mjg4OTQy/m/MzUwMjE1ODQ0Mzg0/details\n",
+      "descriptionHtml": "\u003cdiv\u003ethe following book edition 7 will be use for last topics \u003cbr\u003elink is given\u003cbr\u003ehttps://classroom.google.com/c/MjgwMjU4Mjg4OTQy/m/MzUwMjE1ODQ0Mzg0/details\u003c/div\u003e",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-12-10T15:40:48.721Z",
+    "updateTime": "2021-12-10T15:56:57.114Z",
+    "publicationTime": "2021-12-10T15:42:39.066Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "16h_9myZF3_cvkk3XCajSJh_vvT90KnSH",
+          "alternateLink": "https://drive.google.com/open?id\u003d16h_9myZF3_cvkk3XCajSJh_vvT90KnSH"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "assignment 3",
+      "description": "last submission date tuesday 14th december, 2021",
+      "descriptionHtml": "\u003cdiv\u003elast submission date tuesday 14th december, 2021\u003c/div\u003e",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-11-09T20:00:33.457Z",
+    "updateTime": "2021-11-09T20:03:56.570Z",
+    "publicationTime": "2021-11-09T20:03:56.454Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "assignment 2",
+      "description": "DIFFERENTIAL EQUATION (Assignment#2)\nBook: A first course in Differential Equations with modeling applications by Dennis G.  Zill  (9th Edition)\n\n\nExercise 2.2\n Q9, 30, 32, 34\nExercise 2.3\nQ 23, 30, 33, 47\nExercise 2.4 \nQ9, 18, 25, 27, 29, 35, 45\nExercise 2.5\nQ10, 12, 19, 30, 25, 32, 35, 36, 37\n\n\nthe submission is in hard form in class on 23rd november\n",
+      "descriptionHtml": "\u003cdiv\u003eDIFFERENTIAL EQUATION (Assignment#2)\u003cbr\u003eBook: A first course in Differential Equations with modeling applications by Dennis G.  Zill  (9th Edition)\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eExercise 2.2\u003cbr\u003e Q9, 30, 32, 34\u003cbr\u003eExercise 2.3\u003cbr\u003eQ 23, 30, 33, 47\u003cbr\u003eExercise 2.4 \u003cbr\u003eQ9, 18, 25, 27, 29, 35, 45\u003cbr\u003eExercise 2.5\u003cbr\u003eQ10, 12, 19, 30, 25, 32, 35, 36, 37\u003cbr\u003e\u003cbr\u003e\u003cbr\u003ethe submission is in hard form in class on 23rd november\u003c/div\u003e",
+      "dueTime": "2021-11-23T18:59:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }]
+}

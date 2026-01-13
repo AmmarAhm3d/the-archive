@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "name": "BDS Pakistan studies Spring 21",
+  "section": "2A",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom892010a0@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0B6lgnLfMnpqyfm1aWHdmcDNld0lvZ3FMQ2FoMF81bGI3aVRQeDYyeE5YMnhKTS1jZjR6M1k",
+    "name": "BDS CS-A",
+    "openUrl": "https://drive.google.com/drive/folders/0B6lgnLfMnpqyfm1aWHdmcDNld0lvZ3FMQ2FoMF81bGI3aVRQeDYyeE5YMnhKTS1jZjR6M1k?resourcekey\u003d0--e9iyAtzY5QdE3IxiTHI4Q"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_bookclub.jpg",
+  "subject": "Pakistan Studies",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Tahir Rashid"
+      },
+      "emailAddress": "tahir.rashid@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-20T08:40:24.342Z",
+    "updateTime": "2021-05-21T06:59:57.514Z",
+    "publicationTime": "2021-05-20T08:46:21.083Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment-3",
+      "description": "Title: Jinnah\u0027s Vision of Modern Democratic Welfare State and Today\u0027s Pakistan\n\n\nPages: Minimum 3\nFormat: Intro, Main Theme/Discussion, Conclusion/Results/Recommendations/Way forward, References\nFont Style: Times New Roman\nText Font size:12\nSub Headings:14\nMain/Title Heading:16\nText alignment: Justify\nPlagiarism: Zero\n",
+      "descriptionHtml": "\u003cdiv\u003eTitle: Jinnah\u0026#39;s Vision of Modern Democratic Welfare State and Today\u0026#39;s Pakistan\u003cbr\u003e\u003cbr\u003e\u003cbr\u003ePages: Minimum 3\u003cbr\u003eFormat: Intro, Main Theme/Discussion, Conclusion/Results/Recommendations/Way forward, References\u003cbr\u003eFont Style: Times New Roman\u003cbr\u003eText Font size:12\u003cbr\u003eSub Headings:14\u003cbr\u003eMain/Title Heading:16\u003cbr\u003eText alignment: Justify\u003cbr\u003ePlagiarism: Zero\u003c/div\u003e",
+      "dueTime": "2021-06-06T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1nhuvQ6AaNh7tuy54PP5-6mLVLAWTFC5j",
+              "title": "20L-0961_Ammar Ahmed_Assignment 3_Pakistan Studies.docx",
+              "alternateLink": "https://drive.google.com/file/d/1nhuvQ6AaNh7tuy54PP5-6mLVLAWTFC5j/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMXU_tRhO4R9rra5mU0ERRNPEVQbV-XnRcndZINeRlJuxwNLSkuArefwJQJaY6QDP2cDyD5Xd-czVipGgBzcIbbiMv7lmsv05D5egwAKnwxJAA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Tahir Rashid"
+      },
+      "emailAddress": "tahir.rashid@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-19T05:00:01.426Z",
+    "updateTime": "2021-06-03T05:36:01.081Z",
+    "publicationTime": "2021-05-19T05:00:56.389Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment-4",
+      "description": "Title:Parliamentary Democratic Experience (1988-1999)\n\n\nPages: Minimum 3\nFormat:Intro, Main Theme/Discussion, Conclusion/Results/recommendation/Way forward, References\nFont Style:Times New Roman\nText Font size:12\nSub Headings:14\nMain/Title Heading:16\nText alignment:Justify\n",
+      "descriptionHtml": "\u003cdiv\u003eTitle:Parliamentary Democratic Experience (1988-1999)\u003cbr\u003e\u003cbr\u003e\u003cbr\u003ePages: Minimum 3\u003cbr\u003eFormat:Intro, Main Theme/Discussion, Conclusion/Results/recommendation/Way forward, References\u003cbr\u003eFont Style:Times New Roman\u003cbr\u003eText Font size:12\u003cbr\u003eSub Headings:14\u003cbr\u003eMain/Title Heading:16\u003cbr\u003eText alignment:Justify\u003c/div\u003e",
+      "dueTime": "2021-05-30T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1GA5YIxAhPhV6AUbgAC_7KdlYQssWGri8",
+              "title": "20L-0961_Ammar Ahmed_Assignment 4_Pakistan Studies.docx",
+              "alternateLink": "https://drive.google.com/file/d/1GA5YIxAhPhV6AUbgAC_7KdlYQssWGri8/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNJqh6Euv-haOf-kFnxuVK17NhBNN3c00tDBz5IuQ4bi74wXamQwW18MXo1qEHvOeMcSL_HtYrinaGQgPinX_HZYuunOlKv0huTeMgHttH9T7k\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Tahir Rashid"
+      },
+      "emailAddress": "tahir.rashid@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-20T05:02:39.586Z",
+    "updateTime": "2021-06-06T06:51:07.907Z",
+    "publicationTime": "2021-04-20T05:02:43.419Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment-5-Book Review (Group Assignment)",
+      "description": "Book Review (Group Assignment)\nGuidelines for the Book Reviews: \n1. Read the book carefully\n2. Give a very brief introduction of the author\n3. Write a Summary of the book (Chapter/Thematic)\n4.Give a comprehensive analysis of the book (Your opinion, strengths, gaps, your points of agreement/ disagreement etc)\n5. You can divide the book according to the chapters or themes. Choose it the way it suits you.\n5. Conclusion\n6.References\n7. Once you would submit the review, you would be asked to give presentations\n8. IMPORTANT NOTE: Please avoid plagiarism.We look forward to reading your genuine ideas and piece of writings.\n",
+      "descriptionHtml": "\u003cdiv\u003eBook Review (Group Assignment)\u003cbr\u003eGuidelines for the Book Reviews: \u003cbr\u003e1. Read the book carefully\u003cbr\u003e2. Give a very brief introduction of the author\u003cbr\u003e3. Write a Summary of the book (Chapter/Thematic)\u003cbr\u003e4.Give a comprehensive analysis of the book (Your opinion, strengths, gaps, your points of agreement/ disagreement etc)\u003cbr\u003e5. You can divide the book according to the chapters or themes. Choose it the way it suits you.\u003cbr\u003e5. Conclusion\u003cbr\u003e6.References\u003cbr\u003e7. Once you would submit the review, you would be asked to give presentations\u003cbr\u003e8. IMPORTANT NOTE: Please avoid plagiarism.We look forward to reading your genuine ideas and piece of writings.\u003c/div\u003e",
+      "dueTime": "2021-05-28T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1tvSu61NHQBk5-VtOiUFfSXGr1bpk3hNJ",
+              "title": "The Sole Spokesman(Book Review).docx",
+              "alternateLink": "https://drive.google.com/file/d/1tvSu61NHQBk5-VtOiUFfSXGr1bpk3hNJ/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN3mdPSxkgevpfAiGDsb9ZwpvzYDPs0D8XgCNKaQ_FCCQH2yRmjvkbLltuSUfqbaQ417mW8crzvnlXMXd7-XNt8HkKHx7_mLtKq0tCRhBl9fXQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Tahir Rashid"
+      },
+      "emailAddress": "tahir.rashid@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-20T05:02:22.783Z",
+    "updateTime": "2021-05-19T05:08:05.975Z",
+    "publicationTime": "2021-04-20T05:02:25.669Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment-2",
+      "description": "Research Journal Article Review\n",
+      "descriptionHtml": "\u003cdiv\u003eResearch Journal Article Review\u003c/div\u003e",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 8.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1jafjuqdTmj-aAInd2tl4A8snpc5wUEpA",
+              "title": "20L-0961_Ammar Ahmed_Assignment 2_Pakistan Studies.docx",
+              "alternateLink": "https://drive.google.com/file/d/1jafjuqdTmj-aAInd2tl4A8snpc5wUEpA/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBONvuWXGj9iQladN1_sYY9-wpCpN0TxnhyYvmPK09Pu2fLLcawav1ym4RTT7k8d9wElbzhXifKJS-aSwxSEdmh52VhsZRMEcEuQHwh7JeLkcME\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Tahir Rashid"
+      },
+      "emailAddress": "tahir.rashid@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-06T04:15:56.286Z",
+    "updateTime": "2021-05-17T08:30:01.477Z",
+    "publicationTime": "2021-04-06T04:16:04.312Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Assignment-1",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 6.5,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1gcw-RTpBdWwE-EP2GYc5ehSl0H2RkH9F4up5oGbDg7E",
+              "title": "20L-0961_Ammar Ahmed_Assignment 1",
+              "alternateLink": "https://docs.google.com/document/d/1gcw-RTpBdWwE-EP2GYc5ehSl0H2RkH9F4up5oGbDg7E/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOdeI7T77AX2qQJfq6V9Lc9i0cqCuz3JXGsNMHEJsZ6TSCEQkK1U7fdOIc-QVIgJ31xqlzhn6b_9VDpa0kJAEx5L35dMy4V0_ad3a1m2kAttxhEhFlucJuEJFgo1gx-u9PhM9Q\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

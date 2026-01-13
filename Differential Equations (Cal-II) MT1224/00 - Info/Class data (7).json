@@ -1,0 +1,267 @@
+{
+  "version": 1,
+  "name": "Differential equations (cal-II)",
+  "section": "BDS- 2B",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom172f4b62@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0B6lgnLfMnpqyfkh5RzA2b1ZwbDVqclhUQjd3WUdwbmM2ZTdEdlFQZkxhZ3ZfRUk0TVFiWkE",
+    "name": "Differential equations (cal 2) - BDS- 2B B",
+    "openUrl": "https://drive.google.com/drive/folders/0B6lgnLfMnpqyfkh5RzA2b1ZwbDVqclhUQjd3WUdwbmM2ZTdEdlFQZkxhZ3ZfRUk0TVFiWkE?resourcekey\u003d0-GnBghaRXMapCidj22zqc4w"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_read.jpg",
+  "subject": "Differential equations (CAL 2)",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-06-15T12:51:04.253Z",
+    "updateTime": "2021-06-15T13:01:11.509Z",
+    "publicationTime": "2021-06-15T13:01:11.375Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Final syllabus for differential equation section B",
+      "description": "chapter 10   exercises (10.1  to 10.8)   from thomas calculus book edition 13th\n\n\nbook : differential equations with boundary value problem author zill edition 7th\nchapter 2    exercises (2.2 to 2.5)\nchapter 3    exercise  ( 3.1)\nchapter 4    exercises ( 4.1 to 4.7) and excluding 4.5\nchapter 11  exercises (11.1 \u0026  11.2)\nchapter 12 exercises  ( 12.1, 12.2 , 12.3)\ndo the definitions of heat , wave and laplace equations with their equations derivation in 12.2\n\n\nbest of luck\n\n",
+      "descriptionHtml": "\u003cdiv\u003echapter 10   exercises (10.1  to 10.8)   from thomas calculus book edition 13th\u003cbr\u003e\u003cbr\u003e\u003cbr\u003ebook : differential equations with boundary value problem author zill edition 7th\u003cbr\u003echapter 2    exercises (2.2 to 2.5)\u003cbr\u003echapter 3    exercise  ( 3.1)\u003cbr\u003echapter 4    exercises ( 4.1 to 4.7) and excluding 4.5\u003cbr\u003echapter 11  exercises (11.1 \u0026amp;  11.2)\u003cbr\u003echapter 12 exercises  ( 12.1, 12.2 , 12.3)\u003cbr\u003edo the definitions of heat , wave and laplace equations with their equations derivation in 12.2\u003cbr\u003e\u003cbr\u003e\u003cbr\u003ebest of luck\u003c/div\u003e",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-06-07T06:08:31.280Z",
+    "updateTime": "2021-06-15T12:43:13.212Z",
+    "publicationTime": "2021-06-07T06:09:39.179Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1lEQ5eVWwQS0wGNWHnwTZHxpcI20_FIV8",
+          "alternateLink": "https://drive.google.com/open?id\u003d1lEQ5eVWwQS0wGNWHnwTZHxpcI20_FIV8"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "assignment 5",
+      "description": "chapter 4 \nskip exercise 4.5 \nthis assignment is on 4.6 and 4.7 only",
+      "descriptionHtml": "\u003cdiv\u003echapter 4 \u003cbr\u003eskip exercise 4.5 \u003cbr\u003ethis assignment is on 4.6 and 4.7 only\u003c/div\u003e",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-05-31T06:06:29.234Z",
+    "updateTime": "2021-06-15T12:44:02.273Z",
+    "publicationTime": "2021-06-02T06:05:59.692Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1IatQv3u2R52wD_1lpObqdka04zSVwxWB",
+          "alternateLink": "https://drive.google.com/open?id\u003d1IatQv3u2R52wD_1lpObqdka04zSVwxWB"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "assignment 2 (part b)",
+      "description": "skip exercise 3.2 from this assignment \n\nonly do exercise 3.1",
+      "descriptionHtml": "\u003cdiv\u003eskip exercise 3.2 from this assignment \u003cbr\u003e\u003cbr\u003eonly do exercise 3.1\u003c/div\u003e",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1AnAPVqrIlFnMUOlCSAWtlv029E6iHU95",
+              "alternateLink": "https://drive.google.com/open?id\u003d1AnAPVqrIlFnMUOlCSAWtlv029E6iHU95"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-06-02T04:42:35.918Z",
+    "updateTime": "2021-06-02T06:12:32.024Z",
+    "publicationTime": "2021-06-02T04:43:23.795Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1db9D1DSOSeBP34IQzXdeo4qE5VJCZ7iY",
+          "alternateLink": "https://drive.google.com/open?id\u003d1db9D1DSOSeBP34IQzXdeo4qE5VJCZ7iY"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "assignment 4",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1dnM06lnnBeoI3oLLHxs0fEo1dyxTOtsB",
+              "alternateLink": "https://drive.google.com/open?id\u003d1dnM06lnnBeoI3oLLHxs0fEo1dyxTOtsB"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-05-11T16:07:19.750Z",
+    "updateTime": "2021-05-26T06:09:24.815Z",
+    "publicationTime": "2021-05-11T16:11:53.224Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Ivk40WNqfJLyXWPSe0ZNzxoK0FlVdpiA",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Ivk40WNqfJLyXWPSe0ZNzxoK0FlVdpiA"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "assignment 2 (part - a)",
+      "dueTime": "2021-05-30T18:59:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1K-BMxdJaETvkh9c26WWiX4rLlNqU1dQt",
+              "alternateLink": "https://drive.google.com/open?id\u003d1K-BMxdJaETvkh9c26WWiX4rLlNqU1dQt"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Unknown user"
+      }
+    },
+    "creationTime": "2021-04-08T11:54:39.420Z",
+    "updateTime": "2021-04-28T04:05:44.367Z",
+    "publicationTime": "2021-04-08T11:54:37.931Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Afb2s1tU7LqNWP789K1REj3f6OENKuLo",
+          "alternateLink": "https://drive.google.com/open?id\u003d1Afb2s1tU7LqNWP789K1REj3f6OENKuLo"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignmnent 1",
+      "description": "Submission will be after the paper 29th april.\nBut the questions are included in syllabus for midterm1 of 10.1  to  10.6\n\nThe questions of 10.7  and 10.8 are not included in midterm 1",
+      "descriptionHtml": "\u003cdiv\u003eSubmission will be after the paper 29th april.\u003cbr\u003eBut the questions are included in syllabus for midterm1 of 10.1  to  10.6\u003cbr\u003e\u003cbr\u003eThe questions of 10.7  and 10.8 are not included in midterm 1\u003c/div\u003e",
+      "dueTime": "2021-04-29T18:59:00Z",
+      "maxPoints": 30.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1jIbSy-4Rw9elQg64bpRCHIpJQZ18qUsb",
+              "alternateLink": "https://drive.google.com/open?id\u003d1jIbSy-4Rw9elQg64bpRCHIpJQZ18qUsb"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

@@ -1,0 +1,707 @@
+{
+  "version": 1,
+  "name": "SS152 Communication and Presentation Skills",
+  "section": "BDS-A2",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom4fc62022@group.calendar.google.com",
+  "courseFolder": {
+    "id": "0B6lgnLfMnpqyfkxSODF0TTRHdThpY0UtaXdlbmZGaDdlb0tIeVNWMWRFU1E1ck53WDRlbnc",
+    "name": "SS152 Communication and Presentation Skills BDS-A2",
+    "openUrl": "https://drive.google.com/drive/folders/0B6lgnLfMnpqyfkxSODF0TTRHdThpY0UtaXdlbmZGaDdlb0tIeVNWMWRFU1E1ck53WDRlbnc?resourcekey\u003d0-SwJFzRhyjxZqOVXkUCSvmQ"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_reachout.jpg",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Fasiha Shirwany VF 2024"
+      },
+      "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-19T16:19:50.728Z",
+    "updateTime": "2021-05-20T07:34:28.127Z",
+    "scheduledTime": "2021-05-20T07:30:00Z",
+    "publicationTime": "2021-05-20T07:34:28.024Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1dtcBXS-EDR-vwidea33pShSktpHT9Hqz",
+          "title": "Chapter 9 - Group Communication Activity.docx",
+          "alternateLink": "https://drive.google.com/file/d/1dtcBXS-EDR-vwidea33pShSktpHT9Hqz/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOU7G2o5zlA7fDcCIVMN7dbRTXnRDWV3uuQ1gPIW1NPw3sLQkPNMh229ob3cHYFvNH7egkOOhngZt3XmAoiLMzshoIGIUjMRDvHNXRZzfUZng\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 9 Group Communication Activity",
+      "dueTime": "2021-05-21T12:00:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 11.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "15i8Ggbvq9MFJjA61AWUnls8qFGmXJafACbp2zZY_5Gc",
+              "title": "Ammar Ahmed - Chapter 9 Group Communication Activity",
+              "alternateLink": "https://docs.google.com/document/d/15i8Ggbvq9MFJjA61AWUnls8qFGmXJafACbp2zZY_5Gc/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNcE66dKXCdfL2nE5kNwR9bDIv-OmkbqnYCgYmgJKqXga6aIE678buTlmq4xjn7NcGr6jP0TMagluFRecv9oFoXKuOjA9VlskPgzAbYAuhU5Xo7U4GwOUqqxNRRr0OALuTFU1w\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Fasiha Shirwany VF 2024"
+            },
+            "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-05-26T04:46:53.997Z",
+          "updateTime": "2021-05-26T04:46:53.853Z",
+          "comment": "incomplete",
+          "commentHtml": "\u003cdiv\u003eincomplete\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-05-26T04:51:42.351Z",
+          "updateTime": "2021-05-26T04:51:42.284Z",
+          "comment": "what is left maam ?\n\nIf it is question 2, I will identify the points that we had to answer.",
+          "commentHtml": "\u003cdiv\u003ewhat is left maam ?\u003cbr\u003e\u003cbr\u003eIf it is question 2, I will identify the points that we had to answer.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Fasiha Shirwany VF 2024"
+            },
+            "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-05-26T04:55:45.754Z",
+          "updateTime": "2021-05-26T04:55:45.583Z",
+          "comment": "Please check question#2",
+          "commentHtml": "\u003cdiv\u003ePlease check question#2\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-05-26T05:02:14.256Z",
+          "updateTime": "2021-05-26T05:02:14.188Z",
+          "comment": "updated, points have been identified",
+          "commentHtml": "\u003cdiv\u003eupdated, points have been identified\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fasiha Shirwany VF 2024"
+      },
+      "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-19T16:17:14.218Z",
+    "updateTime": "2021-05-20T07:03:38.404Z",
+    "scheduledTime": "2021-05-20T07:00:00Z",
+    "publicationTime": "2021-05-20T07:03:38.367Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1i0tS0zBpHxOA5DE90_yHg6IARE5yksRA",
+          "title": "Chapter 7-Interpersonal Communication Activity.docx",
+          "alternateLink": "https://drive.google.com/file/d/1i0tS0zBpHxOA5DE90_yHg6IARE5yksRA/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNg26NKe7zvD15Z7DL0WsqRQ7vpZ1G72kexbapPsvs73L7x-ZdJqLmJyLCYvaceEvp9R4XXZmgbZwJiwo68EDHGnm93rT3Ju0XTVI_1kTw71Q\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Chapter 7 Interpersonal Communication Activity",
+      "dueTime": "2021-05-20T08:30:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 13.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1a2hGkSm-_gL5T6ZLfgCtEacSZEdzfKOF8QyLo_wEIF0",
+              "title": "Ammar Ahmed - Chapter 7 Interpersonal Communication Activity",
+              "alternateLink": "https://docs.google.com/document/d/1a2hGkSm-_gL5T6ZLfgCtEacSZEdzfKOF8QyLo_wEIF0/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMOfXZKokJOqht_NfnQ4j2XLxzXDcpJ38xdnU9xEmlSvUvqW_-YxV53hmeLeQKz79dIkKcFjosJyOa9bhzbA2ITBGXVYHrs_vgccYLalpw07_cT7eYwQxMjy73NmGt57IA8yJI\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fasiha Shirwany VF 2024"
+      },
+      "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-19T15:51:32.903Z",
+    "updateTime": "2021-05-20T06:15:21.244Z",
+    "scheduledTime": "2021-05-20T06:15:00Z",
+    "publicationTime": "2021-05-20T06:15:21.111Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf_IbruGQGj8pIcoN4_Jkk-iWYQH6zstQJ7VpIIk3wU3U9hsg/viewform?hr_submission\u003dChkI0qDAq50EEhAI9qXzwLoIEgcImrjqg9wIEAE",
+        "title": "Pop Quiz 5-Chapter 9 (Class Activity)",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/rWyKM1c17nAPfMisjRUzf5cf0sLAPNOiQM58YAQKhfW4urZfCUbUizkPqC7AnMnZnPAtfxHF5X26yTA\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Pop Quiz 5 (Chapter 9 Class Activity)",
+      "dueTime": "2021-05-20T06:30:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf_IbruGQGj8pIcoN4_Jkk-iWYQH6zstQJ7VpIIk3wU3U9hsg/viewscore?viewscore\u003dAE0zAgBgyyn4uw-Bzmz4p4jtkQyXd848IQLXJ7GH7jHjKl108SOkJDtF5M-NJfcp8w",
+              "title": "Pop Quiz 5-Chapter 9 (Class Activity)",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/rWyKM1c17nAPfMisjRUzf5cf0sLAPNOiQM58YAQKhfW4urZfCUbUizkPqC7AnMnZnPAtfxHF5X26yTA\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fasiha Shirwany VF 2024"
+      },
+      "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-05T15:01:55.924Z",
+    "updateTime": "2021-05-06T07:03:35.268Z",
+    "scheduledTime": "2021-05-06T07:00:00Z",
+    "publicationTime": "2021-05-06T07:03:34.712Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1VP8Zc0SCzwRsN5_1kwCrTVuM5hSAXrGE",
+          "title": "Class Activity-Chapter 7.docx",
+          "alternateLink": "https://drive.google.com/file/d/1VP8Zc0SCzwRsN5_1kwCrTVuM5hSAXrGE/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNx-zInDaLUjNO3xS9CMRrTtcT81yqiBBKwMtl4oA2Y20O-GSmB72AgOqctEAN3oMTUtv_cp777zJ2_sYWfqg85VlcwybJDFCqwzTaO_Ai2DA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity- Chapter 7",
+      "dueTime": "2021-05-06T08:00:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1l8q_g8IsAhBNlU-muURV6BYacXcc81-sNEPesKh0Mgs",
+              "title": "Ammar Ahmed - Class Activity- Chapter 7",
+              "alternateLink": "https://docs.google.com/document/d/1l8q_g8IsAhBNlU-muURV6BYacXcc81-sNEPesKh0Mgs/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNdSgzJsmqeJgXlUxiuXW5PS9CIlhCYQwNHyzz4P-5aCqTuClua3nm69XsI7dApXJZG-C7_Ku_i9T-fbuqNxWK0YYupoCUEjsyphWzeWLLj1jy0oRtnJfLcw-HeaAJdS0mLOAc\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fasiha Shirwany VF 2024"
+      },
+      "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-05-05T14:58:48.448Z",
+    "updateTime": "2021-05-06T06:17:49.478Z",
+    "scheduledTime": "2021-05-06T06:15:00Z",
+    "publicationTime": "2021-05-06T06:17:48.918Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdPlEGVxCgBjnTXV6oWhpz_ib7fOgVlq7UXJjTfoQE8dUriNA/viewform?hr_submission\u003dChkI0qDAq50EEhAI_uTPm-EJEgcImrjqg9wIEAE",
+        "title": "Pop Quiz 4-Chapter 7 (Class Activity)",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/uFHkWA8tdu69b6IQMcIKGvlRh0B9DechtG1NaXdEONCDx49E6e40_x8QOaVYTbaFacGKl-3CDqzlcDc\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Pop Quiz 4 (Chapter 7 Class Activity)",
+      "dueTime": "2021-05-06T06:30:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdPlEGVxCgBjnTXV6oWhpz_ib7fOgVlq7UXJjTfoQE8dUriNA/viewscore?viewscore\u003dAE0zAgA50gZdyCuZ3-rnb5MSeqXCFp-xFMpiS8nwrORgIHhc1gOcLrOT1MuKlavalQ",
+              "title": "Pop Quiz 4-Chapter 7 (Class Activity)",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/uFHkWA8tdu69b6IQMcIKGvlRh0B9DechtG1NaXdEONCDx49E6e40_x8QOaVYTbaFacGKl-3CDqzlcDc\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fasiha Shirwany VF 2024"
+      },
+      "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-28T14:54:05.118Z",
+    "updateTime": "2021-04-29T06:15:33.413Z",
+    "scheduledTime": "2021-04-29T06:15:00Z",
+    "publicationTime": "2021-04-29T06:15:33.303Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdlFauaH30RehP1SgS2RyC5pww-UfGKNoDfFFZUtIpMWI_-7A/viewform?hr_submission\u003dChkI0qDAq50EEhAI17-bzcYJEgcImrjqg9wIEAE",
+        "title": "Pop Quiz 3-Chapter 2 (Class Activity)",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/bC0S06KUTaB6x4DmgDuNQgq5CylhGKCBxQxDMxig5N54eCI42aJ9vrx0lhpKc2giYAzmywawXIYBJys\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Pop Quiz 3 (Chapter 2 Class Activity)",
+      "dueTime": "2021-04-29T06:30:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdlFauaH30RehP1SgS2RyC5pww-UfGKNoDfFFZUtIpMWI_-7A/viewscore?viewscore\u003dAE0zAgCdLmmlus6reDosJ_vfFQGqxh5kJEp402tYoS8wYOWpp9NguQh5Kr9mRrWMkQ",
+              "title": "Pop Quiz 3-Chapter 2 (Class Activity)",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/bC0S06KUTaB6x4DmgDuNQgq5CylhGKCBxQxDMxig5N54eCI42aJ9vrx0lhpKc2giYAzmywawXIYBJys\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fasiha Shirwany VF 2024"
+      },
+      "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-21T14:42:24.066Z",
+    "updateTime": "2021-04-22T06:02:13.108Z",
+    "scheduledTime": "2021-04-22T06:00:00Z",
+    "publicationTime": "2021-04-22T06:02:12.553Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1XN__GFKzHVbeXZyQBn90N96P_iW2ZIlB",
+          "title": "Part I   Questions for close encounter.docx",
+          "alternateLink": "https://drive.google.com/file/d/1XN__GFKzHVbeXZyQBn90N96P_iW2ZIlB/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPNZBgRJVCB3cY_R-TVyoohearJWqzgdORWvjoy8Uay3CDF6TM0gZgEwq0HfK9FuKCiufbp31ub9l1F3XPSqifK-GszOAtNYw5rrvA62dQyIA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity (Case study Intercultural Communication)",
+      "description": "After reading Part 1 of the Case Study (Close Encounters of the British Kind), attempt the two questions pertaining to Part 1.\n",
+      "descriptionHtml": "\u003cdiv\u003eAfter reading Part 1 of the Case Study (Close Encounters of the British Kind), attempt the two questions pertaining to Part 1.\u003c/div\u003e",
+      "dueTime": "2021-04-22T09:00:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "13n7OMOvGWRdvn8HepDyF7VzXjNERJN95UkNbl1ZtJDs",
+              "title": "Ammar Ahmed - Class Activity (Case study Intercultural Communication)",
+              "alternateLink": "https://docs.google.com/document/d/13n7OMOvGWRdvn8HepDyF7VzXjNERJN95UkNbl1ZtJDs/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNWvARbu1HRWqnkgKlwZ1_ZiN5JSJv7QwhuNc2NeHOx-2jfV3k_DASS2eiPsCWgmlXlsa2-jETym4RBtO6qaD0M0bRCVjvaRVUBeJraoGQEOtiGVQkDSzJpm-NXbIV3CpSeykE\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-04-22T09:21:21.356Z",
+          "updateTime": "2021-04-22T09:21:21.298Z",
+          "comment": "I have submitted around 3pm as per your instructions given to people who presented late.",
+          "commentHtml": "\u003cdiv\u003eI have submitted around 3pm as per your instructions given to people who presented late.\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fasiha Shirwany VF 2024"
+      },
+      "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-14T16:33:11.822Z",
+    "updateTime": "2021-04-15T07:18:16.625Z",
+    "scheduledTime": "2021-04-15T07:15:00Z",
+    "publicationTime": "2021-04-15T07:18:16.036Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1aCSS5azeQfGYMTNq1Cyv6WC3CM17Zua1",
+          "title": "Case Study-Chapter 3.docx",
+          "alternateLink": "https://drive.google.com/file/d/1aCSS5azeQfGYMTNq1Cyv6WC3CM17Zua1/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM2XH1bFMfObv92boZpMevPZ5Z309iTb8yqlcnr_oUvhBMfkVt4ehJVvgM61h-p1LiKfzetwwLRe8sLDVwGGFMG1K4vk6p6DkmydsR7jdCpeg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Case Study (Chapter 3)",
+      "dueTime": "2021-04-15T08:00:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 11.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1S2jYpTUYLakr0K4kzSWdqwi3AszsY4DxAjE4kuvLG3Q",
+              "title": "Ammar Ahmed - Case Study (Chapter 3)",
+              "alternateLink": "https://docs.google.com/document/d/1S2jYpTUYLakr0K4kzSWdqwi3AszsY4DxAjE4kuvLG3Q/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPeUnFZ6GBBlV1iUV5HzKfwKfHTjWn3iSnFJM7Alz2T6QbVChHpcAdTg37TtUJaCYIsYhW7xCPhHA7z2tD8CpXiclRlPf5UIRk8tjRfnXF66ek_HutSCOXVwg8k5tx_zvcuKuA\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fasiha Shirwany VF 2024"
+      },
+      "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-14T16:26:17.681Z",
+    "updateTime": "2021-04-15T06:17:23.052Z",
+    "scheduledTime": "2021-04-15T06:15:00Z",
+    "publicationTime": "2021-04-15T06:17:22.410Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdWqT28Aw-yz-YEz5RL_BT4dr4us2Su4IXiUtXDFWCTnnahWQ/viewform?hr_submission\u003dChkI0qDAq50EEhAI__6A7JgJEgcImrjqg9wIEAE",
+        "title": "Pop Quiz 2-Chapter 3 (Class Activity)",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/BU4nlsbXsLwkloJEsBjIYY8bHqG9HobBXJdparw8WzuJXzqNJ5HqVfpT1m-bPUTxD2Kcof-fSVBx6lM\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Pop Quiz 2 (Chapter 3 Class Activity)",
+      "dueTime": "2021-04-15T06:30:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdWqT28Aw-yz-YEz5RL_BT4dr4us2Su4IXiUtXDFWCTnnahWQ/viewscore?viewscore\u003dAE0zAgDPAgDU-DkuHHduMQEw1RiM9Y38S_FET66EumfxqPQRl26cK63YNdtzW1N8cA",
+              "title": "Pop Quiz 2-Chapter 3 (Class Activity)",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/BU4nlsbXsLwkloJEsBjIYY8bHqG9HobBXJdparw8WzuJXzqNJ5HqVfpT1m-bPUTxD2Kcof-fSVBx6lM\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fasiha Shirwany VF 2024"
+      },
+      "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-04-07T17:53:36.235Z",
+    "updateTime": "2021-04-08T06:16:05.312Z",
+    "scheduledTime": "2021-04-08T06:15:00Z",
+    "publicationTime": "2021-04-08T06:16:05.204Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScoI0ed2-3jgb_mCfWzAz4VWQ0fbAbFSXHtvsKKF7fvBdRZIg/viewform?hr_submission\u003dChkI0qDAq50EEhAIoYWZ9o8JEgcImrjqg9wIEAE",
+        "title": "Pop Quiz Chapter 7",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/UF_aBpOd9d-KJAbodSD_mMG83AHnXG1lgWKrte6AvH2Fn8Pv1UoTIsyXV3VjzdzQQhTBzqICKRO9D5E\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Pop Quiz (Chapter 6 Class Activity)",
+      "dueTime": "2021-04-08T06:30:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 9.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScoI0ed2-3jgb_mCfWzAz4VWQ0fbAbFSXHtvsKKF7fvBdRZIg/viewscore?viewscore\u003dAE0zAgAz2Tw7N-DU4Q8uKhZOdJYPgHzdLsoiVe6ZK_c6tievtd-q8PjRjSEHjXDZIg",
+              "title": "Pop Quiz Chapter 7",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/UF_aBpOd9d-KJAbodSD_mMG83AHnXG1lgWKrte6AvH2Fn8Pv1UoTIsyXV3VjzdzQQhTBzqICKRO9D5E\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fasiha Shirwany VF 2024"
+      },
+      "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-03-31T17:38:20.330Z",
+    "updateTime": "2021-04-06T06:16:47.017Z",
+    "scheduledTime": "2021-04-01T06:00:00Z",
+    "publicationTime": "2021-04-01T06:00:43.181Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "10ZWgMTYi67_6Iv3HLExzjvAjUTVmdhfX",
+          "title": "Activity for Non-verbal Communication.docx",
+          "alternateLink": "https://drive.google.com/file/d/10ZWgMTYi67_6Iv3HLExzjvAjUTVmdhfX/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOSCoRsRH-wmqdxerlt11Z32fIyP-dbjPKs6VIXONEDJOoBZr28AkYA7P6eNgTA5L8hHXdFhJPnXmtyehQhohVitDRlreM9UNshTkvtb3TPAg\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1B0JyJDMToXufun8ErVR3W4znZ4j0p8YS",
+          "title": "Activity for Verbal Communication.docx",
+          "alternateLink": "https://drive.google.com/file/d/1B0JyJDMToXufun8ErVR3W4znZ4j0p8YS/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOyPqGYyPQpfl5GWFScwg6XsmBv8MNeCj_wLeT4aPs04brgciMzVIH5yCt3a7nFzWiwH5OBjtYRcKcRIUDQogj7L_0NiZtK_0F9wuHHzUbrhA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Class Activity-01-04-2021 ",
+      "dueTime": "2021-04-01T08:00:00Z",
+      "maxPoints": 15.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1kG5eiI4ERSO6HDVAaXNdqWCoRZPQj3kZbjh6EgdfAvM",
+              "title": "Ammar Ahmed VERBAL \u0026 NON-VERBAL MESSAGES - Class Activity-01-04-2021 ",
+              "alternateLink": "https://docs.google.com/document/d/1kG5eiI4ERSO6HDVAaXNdqWCoRZPQj3kZbjh6EgdfAvM/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOWZlDp8tzU-eYs7Qbid0O-QkCxIcMneE-h7gh4VW-ibE4Bp0bgVYdSG0DCfIA7_d6xHxWpGia35YX02BYBSWenSV6knYEaDb4Lree0ldxFc98_7d2Ow29jHEnvUW75ZGrvVU0\u003ds200"
+            }
+          }]
+        },
+        "comments": [{
+          "creator": {
+            "name": {
+              "fullName": "Fasiha Shirwany VF 2024"
+            },
+            "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-04-06T06:22:43.576Z",
+          "updateTime": "2021-04-06T06:22:43.377Z",
+          "comment": "More effort needed",
+          "commentHtml": "\u003cdiv\u003eMore effort needed\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }, {
+          "creator": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          },
+          "creationTime": "2021-04-06T06:29:50.855Z",
+          "updateTime": "2021-04-06T06:29:50.844Z",
+          "comment": "ok maam",
+          "commentHtml": "\u003cdiv\u003eok maam\u003c/div\u003e",
+          "state": "PUBLISHED",
+          "commentVisibility": "PRIVATE"
+        }]
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Fasiha Shirwany VF 2024"
+      },
+      "emailAddress": "fasihashirwany.visiting2024@lhr.nu.edu.pk"
+    },
+    "creationTime": "2021-03-17T17:02:57.764Z",
+    "updateTime": "2021-03-18T06:02:32.917Z",
+    "scheduledTime": "2021-03-18T06:00:00Z",
+    "publicationTime": "2021-03-18T06:02:32.788Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "CLASS ACTIVITY-18-03-2021 (CHAPTER 4)",
+      "description": "Read the case study given on page 64 of the book and explain why the text was interpreted differently by all of them. Submit the class activity before the class ends.",
+      "descriptionHtml": "\u003cdiv\u003eRead the case study given on page 64 of the book and explain why the text was interpreted differently by all of them. Submit the class activity before the class ends.\u003c/div\u003e",
+      "dueTime": "2021-03-18T08:00:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1BgOuMG_4PtZZwGx4mDfr2HbdQmvmKiR-fGm6CETd_QI",
+              "title": "Ammar Ahmed - CLASS ACTIVITY-18-03-2021 (CHAPTER 4)",
+              "alternateLink": "https://docs.google.com/document/d/1BgOuMG_4PtZZwGx4mDfr2HbdQmvmKiR-fGm6CETd_QI/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBMFN05_spMdEPUUuG3skKiKXbiTBZy8e4MwFIWKEf_RUJ2z6w74DRbzdVXPr35ZCa7ZoLJGguY1lJN2scmnQpThOkqF5Bt6G5lxqxJhqUkyq_WZmM_4ZY6MQyu0D1yZfeyPeQo\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

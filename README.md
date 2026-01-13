@@ -45,7 +45,7 @@ To properly clone this repository with all large files:
 git lfs install
 
 # Clone the repository (LFS files will be pulled automatically)
-git clone https://github.com/AmmarAhmedl200961/the-archive.git
+git clone https://github.com/AmmarAhm3d/the-archive.git
 ```
 
 If you've already cloned without LFS, run:

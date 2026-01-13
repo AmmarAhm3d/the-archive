@@ -1,0 +1,277 @@
+{
+  "version": 1,
+  "name": "PDC-BDS-6B",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom4ae6b8bb@group.calendar.google.com",
+  "videoCallUrl": "https://meet.google.com/abx-qyrt-zxf",
+  "courseFolder": {
+    "id": "1p9uwttI81_N8_7R1JG-PrYH3F2io_IpXkvho_-gpQz1RTBBezvYPiB8VOJAEgIWCmFqVUNNN",
+    "name": "PDC-BDS-6B",
+    "openUrl": "https://drive.google.com/drive/folders/1p9uwttI81_N8_7R1JG-PrYH3F2io_IpXkvho_-gpQz1RTBBezvYPiB8VOJAEgIWCmFqVUNNN"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_reachout.jpg",
+  "courseState": "ARCHIVED",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Abu Bakar Saddique BSCS 2020 FAST NU LHR"
+      },
+      "emailAddress": "l201238@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-05-04T15:38:51.680Z",
+    "updateTime": "2024-05-12T13:39:09.012Z",
+    "publicationTime": "2024-05-04T15:42:06.357Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1FAnqCpI9YbnAjL4qrdUsYBPTP9CBfptH",
+          "title": "DS-6B A3 (1).pdf",
+          "alternateLink": "https://drive.google.com/file/d/1FAnqCpI9YbnAjL4qrdUsYBPTP9CBfptH/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPXIUL93qiAiZV0cAz54OcaNrLN9oQttySX1KfbTPljuA6jMV4W4BppOW7Q2O2HK2esDcHysbm05Rs7lWruIxqVSONl5RH5eBkHThUqoV1RSrc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 4",
+      "description": "There would be No Extensions in due date.\nStraight 0 in case of Cheating and no Submissions.\nAssignment should be done hand written.",
+      "descriptionHtml": "\u003cdiv\u003eThere would be \u003cb\u003eNo Extensions\u003c/b\u003e in due date.\u003cbr\u003e\u003cb\u003eStraight 0\u003c/b\u003e in case of Cheating and no Submissions.\u003cbr\u003eAssignment should be done hand written.\u003c/div\u003e",
+      "dueTime": "2024-05-13T18:59:00Z",
+      "maxPoints": 75.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 73.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1-p_yQqdGUzUhVmsQZqDWNxBH3QbfU2aG",
+              "title": "20L-0961Assignment4.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1-p_yQqdGUzUhVmsQZqDWNxBH3QbfU2aG/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNZAkFW-Lh7Gc7sDSWZ_SAHLdiFBnoqk-QH44brEe9dVSKeFwOUV1b1zi_mKGRcjH9dWJ1lufps5ITeMczxE71eKGUKFSpLykJvJRSDVegXgJE\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abu Bakar Saddique BSCS 2020 FAST NU LHR"
+      },
+      "emailAddress": "l201238@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-05-03T07:48:57.539Z",
+    "updateTime": "2024-05-14T14:35:29.128Z",
+    "publicationTime": "2024-05-03T07:50:23.758Z",
+    "state": "PUBLISHED",
+    "courseWork": {
+      "title": "Even Odd Sorting",
+      "description": "Submit the code from class slide",
+      "descriptionHtml": "\u003cdiv\u003eSubmit the code from class slide\u003c/div\u003e",
+      "dueTime": "2024-05-04T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 10.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1KC_SRkOacNUgyXkLL30VrktnS2dv8ZrY",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1KC_SRkOacNUgyXkLL30VrktnS2dv8ZrY/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abu Bakar Saddique BSCS 2020 FAST NU LHR"
+      },
+      "emailAddress": "l201238@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-04-21T14:12:11.117Z",
+    "updateTime": "2024-04-28T12:55:14.157Z",
+    "publicationTime": "2024-04-21T14:12:54.296Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "18BFHMw51hN09tF_AFQWfI5AoqvKkabvY",
+          "title": "Assignment - 3.pdf",
+          "alternateLink": "https://drive.google.com/file/d/18BFHMw51hN09tF_AFQWfI5AoqvKkabvY/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNmiJsrqNTxzbjCm38mqs4pHDw3mjR4teC-w-YyYDh8PTZAN27TLFDk3HVDspkcZo6G1hYMhwSUbcnDvoQOc50zvYSLT3jOx6PkuzCVzOZOSjY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 3",
+      "dueTime": "2024-05-01T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1e0ePKsbxiW2-dxUcE7po9JYNb3wCGHN5",
+              "title": "l200961.zip",
+              "alternateLink": "https://drive.google.com/file/d/1e0ePKsbxiW2-dxUcE7po9JYNb3wCGHN5/view?usp\u003ddrive_web"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abu Bakar Saddique BSCS 2020 FAST NU LHR"
+      },
+      "emailAddress": "l201238@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-03-24T10:29:22.699Z",
+    "updateTime": "2024-04-15T07:30:16.302Z",
+    "publicationTime": "2024-03-24T10:30:54.718Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1TiEdg14PABSTvKuLUU23TGnAVcq5LAva",
+          "title": "Assignment - 2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1TiEdg14PABSTvKuLUU23TGnAVcq5LAva/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMBUyD4YJmqQRcmKhXRjVwrOipoMZBk1Ns1etpuRD31sAoExwTpDNssrcAphwrOBMcncNncJ8t9dXkJTY3V8vHuCbdabsmWLJ5k4X1lW_MUU-w\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 2",
+      "dueTime": "2024-04-05T18:59:00Z",
+      "maxPoints": 50.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "assignedGrade": 45.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1bvM5twnpCBhZe21h_81fFN78Sgg5y42k",
+              "title": "20L-0961Assignment2.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1bvM5twnpCBhZe21h_81fFN78Sgg5y42k/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOGin2ZKta9YvzpU05rahCsYFY6496bBM8Wyg79hBqaQpYoMtu-hKj1OJtPuSvkknbxUu9gyVBZQJK4MIY1kt4ZPOb_i1UKK5kgq7V8vb8EM2M\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Abu Bakar Saddique BSCS 2020 FAST NU LHR"
+      },
+      "emailAddress": "l201238@lhr.nu.edu.pk"
+    },
+    "creationTime": "2024-03-09T18:41:41.982Z",
+    "updateTime": "2024-03-23T18:07:39.397Z",
+    "publicationTime": "2024-03-09T18:45:31.543Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1_RXHr51dyH0V-E1mFWlPvKtstyyfftSy",
+          "title": "DS-6B.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1_RXHr51dyH0V-E1mFWlPvKtstyyfftSy/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMFs5l6Z2CBKVzHXAWpZ5EXwiYN8zAlftxeUkv2sOdsw8nfoS21AydTVH88V8um7u3J8Teh4O2rz4Nlae-NhFdQPOjq9AIQPKqckxg8nvvrIEA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1pLK4W7qgMGbRwtkdztxGNVBNSXHSJPSa",
+          "title": "A1_sol.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1pLK4W7qgMGbRwtkdztxGNVBNSXHSJPSa/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBODicfH5xSx4m-_8Rj8litj9CioquUBlBjZOc6QbpS1WhzmNkw_XYatP0qAkK8pMUEaAtUU2l44UCD3e9pX0EyxN8pRFF41kRSA56kPh3JuUeY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment 1",
+      "description": "Note:\n1) Plagiarism will result as straight 0\n2) No submission will result as 0 marks\n3) No evaluation will result as 0 marks\n4) Submit only 1 PDF file, other then code files",
+      "descriptionHtml": "\u003cdiv\u003eNote:\u003cbr\u003e1) Plagiarism will result as straight 0\u003cbr\u003e2) No submission will result as 0 marks\u003cbr\u003e3) No evaluation will result as 0 marks\u003cbr\u003e4) Submit only 1 PDF file, other then code files\u003c/div\u003e",
+      "dueTime": "2024-03-16T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1ASTOsPoFtWE_HMTy8Ie-FHdE_78o8mpj",
+              "title": "main.c",
+              "alternateLink": "https://drive.google.com/file/d/1ASTOsPoFtWE_HMTy8Ie-FHdE_78o8mpj/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOakaXfR6szYfFDZWyVlW8j2yHvwG8CpInZO7A3C2_GWL7mTmDzeJkq94FXwcFkq8f9wRsJkIEw7KLAZX-WPOMoDcgN6Q-X-1nqv8P6201-R0Y\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1QlXh7iWLC-L25_yG3SzW-d6rTRJdx1ZM",
+              "title": "20L-0961 Assignment 1 PDC DS-6B.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1QlXh7iWLC-L25_yG3SzW-d6rTRJdx1ZM/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPNNLJQHFbXF66bvILWJZ4dUvLvfsWyEi_xCUAb6BsXE2qNpQ_nWpHQtKwZo6v6OPeq7kJzjfAzJ5VxetqIc_RaqWI18Z_AsOn_iR6svt6yOSE\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}

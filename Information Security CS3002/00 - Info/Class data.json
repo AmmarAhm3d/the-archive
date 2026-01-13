@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "name": "IS BSDS",
+  "section": "7B",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroome80a29b2@group.calendar.google.com",
+  "courseFolder": {
+    "id": "153niYmT_19NZFv6vy98JRQ9XeZUWGUI46Z0SusVpEtxVfvbfwZpLXW1pJpUWFl7lg_UB9nJg",
+    "name": "IS BSDS 7B",
+    "openUrl": "https://drive.google.com/drive/folders/153niYmT_19NZFv6vy98JRQ9XeZUWGUI46Z0SusVpEtxVfvbfwZpLXW1pJpUWFl7lg_UB9nJg"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/img_reachout.jpg",
+  "subject": "IS",
+  "courseState": "ACTIVE",
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Nosheen Manzoor"
+      },
+      "emailAddress": "nosheen.manzoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-10-27T07:24:36.850Z",
+    "updateTime": "2025-10-30T07:59:06.989Z",
+    "publicationTime": "2025-10-27T07:25:04.184Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1hXKvRAMAVUaLe5C6aLJ_mex9nKEiWVkv",
+          "title": "Project Instructions_7B.docx",
+          "alternateLink": "https://drive.google.com/file/d/1hXKvRAMAVUaLe5C6aLJ_mex9nKEiWVkv/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPaoGzgmDukSD3YAOV_nqlPOMiixDoRmSxKwwkn3u6D2cDdg0pEcgL0MXLxHB2KeabZA-orkf4t4pJuKN8sppBMdgUk89bK1_ylZYBQmNGT0VQ\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Project Proposal",
+      "dueTime": "2025-11-08T18:59:00Z",
+      "maxPoints": 10.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1hAylkn9jS7UZaZqTsgcoA2wKfXvVgjfr",
+              "title": "Facial Security Proposal.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1hAylkn9jS7UZaZqTsgcoA2wKfXvVgjfr/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPPOa7qsFUcLjMAZMNc0juNvJ_M-12LG5uSrbuvOIHfB-o0T-pZMNWU8etd8yxvq5r8SpXaLcSjiDqbcGylcwuhPZRZGGNBQTPfmYKmqmQNW7E\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nosheen Manzoor"
+      },
+      "emailAddress": "nosheen.manzoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-10-27T07:19:59.628Z",
+    "updateTime": "2025-10-31T05:04:28.882Z",
+    "publicationTime": "2025-10-27T07:21:03.964Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1UrHGl39f885L_3Boc-5vLIokzjsi1a1G",
+          "title": "Assignment_2 -.docx",
+          "alternateLink": "https://drive.google.com/file/d/1UrHGl39f885L_3Boc-5vLIokzjsi1a1G/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBONTU2VYYk7kfftdNHT3TgGJZy2-PmtNB2N8G77IizaEVA1vLMJ0RvS5RwrALI83pTvVLdDebv2XQgcAgNFt1QK3hd3RPVWUSS1YgWLKkaiQ6o\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment#2",
+      "dueTime": "2025-11-07T18:59:00Z",
+      "maxPoints": 70.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1OpVztItVyW4R-MXPbVxMwnA765q-ozeL",
+              "title": "20L-0961 A2 IS.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1OpVztItVyW4R-MXPbVxMwnA765q-ozeL/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNZUQYKm7E0321KR_qBbYhfFNQSLH7Z6eQ_CafEZEDtK1XjV18EbxmgtHISUilw1rDUBZsZIIdcFrB4CCBN-M3a4SJqgJAZ1uE8zp8Cxs3t1DQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Nosheen Manzoor"
+      },
+      "emailAddress": "nosheen.manzoor@lhr.nu.edu.pk"
+    },
+    "creationTime": "2025-09-15T07:48:43.485Z",
+    "updateTime": "2025-09-22T07:09:51.749Z",
+    "publicationTime": "2025-09-15T07:49:26.340Z",
+    "state": "PUBLISHED",
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1gVk4Dk2vBvBAQuoKZVKH5l10VwFRs7C1",
+          "title": "Assignment#1.docx",
+          "alternateLink": "https://drive.google.com/file/d/1gVk4Dk2vBvBAQuoKZVKH5l10VwFRs7C1/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN-L_6rOSDiJ3HIz5-OQVlt9SsFdyHHfFmHKMYcDD1piX2x2BHsBT-pFflNByiw-62lEVPbmji7SXV22GijLXWUM-QeH14l8lxhzY8hldUEpYs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "Assignment#1",
+      "dueTime": "2025-09-26T18:59:00Z",
+      "maxPoints": 100.0,
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "Ammar Ahmed BSDS 2020 FAST NU LHR"
+            },
+            "emailAddress": "l200961@lhr.nu.edu.pk"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1Wo1aku2kvmBwWJVze3AObN6UKjzqE_x0",
+              "title": "20L-0961A1IS.pdf",
+              "alternateLink": "https://drive.google.com/file/d/1Wo1aku2kvmBwWJVze3AObN6UKjzqE_x0/view?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNTt5sMm6oP5NmKkNqMLTO0FVgW5MNmKMm_ZGIh0sS7I8Hmoxt0rryzS_D-hdc1Hxw43Z_lD6rdOc1cmTvRXunVsRA3b0-N2QfEfmhyS8-8bl0\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}
